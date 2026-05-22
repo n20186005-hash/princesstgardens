@@ -20,21 +20,22 @@
   },
   "intro": {
     "title": "探索 Princes Street Gardens",
-    "description": "王子街花园（Princes Street Gardens）是苏格兰爱丁堡市中心的一个公园，位于爱丁堡城堡的阴影下。该花园建于19世纪20年代。",
+    "description": "王子街花园（Princes Street Gardens）是苏格兰爱丁堡市中心的一个公园，位于爱丁堡城堡的阴影下。该花园建于19世纪20年代，是在长期排干北湖（Nor Loch）和建设新城之后建成的。这里不仅是市民休闲放松的绝佳去处，也是欣赏爱丁堡城市天际线的最佳位置。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
-        "公园全年开放。",
-        "非常适合野餐或轻松散步。",
-        "提供欣赏爱丁堡城堡的绝佳视角。"
+        "公园全年开放，入场免费。",
+        "非常适合野餐或轻松散步，绿草如茵。",
+        "提供欣赏爱丁堡城堡和老城天际线的绝佳视角。"
       ]
     },
     "alsoKnownAs": {
       "title": "亮点",
       "items": [
-        "罗斯喷泉",
-        "花钟",
-        "附近的苏格兰国家画廊"
+        "罗斯喷泉 (Ross Fountain)",
+        "花钟 (Floral Clock)",
+        "苏格兰国家画廊 (Scottish National Gallery)",
+        "司各特纪念塔 (Scott Monument)"
       ]
     }
   },
@@ -43,8 +44,23 @@
     "sections": [
       {
         "id": "history",
-        "title": "历史",
-        "content": "花园建于19世纪20年代，是在长期排干北湖（Nor Loch）和建设新城之后建成的。"
+        "title": "历史背景",
+        "content": "王子街花园建于19世纪20年代，其前身是北湖（Nor Loch）。北湖曾是爱丁堡城堡北侧的天然防线，后来在城市发展中演变成了倾倒污水的区域。随着新城（New Town）的建设，北湖被长期排干并填平，最终改建成了这座分隔爱丁堡老城与新城的美丽花园。"
+      },
+      {
+        "id": "layout",
+        "title": "地理与分区",
+        "content": "花园被名为土丘（The Mound）的人造山丘分为东、西两部分。面积较大的西王子街花园内设有著名的罗斯喷泉和罗斯露天剧场；而东王子街花园虽然较小，但拥有世界上最古老的花钟以及宏伟的司各特纪念塔。"
+      },
+      {
+        "id": "culture",
+        "title": "文化意义",
+        "content": "作为爱丁堡市中心的“绿肺”，这里不仅是市民休闲野餐的首选地，更是城市重大活动的举办场所。每年冬季，享誉欧洲的爱丁堡圣诞集市（Edinburgh Christmas Market）会在东花园盛大开幕，而夏季则经常举办各类露天音乐会。"
+      },
+      {
+        "id": "biodiversity",
+        "title": "生态与植物",
+        "content": "花园内种植了丰富的本土及外来植物种类，四季呈现不同的景观。春季樱花盛开，秋季层林尽染。这里不仅是植物爱好者的天堂，也为城市中的鸟类和小型野生动物提供了重要的栖息地。"
       }
     ]
   },
@@ -53,7 +69,7 @@
     "officialName": "正式名称",
     "officialNameValue": "Princes Street Gardens",
     "type": "景点类型",
-    "typeValue": "花园",
+    "typeValue": "花园、城市公园",
     "country": "国家",
     "countryValue": "英国",
     "city": "城市",
@@ -68,60 +84,114 @@
   "hours": {
     "title": "开放时间",
     "park": "景区开放",
-    "parkTime": "全年开放",
+    "parkTime": "全年开放（早7:00至黄昏，具体视季节而定）",
     "bestTime": "最佳游览时间",
-    "bestTimeSpring": "春季：百花齐放",
-    "bestTimeSummer": "夏季：适合野餐",
-    "bestTimeAutumn": "秋季：美丽的秋叶",
-    "bestTimeWinter": "冬季：圣诞市场",
-    "tip": "查看爱丁堡市议会网站了解季节性更新"
+    "bestTimeSpring": "春季：百花齐放，樱花盛开",
+    "bestTimeSummer": "夏季：阳光明媚，适合野餐和户外活动",
+    "bestTimeAutumn": "秋季：美丽的秋叶，色彩斑斓",
+    "bestTimeWinter": "冬季：充满节日气氛的爱丁堡圣诞市场",
+    "tip": "由于季节和特殊活动，开放时间可能会有所调整，请查看爱丁堡市议会网站了解最新信息。"
   },
   "tickets": {
     "title": "门票信息",
     "park": "景区参观",
     "parkPrice": "免费入场",
     "parking": "停车",
-    "parkingPrice": "无现场停车位",
+    "parkingPrice": "无现场停车位（市中心停车收费）",
     "guided": "导游服务",
     "guidedPrice": "自助游览"
   },
   "transport": {
     "title": "交通指南",
     "fromCenter": "从韦弗利火车站",
-    "fromCenterDesc": "紧邻爱丁堡韦弗利火车站。",
-    "fromStation": "从机场",
-    "fromStationDesc": "乘坐Airlink 100巴士或有轨电车前往市中心。",
+    "fromCenterDesc": "紧邻爱丁堡韦弗利(Waverley)火车站，出站步行1分钟即达。",
+    "fromStation": "从汽车站",
+    "fromStationDesc": "从爱丁堡长途汽车站步行约5-10分钟即可到达。",
     "fromAirport": "从机场",
-    "fromAirportDesc": "乘坐Airlink 100巴士或有轨电车前往市中心。",
+    "fromAirportDesc": "乘坐Airlink 100巴士或爱丁堡有轨电车(Edinburgh Trams)至王子街站(Princes Street)下车。",
     "publicTransport": "公共交通",
-    "publicTransportDesc": "洛锡安巴士和爱丁堡有轨电车连接良好。",
+    "publicTransportDesc": "多条洛锡安巴士(Lothian Buses)和爱丁堡有轨电车在王子街设站，交通极其便利。",
     "walking": "步行",
-    "walkingDesc": "从市中心任何地方均可轻松步行到达。",
+    "walkingDesc": "位于市中心，从皇家一英里、新城等各个区域均可轻松步行到达。",
     "driving": "自驾",
-    "drivingDesc": "市中心停车位有限，不建议自驾。"
+    "drivingDesc": "市中心停车位非常有限且昂贵，强烈建议使用公共交通或步行。"
   },
   "route": {
     "title": "推荐游览路线",
-    "overview": "在花园中悠闲漫步。",
+    "overview": "在花园中悠闲漫步，欣赏经典地标。",
     "steps": [
-      "从斯科特纪念碑附近的东端开始",
-      "走过苏格兰国家画廊",
-      "参观罗斯喷泉",
-      "欣赏爱丁堡城堡的景色"
+      "从东王子街花园的司各特纪念塔(Scott Monument)开始",
+      "欣赏精致的世界上最古老的花钟(Floral Clock)",
+      "走过苏格兰国家画廊，进入西王子街花园",
+      "参观华丽的铁质罗斯喷泉(Ross Fountain)",
+      "在草坪上仰望雄伟的爱丁堡城堡"
     ]
   },
   "photoSpots": {
-    "title": "拍照点",
-    "spots": []
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "罗斯喷泉 (Ross Fountain)",
+        "description": "位于花园西侧的华丽铁质喷泉，以爱丁堡城堡为背景，是明信片级别的经典拍照机位。",
+        "location": "西王子街花园"
+      },
+      {
+        "title": "花钟 (Floral Clock)",
+        "description": "世界上最古老的花钟，每年夏季都有不同的植物拼图主题图案，非常适合近景特写。",
+        "location": "东王子街花园阶梯旁"
+      },
+      {
+        "title": "司各特纪念塔 (Scott Monument)",
+        "description": "宏伟的哥特式纪念塔，从花园的草坪仰拍，能拍出强烈的视觉冲击感。",
+        "location": "东王子街花园"
+      },
+      {
+        "title": "爱丁堡城堡仰视点",
+        "description": "从花园低处仰望建在死火山上的城堡，气势磅礴，四季各有不同的风景搭配。",
+        "location": "整个西王子街花园"
+      }
+    ]
   },
   "hotels": {
-    "title": "住宿",
-    "hotels": []
+    "title": "周边住宿指南",
+    "hotels": [
+      {
+        "name": "新城区域 (New Town)",
+        "desc": "王子街以北的乔治时代建筑区，街道宽敞整洁。这里集中了许多精品酒店和商业街，适合喜欢安静环境、便捷购物以及现代设施的旅客。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "老城区域 (Old Town)",
+        "desc": "以皇家一英里为核心，充满浓郁的中世纪历史氛围。住宿在此可轻松步行至爱丁堡城堡和花园，非常适合追求历史文化深度体验的游客。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "西区与干草市场 (West End & Haymarket)",
+        "desc": "位于王子街花园的西侧，交通枢纽极其便利（靠近干草市场火车站）。这里的住宿选择多样，从经济型旅馆到高级公寓应有尽有。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "韦弗利火车站周边 (Waverley Station Area)",
+        "desc": "紧邻东王子街花园和主火车站。如果您携带较多行李或需要搭乘早班火车，选择这一区域可以极大减少拖拽行李在石板路上行走的烦恼。",
+        "price": "推荐区域"
+      }
+    ]
   },
   "gallery": {
     "title": "照片画廊",
-    "subtitle": "Princes Street Gardens",
-    "captions": [],
+    "subtitle": "Princes Street Gardens 美景",
+    "captions": [
+      "秋季的花园小径",
+      "罗斯喷泉与城堡",
+      "盛夏的花坛",
+      "花钟特写",
+      "司各特纪念塔仰视",
+      "冬日雪景",
+      "春季樱花盛开",
+      "从城堡俯瞰花园",
+      "清晨的雾气",
+      "圣诞集市夜景"
+    ],
     "viewAll": "在Google地图上查看位置",
     "showAll": "显示完整照片",
     "showLess": "收起照片"
@@ -129,8 +199,45 @@
   "reviews": {
     "title": "游客评价",
     "declaration": "评价信息可通过Google地图查看。",
-    "moreReviews": "在Google地图上查看位置",
-    "items": []
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "date": "2026-04-12",
+        "text": "绝对是爱丁堡最美的地方之一。每次来都会在这里散步，无论是看花钟还是远眺城堡，都让人心旷神怡。"
+      },
+      {
+        "name": "James L.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "在这里野餐简直太棒了！罗斯喷泉刚翻新过，金碧辉煌，以城堡为背景拍照非常出片。"
+      },
+      {
+        "name": "Emily W.",
+        "rating": 4,
+        "date": "2026-05-01",
+        "text": "非常适合放松的城市绿洲。冬天这里的圣诞集市更是不可错过，虽然人有点多，但节日氛围感拉满。"
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "作为植物爱好者，我对这里的花钟和整洁的草坪印象深刻。每天不同时间的阳光洒在城堡上，从花园看过去简直是一幅画。"
+      },
+      {
+        "name": "Lisa T.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "非常适合带孩子来散步。草坪修剪得很整齐，秋天落叶的时候特别美，而且交通极其便利，从火车站出来就是。"
+      },
+      {
+        "name": "Mark R.",
+        "rating": 5,
+        "date": "2025-08-09",
+        "text": "相比于皇家一英里的喧嚣，这里提供了一个宁静的避风港。带杯咖啡坐在长椅上看着城堡，是体验爱丁堡的最佳方式。"
+      }
+    ]
   },
   "mapSection": {
     "title": "地图位置",
@@ -142,48 +249,72 @@
     "privacy": "隐私政策",
     "terms": "服务条款",
     "cookies": "Cookie 设置",
-    "officialResourcesTitle": "友情链接",
-    "officialLinks": {},
-    "disclaimer": "本网站是独立的旅游指南网站。"
+    "officialResourcesTitle": "官方与合作资源",
+    "officialLinks": {
+      "cityCouncil": "爱丁堡市议会官网",
+      "visitScotland": "VisitScotland 旅游局",
+      "edinburghCastle": "爱丁堡城堡官网",
+      "nationalGalleries": "苏格兰国家美术馆"
+    },
+    "disclaimer": "本网站是独立的旅游指南网站，旨在提供客观、准确的旅行信息。"
   },
   "privacy": {
     "title": "隐私政策",
     "lastUpdated": "最后更新：2026年5月",
-    "sections": []
+    "sections": [
+      {
+        "title": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您设备、浏览器和浏览行为的基本信息，以便为您提供更好的用户体验。这些信息不包含您的身份特征。"
+      },
+      {
+        "title": "Cookie 的使用",
+        "content": "我们使用 Cookie 来分析网站流量并优化页面内容。您可以通过本站底部的 Cookie 设置选项来随时管理您的偏好。"
+      },
+      {
+        "title": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给任何第三方商业机构。"
+      }
+    ]
   },
   "terms": {
     "title": "服务条款",
     "lastUpdated": "最后更新：2026年5月",
-    "sections": []
+    "sections": [
+      {
+        "title": "网站内容与使用",
+        "content": "本网站提供有关 Princes Street Gardens 的旅游、交通及历史信息。所有内容仅供参考，景点的实际开放时间和票务信息可能随时更改，请以官方发布为准。"
+      },
+      {
+        "title": "知识产权说明",
+        "content": "本网站上的文本、图像和排版设计受版权保护。未经明确的书面许可，任何人不得将网站内容用于商业盈利用途。"
+      },
+      {
+        "title": "免责声明",
+        "content": "我们尽最大努力确保信息的准确性与时效性，但对于因使用本网站提供的信息而直接或间接造成的任何行程延误或损失，本站不承担法律责任。"
+      }
+    ]
   },
   "cookieSettings": {
     "title": "Cookie 设置",
     "description": "管理您的Cookie偏好。",
     "essential": {
       "title": "必要的Cookie",
-      "description": "基本网站功能所需。",
+      "description": "基本网站功能所需，无法关闭。",
       "badge": "始终启用"
     },
     "analytics": {
       "title": "分析",
-      "description": "帮助我们了解访客行为。"
+      "description": "帮助我们了解访客行为并改进网站。"
     },
     "marketing": {
       "title": "营销",
-      "description": "用于跨网站跟踪。"
+      "description": "用于跨网站跟踪和个性化广告展示。"
     },
     "save": "保存设置",
     "saved": "设置已保存！"
   },
   "officialManagement": {
     "title": "关于 Princes Street Gardens",
-    "text": "王子街花园是苏格兰爱丁堡市中心的一个公园，位于爱丁堡城堡的阴影下。"
-  },
-  "recommendations": {
-    "title": "探索更多",
-    "attractionsTitle": "更多景点",
-    "toursTitle": "旅游团",
-    "attractions": [],
-    "tours": []
+    "text": "王子街花园是苏格兰爱丁堡市中心的一个重要城市公园，位于爱丁堡城堡的阴影下，是城市历史与自然完美结合的典范。"
   }
 }

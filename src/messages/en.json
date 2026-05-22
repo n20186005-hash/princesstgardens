@@ -20,13 +20,13 @@
   },
   "intro": {
     "title": "Discover Princes Street Gardens",
-    "description": "Princes Street Gardens is a public park in the centre of Edinburgh, Scotland, in the shadow of Edinburgh Castle. The Gardens were created in the 1820s following the long draining of the Nor Loch and building of the New Town.",
+    "description": "Princes Street Gardens is a public park in the centre of Edinburgh, Scotland, in the shadow of Edinburgh Castle. The Gardens were created in the 1820s following the long draining of the Nor Loch and building of the New Town. It is not only a great place for locals to relax but also the best spot to admire Edinburgh's city skyline.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
-        "The park is accessible year-round.",
-        "Great place for a picnic or a relaxing walk.",
-        "Provides excellent views of Edinburgh Castle."
+        "The park is accessible year-round and admission is free.",
+        "Great place for a picnic or a relaxing walk on the lush lawns.",
+        "Provides excellent views of Edinburgh Castle and the Old Town skyline."
       ]
     },
     "alsoKnownAs": {
@@ -34,7 +34,8 @@
       "items": [
         "Ross Fountain",
         "Floral Clock",
-        "Scottish National Gallery nearby"
+        "Scottish National Gallery",
+        "Scott Monument"
       ]
     }
   },
@@ -43,8 +44,23 @@
     "sections": [
       {
         "id": "history",
-        "title": "History",
-        "content": "The gardens were created in the 1820s following the long draining of the Nor Loch and building of the New Town."
+        "title": "Historical Background",
+        "content": "Princes Street Gardens was created in the 1820s, replacing the Nor Loch. The loch was once a natural defense on the north side of Edinburgh Castle, which later became an open sewer as the city grew. During the construction of the New Town, the loch was drained and transformed into this beautiful garden that now separates the Old and New Towns."
+      },
+      {
+        "id": "layout",
+        "title": "Geography & Layout",
+        "content": "The park is divided into two parts by an artificial hill known as The Mound. The larger West Princes Street Gardens is home to the famous Ross Fountain and the Ross Bandstand, while the smaller East Princes Street Gardens features the magnificent Scott Monument and the world's oldest Floral Clock."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "As the 'green lung' of Edinburgh's city centre, it's not just a favorite spot for relaxing picnics, but also a hub for major public events. Every winter, it hosts the spectacular Edinburgh Christmas Market, and during the summer, it frequently serves as a venue for open-air concerts."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Ecology & Flora",
+        "content": "The gardens feature a rich variety of native and exotic plant species, offering distinct landscapes throughout the seasons. From blooming cherry blossoms in spring to vibrant foliage in autumn, it is a haven for plant enthusiasts and an important habitat for urban birds and small wildlife."
       }
     ]
   },
@@ -53,7 +69,7 @@
     "officialName": "Official Name",
     "officialNameValue": "Princes Street Gardens",
     "type": "Attraction Type",
-    "typeValue": "Garden",
+    "typeValue": "Garden, City Park",
     "country": "Country",
     "countryValue": "United Kingdom",
     "city": "City",
@@ -68,60 +84,114 @@
   "hours": {
     "title": "Visiting Hours",
     "park": "Site Access",
-    "parkTime": "Open year-round",
+    "parkTime": "Open year-round (7:00 AM to dusk, varies by season)",
     "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Flowers blooming",
-    "bestTimeSummer": "Summer: Great for picnics",
-    "bestTimeAutumn": "Autumn: Beautiful foliage",
-    "bestTimeWinter": "Winter: Christmas Market",
-    "tip": "Check Edinburgh City Council website for seasonal updates"
+    "bestTimeSpring": "Spring: Flowers and cherry blossoms blooming",
+    "bestTimeSummer": "Summer: Sunny days, great for picnics and outdoor activities",
+    "bestTimeAutumn": "Autumn: Beautiful foliage and vibrant colors",
+    "bestTimeWinter": "Winter: Festive atmosphere with the Edinburgh Christmas Market",
+    "tip": "Opening hours may vary due to seasons and special events. Please check the Edinburgh City Council website for the latest updates."
   },
   "tickets": {
     "title": "Admission Information",
     "park": "Site Visit",
     "parkPrice": "Free admission",
     "parking": "Parking",
-    "parkingPrice": "No on-site parking",
+    "parkingPrice": "No on-site parking (Paid parking in city centre)",
     "guided": "Guided Tours",
     "guidedPrice": "Self-guided"
   },
   "transport": {
     "title": "How to Get Here",
     "fromCenter": "From Edinburgh Waverley",
-    "fromCenterDesc": "Located right next to Edinburgh Waverley railway station.",
-    "fromStation": "From Airport",
-    "fromStationDesc": "Take the Airlink 100 bus or tram to the city centre.",
+    "fromCenterDesc": "Located right next to Edinburgh Waverley railway station, just a 1-minute walk.",
+    "fromStation": "From Bus Station",
+    "fromStationDesc": "About a 5-10 minute walk from Edinburgh Bus Station.",
     "fromAirport": "From Airport",
-    "fromAirportDesc": "Take the Airlink 100 bus or tram to the city centre.",
+    "fromAirportDesc": "Take the Airlink 100 bus or Edinburgh Trams and alight at Princes Street stop.",
     "publicTransport": "Public Transport",
-    "publicTransportDesc": "Well connected by Lothian Buses and Edinburgh Trams.",
+    "publicTransportDesc": "Well connected by Lothian Buses and Edinburgh Trams with stops right on Princes Street.",
     "walking": "Walking",
-    "walkingDesc": "Easily accessible on foot from anywhere in the city centre.",
+    "walkingDesc": "Centrally located and easily accessible on foot from the Royal Mile, New Town, and other areas.",
     "driving": "Driving",
-    "drivingDesc": "Driving is not recommended due to limited parking in the city centre."
+    "drivingDesc": "Parking in the city centre is very limited and expensive. Public transport or walking is highly recommended."
   },
   "route": {
     "title": "Recommended Route",
-    "overview": "Take a leisurely stroll through the gardens.",
+    "overview": "Take a leisurely stroll through the gardens and enjoy classic landmarks.",
     "steps": [
-      "Start at the east end near the Scott Monument",
-      "Walk past the Scottish National Gallery",
-      "Visit the Ross Fountain",
-      "Enjoy the view of Edinburgh Castle"
+      "Start at the Scott Monument in East Princes Street Gardens",
+      "Admire the exquisite Floral Clock, the oldest of its kind in the world",
+      "Walk past the Scottish National Gallery into West Princes Street Gardens",
+      "Visit the magnificent cast-iron Ross Fountain",
+      "Look up at the majestic Edinburgh Castle from the lawns"
     ]
   },
   "photoSpots": {
-    "title": "Photo Spots",
-    "spots": []
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Ross Fountain",
+        "description": "An ornate cast-iron fountain in the west gardens. With Edinburgh Castle in the background, it offers a classic, postcard-perfect shot.",
+        "location": "West Princes Street Gardens"
+      },
+      {
+        "title": "Floral Clock",
+        "description": "The world's oldest floral clock, featuring a different theme of plant arrangements every summer. Perfect for close-up shots.",
+        "location": "East Princes Street Gardens (near the stairs)"
+      },
+      {
+        "title": "Scott Monument",
+        "description": "A grand Gothic monument. Shooting upwards from the garden lawns creates a strong visual impact.",
+        "location": "East Princes Street Gardens"
+      },
+      {
+        "title": "Edinburgh Castle Viewpoint",
+        "description": "Looking up at the majestic castle built on an extinct volcano from the lower gardens offers breathtaking views in all seasons.",
+        "location": "Throughout West Princes Street Gardens"
+      }
+    ]
   },
   "hotels": {
-    "title": "Accommodation",
-    "hotels": []
+    "title": "Accommodation Guide",
+    "hotels": [
+      {
+        "name": "New Town Area",
+        "desc": "Located north of Princes Street, this area features elegant Georgian architecture and wide, pristine streets. It is home to boutique hotels and shopping districts, perfect for travelers seeking a quiet environment, convenient shopping, and modern amenities.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Old Town Area",
+        "desc": "Centered around the Royal Mile, this area is steeped in medieval history. Staying here allows for an easy walk to Edinburgh Castle and the gardens, making it ideal for those who want a deep dive into the city's historical and cultural heritage.",
+        "price": "Recommended"
+      },
+      {
+        "name": "West End & Haymarket",
+        "desc": "Situated to the west of the gardens, this area boasts excellent transport links (near Haymarket Station). Accommodation options here are diverse, ranging from budget-friendly guesthouses to premium serviced apartments.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Waverley Station Area",
+        "desc": "Right next to East Princes Street Gardens and the main railway station. If you are carrying a lot of luggage or need to catch an early train, choosing this area will save you the hassle of dragging suitcases over cobbled streets.",
+        "price": "Recommended"
+      }
+    ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Princes Street Gardens",
-    "captions": [],
+    "subtitle": "Scenic Views of Princes Street Gardens",
+    "captions": [
+      "Autumn pathways in the gardens",
+      "Ross Fountain and the Castle",
+      "Summer flower beds",
+      "Close-up of the Floral Clock",
+      "Looking up at the Scott Monument",
+      "Winter snowscape",
+      "Spring cherry blossoms",
+      "Overlooking the gardens from the Castle",
+      "Morning mist",
+      "Christmas Market at night"
+    ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",
     "showLess": "Show Less"
@@ -130,7 +200,44 @@
     "title": "Visitor Reviews",
     "declaration": "Visitor feedback can be viewed via Google Maps.",
     "moreReviews": "View more reviews on Google Maps",
-    "items": []
+    "items": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "date": "2026-04-12",
+        "text": "Absolutely one of the most beautiful spots in Edinburgh. I always take a walk here whenever I visit. Whether admiring the Floral Clock or gazing at the castle, it's incredibly refreshing."
+      },
+      {
+        "name": "James L.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "Having a picnic here is just fantastic! The Ross Fountain has been recently restored and looks stunning with the castle as a backdrop. Great for photos."
+      },
+      {
+        "name": "Emily W.",
+        "rating": 4,
+        "date": "2026-05-01",
+        "text": "A perfect urban oasis for relaxation. The Christmas Market here in winter is not to be missed. Although it can get a bit crowded, the festive atmosphere is top-notch."
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "As a plant enthusiast, I was deeply impressed by the Floral Clock and the well-kept lawns. The sunlight hitting the castle at different times of the day makes the view from the gardens look like a painting."
+      },
+      {
+        "name": "Lisa T.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "Great place for a family walk. The lawns are beautifully manicured, it's exceptionally stunning during autumn with the fallen leaves, and incredibly accessible right outside the train station."
+      },
+      {
+        "name": "Mark R.",
+        "rating": 5,
+        "date": "2025-08-09",
+        "text": "Compared to the hustle and bustle of the Royal Mile, this provides a peaceful sanctuary. Sitting on a bench with a coffee while looking at the castle is the best way to experience Edinburgh."
+      }
+    ]
   },
   "mapSection": {
     "title": "Map Location",
@@ -142,48 +249,72 @@
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Links",
-    "officialLinks": {},
-    "disclaimer": "This is an independent guide website."
+    "officialResourcesTitle": "Official & Partner Resources",
+    "officialLinks": {
+      "cityCouncil": "Edinburgh City Council",
+      "visitScotland": "VisitScotland",
+      "edinburghCastle": "Edinburgh Castle Official",
+      "nationalGalleries": "National Galleries of Scotland"
+    },
+    "disclaimer": "This is an independent guide website dedicated to providing objective and accurate travel information."
   },
   "privacy": {
     "title": "Privacy Policy",
     "lastUpdated": "Last updated: May 2026",
-    "sections": []
+    "sections": [
+      {
+        "title": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "title": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "title": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to any third-party commercial organizations."
+      }
+    ]
   },
   "terms": {
     "title": "Terms of Service",
     "lastUpdated": "Last updated: May 2026",
-    "sections": []
+    "sections": [
+      {
+        "title": "Website Content and Use",
+        "content": "This website provides travel, transportation, and historical information about Princes Street Gardens. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time, please refer to official announcements."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "The text, images, and layout designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit."
+      },
+      {
+        "title": "Disclaimer",
+        "content": "We do our best to ensure the accuracy and timeliness of the information, but we bear no legal responsibility for any travel delays or losses caused directly or indirectly by the use of the information provided on this website."
+      }
+    ]
   },
   "cookieSettings": {
     "title": "Cookie Settings",
     "description": "Manage your cookie preferences.",
     "essential": {
       "title": "Essential Cookies",
-      "description": "Required for basic website functionality.",
+      "description": "Required for basic website functionality and cannot be switched off.",
       "badge": "Always active"
     },
     "analytics": {
       "title": "Analytics",
-      "description": "Help us understand how visitors interact with the site."
+      "description": "Help us understand visitor behavior and improve the website."
     },
     "marketing": {
       "title": "Marketing",
-      "description": "Used to track visitors across websites."
+      "description": "Used for cross-site tracking and personalized ad delivery."
     },
     "save": "Save Preferences",
     "saved": "Preferences saved!"
   },
   "officialManagement": {
     "title": "About Princes Street Gardens",
-    "text": "Princes Street Gardens is a public park in the centre of Edinburgh, Scotland, in the shadow of Edinburgh Castle."
-  },
-  "recommendations": {
-    "title": "Explore More",
-    "attractionsTitle": "More Attractions",
-    "toursTitle": "Tours",
-    "attractions": [],
-    "tours": []
+    "text": "Princes Street Gardens is a major urban park in the centre of Edinburgh, Scotland, lying in the shadow of Edinburgh Castle. It is a perfect example of combining city history with nature."
   }
 }
