@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "title": "Princes Street Gardens",
+    "description": "Complete guide to Princes Street Gardens in Edinburgh. Learn about this scenic spot, its location, visiting information, and travel tips."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Princes Street Gardens",
+    "subtitle": "Garden · Edinburgh",
+    "rating": "4.7",
+    "reviewCount": "26,933 reviews",
+    "type": "Garden",
+    "openMaps": "View on Google Maps"
+  },
+  "intro": {
+    "title": "Discover Princes Street Gardens",
+    "description": "Princes Street Gardens is a public park in the centre of Edinburgh, Scotland, in the shadow of Edinburgh Castle. The Gardens were created in the 1820s following the long draining of the Nor Loch and building of the New Town.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The park is accessible year-round.",
+        "Great place for a picnic or a relaxing walk.",
+        "Provides excellent views of Edinburgh Castle."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Ross Fountain",
+        "Floral Clock",
+        "Scottish National Gallery nearby"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Princes Street Gardens",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History",
+        "content": "The gardens were created in the 1820s following the long draining of the Nor Loch and building of the New Town."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Princes Street Gardens",
+    "type": "Attraction Type",
+    "typeValue": "Garden",
+    "country": "Country",
+    "countryValue": "United Kingdom",
+    "city": "City",
+    "cityValue": "Edinburgh",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.7/5 (26,933)",
+    "phone": "Phone",
+    "phoneValue": "+44 131 529 7921",
+    "address": "Address",
+    "addressValue": "Princes St., Edinburgh EH2 2HG, United Kingdom"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Site Access",
+    "parkTime": "Open year-round",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Flowers blooming",
+    "bestTimeSummer": "Summer: Great for picnics",
+    "bestTimeAutumn": "Autumn: Beautiful foliage",
+    "bestTimeWinter": "Winter: Christmas Market",
+    "tip": "Check Edinburgh City Council website for seasonal updates"
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Site Visit",
+    "parkPrice": "Free admission",
+    "parking": "Parking",
+    "parkingPrice": "No on-site parking",
+    "guided": "Guided Tours",
+    "guidedPrice": "Self-guided"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Edinburgh Waverley",
+    "fromCenterDesc": "Located right next to Edinburgh Waverley railway station.",
+    "fromStation": "From Airport",
+    "fromStationDesc": "Take the Airlink 100 bus or tram to the city centre.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "Take the Airlink 100 bus or tram to the city centre.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Well connected by Lothian Buses and Edinburgh Trams.",
+    "walking": "Walking",
+    "walkingDesc": "Easily accessible on foot from anywhere in the city centre.",
+    "driving": "Driving",
+    "drivingDesc": "Driving is not recommended due to limited parking in the city centre."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Take a leisurely stroll through the gardens.",
+    "steps": [
+      "Start at the east end near the Scott Monument",
+      "Walk past the Scottish National Gallery",
+      "Visit the Ross Fountain",
+      "Enjoy the view of Edinburgh Castle"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": []
+  },
+  "hotels": {
+    "title": "Accommodation",
+    "hotels": []
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Princes Street Gardens",
+    "captions": [],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": []
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Princes St., Edinburgh EH2 2HG, United Kingdom",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Princes Street Gardens Info",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Links",
+    "officialLinks": {},
+    "disclaimer": "This is an independent guide website."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": []
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": []
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Princes Street Gardens",
+    "text": "Princes Street Gardens is a public park in the centre of Edinburgh, Scotland, in the shadow of Edinburgh Castle."
+  },
+  "recommendations": {
+    "title": "Explore More",
+    "attractionsTitle": "More Attractions",
+    "toursTitle": "Tours",
+    "attractions": [],
+    "tours": []
+  }
+}

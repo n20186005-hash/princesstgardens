@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "title": "Princes Street Gardens",
+    "description": "王子街花园的完整旅游指南。了解这一美丽的爱丁堡花园景点、位置和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Princes Street Gardens",
+    "subtitle": "花园 · 爱丁堡",
+    "rating": "4.7",
+    "reviewCount": "26,933 条评价",
+    "type": "花园",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "intro": {
+    "title": "探索 Princes Street Gardens",
+    "description": "王子街花园（Princes Street Gardens）是苏格兰爱丁堡市中心的一个公园，位于爱丁堡城堡的阴影下。该花园建于19世纪20年代。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "公园全年开放。",
+        "非常适合野餐或轻松散步。",
+        "提供欣赏爱丁堡城堡的绝佳视角。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "罗斯喷泉",
+        "花钟",
+        "附近的苏格兰国家画廊"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于 Princes Street Gardens",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史",
+        "content": "花园建于19世纪20年代，是在长期排干北湖（Nor Loch）和建设新城之后建成的。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Princes Street Gardens",
+    "type": "景点类型",
+    "typeValue": "花园",
+    "country": "国家",
+    "countryValue": "英国",
+    "city": "城市",
+    "cityValue": "爱丁堡",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.7/5 (26,933)",
+    "phone": "电话",
+    "phoneValue": "+44 131 529 7921",
+    "address": "地址",
+    "addressValue": "Princes St., Edinburgh EH2 2HG, United Kingdom"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "景区开放",
+    "parkTime": "全年开放",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：百花齐放",
+    "bestTimeSummer": "夏季：适合野餐",
+    "bestTimeAutumn": "秋季：美丽的秋叶",
+    "bestTimeWinter": "冬季：圣诞市场",
+    "tip": "查看爱丁堡市议会网站了解季节性更新"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "景区参观",
+    "parkPrice": "免费入场",
+    "parking": "停车",
+    "parkingPrice": "无现场停车位",
+    "guided": "导游服务",
+    "guidedPrice": "自助游览"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从韦弗利火车站",
+    "fromCenterDesc": "紧邻爱丁堡韦弗利火车站。",
+    "fromStation": "从机场",
+    "fromStationDesc": "乘坐Airlink 100巴士或有轨电车前往市中心。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "乘坐Airlink 100巴士或有轨电车前往市中心。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "洛锡安巴士和爱丁堡有轨电车连接良好。",
+    "walking": "步行",
+    "walkingDesc": "从市中心任何地方均可轻松步行到达。",
+    "driving": "自驾",
+    "drivingDesc": "市中心停车位有限，不建议自驾。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "在花园中悠闲漫步。",
+    "steps": [
+      "从斯科特纪念碑附近的东端开始",
+      "走过苏格兰国家画廊",
+      "参观罗斯喷泉",
+      "欣赏爱丁堡城堡的景色"
+    ]
+  },
+  "photoSpots": {
+    "title": "拍照点",
+    "spots": []
+  },
+  "hotels": {
+    "title": "住宿",
+    "hotels": []
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "Princes Street Gardens",
+    "captions": [],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看位置",
+    "items": []
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Princes St., Edinburgh EH2 2HG, United Kingdom",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "rights": "© 2026 Princes Street Gardens Info",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "友情链接",
+    "officialLinks": {},
+    "disclaimer": "本网站是独立的旅游指南网站。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": []
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": []
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的Cookie偏好。",
+    "essential": {
+      "title": "必要的Cookie",
+      "description": "基本网站功能所需。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访客行为。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨网站跟踪。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于 Princes Street Gardens",
+    "text": "王子街花园是苏格兰爱丁堡市中心的一个公园，位于爱丁堡城堡的阴影下。"
+  },
+  "recommendations": {
+    "title": "探索更多",
+    "attractionsTitle": "更多景点",
+    "toursTitle": "旅游团",
+    "attractions": [],
+    "tours": []
+  }
+}
