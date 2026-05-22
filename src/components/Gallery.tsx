@@ -26,17 +26,24 @@ const photos = [
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const messages = useMessages() as any;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(false);
+  const captions = (messages?.gallery?.captions || []) as string[];
+
+  const galleryPhotos = photos.map((photo, i) => ({
+    ...photo,
+    alt: captions[i] || photo.alt,
+  }));
 
   const goToPrevious = useCallback(() => {
-    setCurrentIndex((prev) => (prev === 0 ? photos.length - 1 : prev - 1));
-  }, []);
+    setCurrentIndex((prev) => (prev === 0 ? galleryPhotos.length - 1 : prev - 1));
+  }, [galleryPhotos.length]);
 
   const goToNext = useCallback(() => {
-    setCurrentIndex((prev) => (prev === photos.length - 1 ? 0 : prev + 1));
-  }, []);
+    setCurrentIndex((prev) => (prev === galleryPhotos.length - 1 ? 0 : prev + 1));
+  }, [galleryPhotos.length]);
 
   const openLightbox = () => setIsLightboxOpen(true);
   const closeLightbox = () => setIsLightboxOpen(false);
@@ -56,7 +63,7 @@ export default function Gallery() {
 
           <div className="relative">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-4">
-              {(showAll ? photos : photos.slice(0, 8)).map((photo, i) => (
+              {(showAll ? galleryPhotos : galleryPhotos.slice(0, 8)).map((photo, i) => (
                 <div
                   key={i}
                   className={`gallery-item relative group cursor-pointer ${i === 0 && !showAll ? 'col-span-2 row-span-2' : ''}`}
@@ -105,13 +112,13 @@ export default function Gallery() {
             )}
 
             <div className="flex justify-center mt-6 gap-4 items-center">
-              {!showAll && photos.length > 8 && (
+              {!showAll && galleryPhotos.length > 8 && (
                 <button
                   onClick={() => setShowAll(true)}
                   className="text-sm hover:underline font-medium"
                   style={{ color: 'var(--accent)' }}
                 >
-                  {t('showAll') || `View All ${photos.length} Photos`}
+                  {t('showAll') || `View All ${galleryPhotos.length} Photos`}
                 </button>
               )}
               {showAll && (
@@ -164,8 +171,8 @@ export default function Gallery() {
           </button>
 
           <img
-            src={photos[currentIndex].src}
-            alt={photos[currentIndex].alt}
+            src={galleryPhotos[currentIndex].src}
+            alt={galleryPhotos[currentIndex].alt}
             className="max-w-[90vw] max-h-[85vh] object-contain rounded-lg"
             onClick={(e) => e.stopPropagation()}
           />
@@ -181,7 +188,7 @@ export default function Gallery() {
           </button>
 
           <div className="absolute bottom-4 left-1/2 -translate-x-1/2 text-white text-sm">
-            {currentIndex + 1} / {photos.length}
+            {currentIndex + 1} / {galleryPhotos.length}
           </div>
         </div>
       )}

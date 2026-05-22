@@ -16,7 +16,8 @@
     "rating": "4.7",
     "reviewCount": "26,933 reviews",
     "type": "Garden",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/d4fuHbdFk3VPCpse7"
   },
   "intro": {
     "title": "Discover Princes Street Gardens",
@@ -69,17 +70,19 @@
     "officialName": "Official Name",
     "officialNameValue": "Princes Street Gardens",
     "type": "Attraction Type",
-    "typeValue": "Garden, City Park",
+    "typeValue": "Garden",
     "country": "Country",
     "countryValue": "United Kingdom",
     "city": "City",
     "cityValue": "Edinburgh",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.7/5 (26,933)",
+    "googleRatingValue": "4.7 (26,933)",
     "phone": "Phone",
-    "phoneValue": "+44 131 529 7921",
+    "phoneValue": "+441315297921",
     "address": "Address",
-    "addressValue": "Princes St., Edinburgh EH2 2HG, United Kingdom"
+    "addressValue": "Princes St., Edinburgh EH2 2HG, United Kingdom",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "XR22+9H Edinburgh, United Kingdom"
   },
   "hours": {
     "title": "Visiting Hours",
@@ -133,22 +136,26 @@
       {
         "title": "Ross Fountain",
         "description": "An ornate cast-iron fountain in the west gardens. With Edinburgh Castle in the background, it offers a classic, postcard-perfect shot.",
-        "location": "West Princes Street Gardens"
+        "location": "West Princes Street Gardens",
+        "image": "/gallery/princes-street-gardens (2).jpg"
       },
       {
         "title": "Floral Clock",
         "description": "The world's oldest floral clock, featuring a different theme of plant arrangements every summer. Perfect for close-up shots.",
-        "location": "East Princes Street Gardens (near the stairs)"
+        "location": "East Princes Street Gardens (near the stairs)",
+        "image": "/gallery/princes-street-gardens (4).jpg"
       },
       {
         "title": "Scott Monument",
         "description": "A grand Gothic monument. Shooting upwards from the garden lawns creates a strong visual impact.",
-        "location": "East Princes Street Gardens"
+        "location": "East Princes Street Gardens",
+        "image": "/gallery/princes-street-gardens (5).jpg"
       },
       {
         "title": "Edinburgh Castle Viewpoint",
         "description": "Looking up at the majestic castle built on an extinct volcano from the lower gardens offers breathtaking views in all seasons.",
-        "location": "Throughout West Princes Street Gardens"
+        "location": "Throughout West Princes Street Gardens",
+        "image": "/gallery/princes-street-gardens (8).jpg"
       }
     ]
   },
@@ -181,16 +188,24 @@
     "title": "Photo Gallery",
     "subtitle": "Scenic Views of Princes Street Gardens",
     "captions": [
-      "Autumn pathways in the gardens",
-      "Ross Fountain and the Castle",
-      "Summer flower beds",
-      "Close-up of the Floral Clock",
-      "Looking up at the Scott Monument",
-      "Winter snowscape",
-      "Spring cherry blossoms",
-      "Overlooking the gardens from the Castle",
+      "Autumn views",
+      "Ross Fountain",
+      "Garden bench",
+      "Floral Clock",
+      "Scott Monument",
+      "Castle view",
+      "Winter snow",
+      "Summer lawns",
+      "Garden paths",
+      "Monument detail",
+      "Statues",
+      "Visitors",
       "Morning mist",
-      "Christmas Market at night"
+      "Benches",
+      "Greenery",
+      "Flower beds",
+      "Stairs",
+      "Panoramic view"
     ],
     "viewAll": "View on Google Maps",
     "showAll": "View All Photos",

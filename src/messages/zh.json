@@ -69,17 +69,19 @@
     "officialName": "正式名称",
     "officialNameValue": "Princes Street Gardens",
     "type": "景点类型",
-    "typeValue": "花园、城市公园",
+    "typeValue": "花园",
     "country": "国家",
     "countryValue": "英国",
     "city": "城市",
     "cityValue": "爱丁堡",
     "googleRating": "谷歌评分",
-    "googleRatingValue": "4.7/5 (26,933)",
+    "googleRatingValue": "4.7 (26,933)",
     "phone": "电话",
-    "phoneValue": "+44 131 529 7921",
+    "phoneValue": "+441315297921",
     "address": "地址",
-    "addressValue": "Princes St., Edinburgh EH2 2HG, United Kingdom"
+    "addressValue": "Princes St., Edinburgh EH2 2HG, United Kingdom",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "XR22+9H Edinburgh, United Kingdom"
   },
   "hours": {
     "title": "开放时间",
@@ -133,22 +135,26 @@
       {
         "title": "罗斯喷泉 (Ross Fountain)",
         "description": "位于花园西侧的华丽铁质喷泉，以爱丁堡城堡为背景，是明信片级别的经典拍照机位。",
-        "location": "西王子街花园"
+        "location": "西王子街花园",
+        "image": "/gallery/princes-street-gardens (2).jpg"
       },
       {
         "title": "花钟 (Floral Clock)",
         "description": "世界上最古老的花钟，每年夏季都有不同的植物拼图主题图案，非常适合近景特写。",
-        "location": "东王子街花园阶梯旁"
+        "location": "东王子街花园阶梯旁",
+        "image": "/gallery/princes-street-gardens (4).jpg"
       },
       {
         "title": "司各特纪念塔 (Scott Monument)",
         "description": "宏伟的哥特式纪念塔，从花园的草坪仰拍，能拍出强烈的视觉冲击感。",
-        "location": "东王子街花园"
+        "location": "东王子街花园",
+        "image": "/gallery/princes-street-gardens (5).jpg"
       },
       {
         "title": "爱丁堡城堡仰视点",
         "description": "从花园低处仰望建在死火山上的城堡，气势磅礴，四季各有不同的风景搭配。",
-        "location": "整个西王子街花园"
+        "location": "整个西王子街花园",
+        "image": "/gallery/princes-street-gardens (8).jpg"
       }
     ]
   },
@@ -181,16 +187,24 @@
     "title": "照片画廊",
     "subtitle": "Princes Street Gardens 美景",
     "captions": [
-      "秋季的花园小径",
-      "罗斯喷泉与城堡",
-      "盛夏的花坛",
-      "花钟特写",
-      "司各特纪念塔仰视",
+      "花园秋景",
+      "罗斯喷泉",
+      "花园长椅",
+      "花钟",
+      "司各特纪念塔",
+      "城堡远眺",
       "冬日雪景",
-      "春季樱花盛开",
-      "从城堡俯瞰花园",
-      "清晨的雾气",
-      "圣诞集市夜景"
+      "夏日草坪",
+      "花园小径",
+      "纪念碑特写",
+      "雕像",
+      "游人",
+      "晨雾",
+      "长椅",
+      "绿地",
+      "花坛",
+      "阶梯",
+      "俯瞰全景"
     ],
     "viewAll": "在Google地图上查看位置",
     "showAll": "显示完整照片",

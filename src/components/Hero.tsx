@@ -8,7 +8,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/princes-street-gardens (3).jpg"
+          src="/gallery/princes-street-gardens (1).jpg"
           alt="Princes Street Gardens"
           className="w-full h-full object-cover"
         />

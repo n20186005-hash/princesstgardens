@@ -15,10 +15,10 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
             <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              Princes Street Gardens
+              {t('officialResourcesTitle')}
             </h3>
             <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
-              {t('officialResourcesTitle')}
+              {t('disclaimer')}
             </p>
             <div className="flex flex-col gap-2">
               <a href="https://www.edinburgh.gov.uk/directory-record/1099222/west-princes-street-gardens" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
@@ -31,7 +31,7 @@ export default function Footer() {
                 {locale === 'zh' ? '爱丁堡世界遗产基金会' : 'Edinburgh World Heritage'}
               </a>
               <a href="https://edinburgh.org/point-of-interest/scott-monument/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '爱丁堡官方旅游局' : 'Official Edinburgh Tourism Board' }
+                {locale === 'zh' ? '爱丁堡官方旅游局' : 'Official Edinburgh Tourism Board'}
               </a>
               <a href="https://www.nationalgalleries.org/visit/scottish-national-gallery" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {locale === 'zh' ? '苏格兰国家画廊' : 'Scottish National Gallery'}
