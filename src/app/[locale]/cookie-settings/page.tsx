@@ -1,5 +1,7 @@
 import { setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
+import { SITE_URL } from '@/lib/seo';
+import { routing } from '@/i18n/routing';
 import CookieSettingsClient from './CookieSettingsClient';
 
 export async function generateMetadata({
@@ -7,17 +9,18 @@ export async function generateMetadata({
 }: {
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
-  const baseUrl = 'https://willowcreekhoodoos.com';
-  const zhUrl = `${baseUrl}/cookie-settings`;
-  const enUrl = `${baseUrl}/en/cookie-settings`;
+  const { locale } = await params;
+  const localeUrls = Object.fromEntries(
+    routing.locales.map((l) => [l, `${SITE_URL}/${l}/cookie-settings`])
+  );
+  const selfUrl = localeUrls[locale] ?? localeUrls[routing.defaultLocale];
 
   return {
     alternates: {
-      canonical: zhUrl,
+      canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': zhUrl,
+        ...localeUrls,
+        'x-default': localeUrls[routing.defaultLocale],
       },
     },
   };

@@ -1,6 +1,8 @@
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
+import { SITE_URL } from '@/lib/seo';
+import { routing } from '@/i18n/routing';
 
 export async function generateMetadata({
   params,
@@ -8,18 +10,17 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://willowcreekhoodoos.com';
-  const zhUrl = `${baseUrl}/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const localeUrls = Object.fromEntries(
+    routing.locales.map((l) => [l, `${SITE_URL}/${l}/terms-of-service`])
+  );
+  const selfUrl = localeUrls[locale] ?? localeUrls[routing.defaultLocale];
 
   return {
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': zhUrl,
+        ...localeUrls,
+        'x-default': localeUrls[routing.defaultLocale],
       },
     },
   };

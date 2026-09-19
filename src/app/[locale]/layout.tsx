@@ -15,11 +15,22 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://princesstgardens.vercel.app';
+  const baseUrl = 'https://princesstgardens.com';
 
-  const zhUrl = `${baseUrl}/zh`;
-  const enUrl = `${baseUrl}/en`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const localeUrls = Object.fromEntries(
+    routing.locales.map((l) => [l, `${baseUrl}/${l}`])
+  );
+  const selfUrl = localeUrls[locale] ?? localeUrls[routing.defaultLocale];
+
+  const ogLocale: Record<string, string> = {
+    zh: 'zh_CN',
+    en: 'en_US',
+    pl: 'pl_PL',
+    de: 'de_DE',
+    it: 'it_IT',
+    es: 'es_ES',
+    fr: 'fr_FR',
+  };
 
   return {
     title: messages.meta.title,
@@ -27,9 +38,8 @@ export async function generateMetadata({
     alternates: {
       canonical: selfUrl,
       languages: {
-        'zh': zhUrl,
-        'en': enUrl,
-        'x-default': zhUrl,
+        ...localeUrls,
+        'x-default': localeUrls[routing.defaultLocale],
       },
     },
     openGraph: {
@@ -37,7 +47,7 @@ export async function generateMetadata({
       description: messages.meta.description,
       url: selfUrl,
       siteName: "Princes Street Gardens",
-      locale: locale === 'zh' ? 'zh_CN' : 'en_US',
+      locale: ogLocale[locale] ?? 'en_US',
       type: 'website',
     },
   };
@@ -60,7 +70,26 @@ export default async function LocaleLayout({
   const messages = await getMessages();
 
   return (
-    <html lang={locale === 'zh' ? 'zh-CN' : 'en'} suppressHydrationWarning>
+    <html
+      lang={
+        locale === 'zh'
+          ? 'zh-CN'
+          : locale === 'en'
+            ? 'en'
+            : locale === 'pl'
+              ? 'pl'
+              : locale === 'de'
+                ? 'de'
+                : locale === 'it'
+                  ? 'it'
+                  : locale === 'es'
+                    ? 'es'
+                    : locale === 'fr'
+                      ? 'fr'
+                      : 'en'
+      }
+      suppressHydrationWarning
+    >
       <head>
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
         <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />

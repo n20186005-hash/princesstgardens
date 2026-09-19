@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Princes Street Gardens",
-    "description": "Complete guide to Princes Street Gardens in Edinburgh. Learn about this scenic spot, its location, visiting information, and travel tips."
+    "title": "Princes Street Gardens Edinburgh – Free Entry, Opening Hours & Best Castle Views",
+    "description": "Plan your visit to Princes Street Gardens in central Edinburgh. Free entry year-round, opening hours, Ross Fountain, the Floral Clock, family tips, and the best photo spots with Edinburgh Castle views."
   },
   "header": {
     "home": "Home",
@@ -331,5 +331,42 @@
   "officialManagement": {
     "title": "About Princes Street Gardens",
     "text": "Princes Street Gardens is a major urban park in the centre of Edinburgh, Scotland, lying in the shadow of Edinburgh Castle. It is a perfect example of combining city history with nature."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "Is Princes Street Gardens free to enter?",
+        "answer": "Yes. Entry to Princes Street Gardens is completely free, and the park is open to the public throughout the year."
+      },
+      {
+        "question": "What are the opening hours of Princes Street Gardens?",
+        "answer": "The gardens are open year-round, generally from around 7:00 AM until dusk. Hours vary by season and during special events such as the Edinburgh Christmas Market."
+      },
+      {
+        "question": "What is there to see and do at Princes Street Gardens?",
+        "answer": "Highlights include the Ross Fountain, the world's oldest Floral Clock, the Scott Monument, sweeping lawns for picnics, and unbeatable views of Edinburgh Castle and the Old Town skyline."
+      },
+      {
+        "question": "Is Princes Street Gardens good for families and kids?",
+        "answer": "Absolutely. The flat, open lawns are ideal for family walks and picnics, and the gardens are just a 1-minute walk from Edinburgh Waverley station, making them easy to reach with children and luggage."
+      },
+      {
+        "question": "What is the difference between East and West Princes Street Gardens?",
+        "answer": "The larger West Gardens feature the Ross Fountain and the Ross Bandstand, while the smaller East Gardens are home to the Scott Monument and the Floral Clock, and host the winter Edinburgh Christmas Market."
+      },
+      {
+        "question": "What events are held at Princes Street Gardens?",
+        "answer": "The gardens host the Edinburgh Christmas Market every winter and open-air concerts in summer, plus various public events throughout the year."
+      },
+      {
+        "question": "How do I get to Princes Street Gardens?",
+        "answer": "The gardens sit right next to Edinburgh Waverley station (a 1-minute walk) and are served by Lothian Buses and Edinburgh Trams along Princes Street."
+      },
+      {
+        "question": "Where are the best photo spots with Edinburgh Castle views?",
+        "answer": "The lawns of West Princes Street Gardens with the Ross Fountain in the foreground, and the lower gardens looking up at the castle, offer the most iconic castle-backdrop shots."
+      }
+    ]
   }
 }

@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "title": "Princes Street Gardens a Edimburgo – Ingresso gratuito, orari e migliore vista sul castello",
+    "description": "Pianifica la tua visita ai Princes Street Gardens nel centro di Edimburgo. Ingresso gratuito tutto l'anno, orari, Ross Fountain, l'orologio floreale, consigli per le famiglie e i migliori punti foto con vista su Edinburgh Castle."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Galleria",
+    "reviews": "Recensioni",
+    "map": "Mappa",
+    "backToHome": "Torna alla Home"
+  },
+  "hero": {
+    "title": "Princes Street Gardens",
+    "subtitle": "Giardino · Edimburgo",
+    "rating": "4.7",
+    "reviewCount": "26.933 recensioni",
+    "type": "Giardino",
+    "openMaps": "Visualizza su Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/d4fuHbdFk3VPCpse7"
+  },
+  "intro": {
+    "title": "Scopri i Princes Street Gardens",
+    "description": "I Princes Street Gardens sono un parco pubblico nel centro di Edimburgo, in Scozia, all'ombra di Edinburgh Castle. I giardini furono creati negli anni '20 dell'Ottocento a seguito del lungo drenaggio del Nor Loch e della costruzione della New Town. Non è solo un luogo ideale dove rilassarsi per i residenti, ma anche il miglior punto da cui ammirare lo skyline della città.",
+    "visitGuide": {
+      "title": "Consigli per la visita",
+      "items": [
+        "Il parco è accessibile tutto l'anno e l'ingresso è gratuito.",
+        "Un luogo ideale per un picnic o una passeggiata rilassante sui prati rigogliosi.",
+        "Offre eccellenti vedute di Edinburgh Castle e dello skyline della Old Town."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Punti salienti",
+      "items": [
+        "Ross Fountain",
+        "Orologio floreale",
+        "Galleria Nazionale di Scozia",
+        "Scott Monument"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Informazioni sui Princes Street Gardens",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Contesto storico",
+        "content": "I Princes Street Gardens furono creati negli anni '20 dell'Ottocento, sostituendo il Nor Loch. Il lago era un tempo una difesa naturale a nord di Edinburgh Castle, che in seguito divenne una fogna a cielo aperto con la crescita della città. Durante la costruzione della New Town, il lago fu drenato e trasformato in questo bellissimo giardino che oggi separa la Old Town dalla New Town."
+      },
+      {
+        "id": "layout",
+        "title": "Geografia e disposizione",
+        "content": "Il parco è diviso in due parti da una collina artificiale chiamata The Mound. I più ampi West Princes Street Gardens ospitano la famosa Ross Fountain e la Ross Bandstand, mentre i più piccoli East Princes Street Gardens presentano il magnifico Scott Monument e il più antico orologio floreale del mondo."
+      },
+      {
+        "id": "culture",
+        "title": "Rilevanza culturale",
+        "content": "Come “polmone verde” del centro di Edimburgo, è non solo una meta preferita per rilassanti picnic, ma anche un hub per importanti eventi pubblici. Ogni inverno ospita lo spettacolare Edinburgh Christmas Market e, d'estate, spesso funge da sede per concerti all'aperto."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Ecologia e flora",
+        "content": "I giardini presentano una ricca varietà di specie vegetali autoctone ed esotiche, offrendo paesaggi diversi in ogni stagione. Dalla fioritura dei ciliegi in primavera alle vivaci foglie in autunno, è un paradiso per gli appassionati di piante e un importante habitat per uccelli urbani e piccola fauna."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Informazioni di base",
+    "officialName": "Nome ufficiale",
+    "officialNameValue": "Princes Street Gardens",
+    "type": "Tipo di attrazione",
+    "typeValue": "Giardino",
+    "country": "Paese",
+    "countryValue": "Regno Unito",
+    "city": "Città",
+    "cityValue": "Edimburgo",
+    "googleRating": "Valutazione Google",
+    "googleRatingValue": "4,7 (26.933)",
+    "phone": "Telefono",
+    "phoneValue": "+441315297921",
+    "address": "Indirizzo",
+    "addressValue": "Princes St., Edinburgh EH2 2HG, United Kingdom",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "XR22+9H Edinburgh, United Kingdom"
+  },
+  "hours": {
+    "title": "Orari di apertura",
+    "park": "Accesso al sito",
+    "parkTime": "Aperto tutto l'anno (dalle 7:00 al tramonto, varia in base alla stagione)",
+    "bestTime": "Miglior periodo per la visita",
+    "bestTimeSpring": "Primavera: fiori e fioritura dei ciliegi",
+    "bestTimeSummer": "Estate: giornate soleggiate, ideali per picnic e attività all'aperto",
+    "bestTimeAutumn": "Autunno: splendidi colori delle foglie",
+    "bestTimeWinter": "Inverno: atmosfera festiva con l'Edinburgh Christmas Market",
+    "tip": "Gli orari di apertura possono variare a causa delle stagioni e di eventi speciali. Controlla il sito del Edinburgh City Council per gli aggiornamenti più recenti."
+  },
+  "tickets": {
+    "title": "Informazioni sull'ingresso",
+    "park": "Visita al sito",
+    "parkPrice": "Ingresso gratuito",
+    "parking": "Parcheggio",
+    "parkingPrice": "Nessun parcheggio in loco (parcheggio a pagamento nel centro città)",
+    "guided": "Visite guidate",
+    "guidedPrice": "Autoguidato"
+  },
+  "transport": {
+    "title": "Come arrivare",
+    "fromCenter": "Dalla stazione di Edinburgh Waverley",
+    "fromCenterDesc": "Situato accanto alla stazione ferroviaria di Edinburgh Waverley, a soli 1 minuto a piedi.",
+    "fromStation": "Dalla stazione degli autobus",
+    "fromStationDesc": "Circa 5–10 minuti a piedi dalla stazione degli autobus di Edimburgo.",
+    "fromAirport": "Dall'aeroporto",
+    "fromAirportDesc": "Prendi l'autobus Airlink 100 o i Edinburgh Trams e scendi alla fermata Princes Street.",
+    "publicTransport": "Trasporto pubblico",
+    "publicTransportDesc": "Ben collegato dai Lothian Buses e dai Edinburgh Trams con fermate direttamente su Princes Street.",
+    "walking": "A piedi",
+    "walkingDesc": "Situato in posizione centrale e facilmente raggiungibile a piedi dalla Royal Mile, dalla New Town e da altre zone.",
+    "driving": "In auto",
+    "drivingDesc": "Il parcheggio nel centro città è molto limitato e costoso. Si consiglia vivamente il trasporto pubblico o la passeggiata."
+  },
+  "route": {
+    "title": "Itinerario consigliato",
+    "overview": "Passeggia con calma tra i giardini e ammira i classici punti di riferimento.",
+    "steps": [
+      "Inizia dallo Scott Monument negli East Princes Street Gardens",
+      "Ammira l'elegante orologio floreale, il più antico del suo genere al mondo",
+      "Cammina oltre la Galleria Nazionale di Scozia fino ai West Princes Street Gardens",
+      "Visita la magnifica fontana in ghisa Ross",
+      "Alza lo sguardo verso il maestoso Edinburgh Castle dai prati"
+    ]
+  },
+  "photoSpots": {
+    "title": "Migliori punti foto",
+    "spots": [
+      {
+        "title": "Ross Fountain",
+        "description": "Una fontana in ghisa ornata nei giardini occidentali. Con Edinburgh Castle sullo sfondo, offre uno scatto classico da cartolina.",
+        "location": "West Princes Street Gardens",
+        "image": "/gallery/princes-street-gardens (2).jpg"
+      },
+      {
+        "title": "Orologio floreale",
+        "description": "Il più antico orologio floreale del mondo, con un diverso tema floreale ogni estate. Perfetto per primi piani.",
+        "location": "East Princes Street Gardens (vicino alle scale)",
+        "image": "/gallery/princes-street-gardens (4).jpg"
+      },
+      {
+        "title": "Scott Monument",
+        "description": "Un grandioso monumento gotico. Fotografarlo dal basso dai prati del giardino crea un forte impatto visivo.",
+        "location": "East Princes Street Gardens",
+        "image": "/gallery/princes-street-gardens (5).jpg"
+      },
+      {
+        "title": "Punto panoramico su Edinburgh Castle",
+        "description": "Guardare in alto verso il maestoso castello costruito su un vulcano estinto dai giardini inferiori offre vedute mozzafiato in ogni stagione.",
+        "location": "In tutti i West Princes Street Gardens",
+        "image": "/gallery/princes-street-gardens (8).jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Guida agli alloggi",
+    "hotels": [
+      {
+        "name": "Zona New Town",
+        "desc": "A nord di Princes Street, questa zona presenta elegante architettura georgiana e ampie strade pulite. Ospita boutique hotel e distretti commerciali, perfetti per i viaggiatori che cercano un ambiente tranquillo, shopping comodo e servizi moderni.",
+        "price": "Consigliata"
+      },
+      {
+        "name": "Zona Old Town",
+        "desc": "Centrata sulla Royal Mile, questa zona è immersa nella storia medievale. Soggiornarvi permette di raggiungere a piedi Edinburgh Castle e i giardini, ideale per chi vuole approfondire il patrimonio storico e culturale della città.",
+        "price": "Consigliata"
+      },
+      {
+        "name": "West End e Haymarket",
+        "desc": "A ovest dei giardini, questa zona vanta ottimi collegamenti (vicino alla stazione di Haymarket). Le opzioni di alloggio sono varie, da pensioni economiche ad appartamenti premium con servizi.",
+        "price": "Consigliata"
+      },
+      {
+        "name": "Zona stazione Waverley",
+        "desc": "Proprio accanto agli East Princes Street Gardens e alla stazione ferroviaria principale. Se hai molto bagaglio o devi prendere un treno presto, scegliere questa zona ti eviterà la fatica di trascinare valigie su ciottoli.",
+        "price": "Consigliata"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galleria fotografica",
+    "subtitle": "Vedute dei Princes Street Gardens",
+    "captions": [
+      "Vedute autunnali",
+      "Ross Fountain",
+      "Panchina del giardino",
+      "Orologio floreale",
+      "Scott Monument",
+      "Vista sul castello",
+      "Neve invernale",
+      "Prati estivi",
+      "Sentieri del giardino",
+      "Dettaglio del monumento",
+      "Statue",
+      "Visitatori",
+      "Nebbia mattutina",
+      "Panche",
+      "Verde",
+      "Aiuole",
+      "Scale",
+      "Panorama"
+    ],
+    "viewAll": "Visualizza su Google Maps",
+    "showAll": "Mostra tutte le foto",
+    "showLess": "Mostra meno"
+  },
+  "reviews": {
+    "title": "Recensioni dei visitatori",
+    "declaration": "I feedback dei visitatori sono disponibili tramite Google Maps.",
+    "moreReviews": "Visualizza altre recensioni su Google Maps",
+    "items": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "date": "2026-04-12",
+        "text": "Assolutamente uno dei luoghi più belli di Edimburgo. Vengo sempre a passeggiare qui a ogni visita. Che si ammiri l'orologio floreale o si guardi il castello, è incredibilmente rigenerante."
+      },
+      {
+        "name": "James L.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "Fare un picnic qui è semplicemente fantastico! La Ross Fountain è stata recentemente restaurata e appare splendida con il castello sullo sfondo. Ottima per le foto."
+      },
+      {
+        "name": "Emily W.",
+        "rating": 4,
+        "date": "2026-05-01",
+        "text": "Un'oasi urbana perfetta per rilassarsi. Il mercatino di Natale qui in inverno è imperdibile. Sebbene possa essere un po' affollato, l'atmosfera festiva è di prim'ordine."
+      },
+      {
+        "name": "David K.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "Da appassionato di piante, sono rimasto profondamente colpito dall'orologio floreale e dai prati curati. La luce del sole che colpisce il castello a diverse ore del giorno rende la vista dai giardini simile a un dipinto."
+      },
+      {
+        "name": "Lisa T.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "Un luogo ideale per una passeggiata in famiglia. I prati sono curatissimi, splendidi in autunno con le foglie cadenti, e accessibilissimi subito fuori dalla stazione."
+      },
+      {
+        "name": "Mark R.",
+        "rating": 5,
+        "date": "2025-08-09",
+        "text": "Rispetto al trambusto della Royal Mile, offre un rifugio tranquillo. Sedersi su una panchina con un caffè guardando il castello è il modo migliore per vivere Edimburgo."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Posizione sulla mappa",
+    "subtitle": "Princes St., Edinburgh EH2 2HG, United Kingdom",
+    "openMaps": "Visualizza su Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Princes Street Gardens Info",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di servizio",
+    "cookies": "Impostazioni cookie",
+    "officialResourcesTitle": "Risorse ufficiali e partner",
+    "officialLinks": {
+      "cityCouncil": "Edinburgh City Council",
+      "visitScotland": "VisitScotland",
+      "edinburghCastle": "Sito ufficiale Edinburgh Castle",
+      "nationalGalleries": "National Galleries of Scotland"
+    },
+    "disclaimer": "Questo è un sito guida indipendente dedicato a fornire informazioni di viaggio obiettive e accurate."
+  },
+  "privacy": {
+    "title": "Informativa sulla privacy",
+    "lastUpdated": "Ultimo aggiornamento: maggio 2026",
+    "sections": [
+      {
+        "title": "Raccolta delle informazioni",
+        "content": "Quando visiti il nostro sito, potremmo raccogliere automaticamente informazioni di base sul tuo dispositivo, browser e comportamento di navigazione per offrirti una migliore esperienza. Queste informazioni non contengono la tua identità personale."
+      },
+      {
+        "title": "Utilizzo dei cookie",
+        "content": "Utilizziamo i cookie per analizzare il traffico del sito e ottimizzare i contenuti. Puoi gestire le tue preferenze in qualsiasi momento tramite l'opzione Impostazioni cookie in fondo al sito."
+      },
+      {
+        "title": "Sicurezza e protezione dei dati",
+        "content": "Ci impegniamo a proteggere la sicurezza dei tuoi dati privati e non venderemo, affitteremo o scambieremo i tuoi dati di navigazione con alcuna organizzazione commerciale terza."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Termini di servizio",
+    "lastUpdated": "Ultimo aggiornamento: maggio 2026",
+    "sections": [
+      {
+        "title": "Contenuti e utilizzo del sito",
+        "content": "Questo sito fornisce informazioni di viaggio, trasporto e storiche sui Princes Street Gardens. Tutti i contenuti sono solo a scopo di riferimento. Gli orari di apertura e le informazioni sui biglietti delle attrazioni possono cambiare in qualsiasi momento; fare riferimento agli annunci ufficiali."
+      },
+      {
+        "title": "Proprietà intellettuale",
+        "content": "Testi, immagini e design di layout su questo sito sono protetti da copyright. Senza esplicita autorizzazione scritta, nessuno può utilizzare i contenuti del sito a fini di lucro commerciale."
+      },
+      {
+        "title": "Esclusione di responsabilità",
+        "content": "Facciamo del nostro meglio per garantire l'accuratezza e l'attualità delle informazioni, ma non ci assumiamo alcuna responsabilità legale per eventuali ritardi di viaggio o perdite causati direttamente o indirettamente dall'uso delle informazioni fornite su questo sito."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Impostazioni cookie",
+    "description": "Gestisci le tue preferenze sui cookie.",
+    "essential": {
+      "title": "Cookie essenziali",
+      "description": "Necessari per le funzionalità di base del sito e non possono essere disattivati.",
+      "badge": "Sempre attivi"
+    },
+    "analytics": {
+      "title": "Analitica",
+      "description": "Ci aiutano a capire il comportamento dei visitatori e a migliorare il sito."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Utilizzati per il tracciamento tra siti e la consegna di annunci personalizzati."
+    },
+    "save": "Salva preferenze",
+    "saved": "Preferenze salvate!"
+  },
+  "officialManagement": {
+    "title": "Informazioni sui Princes Street Gardens",
+    "text": "I Princes Street Gardens sono un importante parco urbano nel centro di Edimburgo, in Scozia, all'ombra di Edinburgh Castle. Sono un esempio perfetto di unione tra storia cittadina e natura."
+  },
+  "faq": {
+    "title": "Domande frequenti",
+    "items": [
+      {
+        "question": "L'ingresso ai Princes Street Gardens è gratuito?",
+        "answer": "Sì. L'ingresso ai Princes Street Gardens è completamente gratuito e il parco è aperto al pubblico tutto l'anno."
+      },
+      {
+        "question": "Quali sono gli orari di apertura dei Princes Street Gardens?",
+        "answer": "I giardini sono aperti tutto l'anno, generalmente dalle circa 7:00 al tramonto. Gli orari variano in base alla stagione e durante eventi speciali come l'Edinburgh Christmas Market."
+      },
+      {
+        "question": "Cosa c'è da vedere e fare ai Princes Street Gardens?",
+        "answer": "Tra i punti salienti figurano la Ross Fountain, il più antico orologio floreale del mondo, lo Scott Monument, ampi prati per picnic e vedute ineguagliabili di Edinburgh Castle e dello skyline della Old Town."
+      },
+      {
+        "question": "I Princes Street Gardens sono adatti alle famiglie con bambini?",
+        "answer": "Assolutamente. I prati piani e aperti sono ideali per passeggiate e picnic in famiglia, e i giardini si trovano a soli 1 minuto a piedi dalla stazione di Edinburgh Waverley, facili da raggiungere con bambini e bagagli."
+      },
+      {
+        "question": "Qual è la differenza tra East e West Princes Street Gardens?",
+        "answer": "I più ampi West Gardens ospitano la Ross Fountain e la Ross Bandstand, mentre i più piccoli East Gardens sono la sede dello Scott Monument e dell'orologio floreale e ospitano il mercatino di Natale invernale di Edimburgo."
+      },
+      {
+        "question": "Quali eventi si tengono ai Princes Street Gardens?",
+        "answer": "I giardini ospitano ogni inverno l'Edinburgh Christmas Market e concerti all'aperto in estate, oltre a vari eventi pubblici durante l'anno."
+      },
+      {
+        "question": "Come arrivo ai Princes Street Gardens?",
+        "answer": "I giardini si trovano accanto alla stazione di Edinburgh Waverley (1 minuto a piedi) e sono serviti dai Lothian Buses e dai Edinburgh Trams lungo Princes Street."
+      },
+      {
+        "question": "Dove sono i migliori punti foto con vista su Edinburgh Castle?",
+        "answer": "I prati dei West Princes Street Gardens con la Ross Fountain in primo piano e i giardini inferiori che guardano verso il castello offrono gli scatti più iconici con il castello sullo sfondo."
+      }
+    ]
+  }
+}
