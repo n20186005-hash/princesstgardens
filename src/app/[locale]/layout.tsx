@@ -2,6 +2,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
+import { SITE_URL } from '@/lib/seo';
 import type { Metadata } from 'next';
 
 export function generateStaticParams() {
@@ -15,16 +16,15 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://princesstgardens.com';
 
   const localeUrls = Object.fromEntries(
-    routing.locales.map((l) => [l, `${baseUrl}/${l}`])
+    routing.locales.map((l) => [l, `${SITE_URL}/${l}`])
   );
   const selfUrl = localeUrls[locale] ?? localeUrls[routing.defaultLocale];
 
   const ogLocale: Record<string, string> = {
     zh: 'zh_CN',
-    en: 'en_US',
+    en: 'en_GB',
     pl: 'pl_PL',
     de: 'de_DE',
     it: 'it_IT',
@@ -46,9 +46,16 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Princes Street Gardens",
-      locale: ogLocale[locale] ?? 'en_US',
+      siteName: 'Princes Street Gardens',
+      locale: ogLocale[locale] ?? 'en_GB',
       type: 'website',
+      images: [`${SITE_URL}/gallery/princes-street-gardens%20(8).jpg`],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: messages.meta.title,
+      description: messages.meta.description,
+      images: [`${SITE_URL}/gallery/princes-street-gardens%20(8).jpg`],
     },
   };
 }
@@ -91,8 +98,6 @@ export default async function LocaleLayout({
       suppressHydrationWarning
     >
       <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossOrigin="anonymous" />
-        <meta name="google-adsense-account" content="ca-pub-XXXXXXXXXX" />
         <script
           dangerouslySetInnerHTML={{
             __html: `

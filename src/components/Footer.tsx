@@ -1,5 +1,6 @@
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
+import { topics } from '@/content/topics';
 
 export default function Footer() {
   const t = useTranslations('footer');
@@ -39,6 +40,23 @@ export default function Footer() {
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
+            {locale === 'en' && (
+              <div className="flex flex-col gap-2 mr-4">
+                <h3 className="font-display text-base font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
+                  Visitor guides
+                </h3>
+                {Object.values(topics).map((g) => (
+                  <a
+                    key={g.slug}
+                    href={`/${locale}/${g.slug}`}
+                    style={{ color: 'var(--text-secondary)' }}
+                    className="hover:underline"
+                  >
+                    {g.navLabel}
+                  </a>
+                ))}
+              </div>
+            )}
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </a>

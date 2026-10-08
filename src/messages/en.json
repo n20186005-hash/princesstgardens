@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Princes Street Gardens Edinburgh – Free Entry, Opening Hours & Best Castle Views",
-    "description": "Plan your visit to Princes Street Gardens in central Edinburgh. Free entry year-round, opening hours, Ross Fountain, the Floral Clock, family tips, and the best photo spots with Edinburgh Castle views."
+    "title": "Princes Street Gardens Edinburgh | Hours, Map & Free Entry",
+    "description": "Plan your visit to Princes Street Gardens in Edinburgh. Check seasonal opening hours, free admission, entrance locations, Ross Fountain, Floral Clock and castle views."
   },
   "header": {
     "home": "Home",
@@ -14,7 +14,7 @@
     "title": "Princes Street Gardens",
     "subtitle": "Garden · Edinburgh",
     "rating": "4.7",
-    "reviewCount": "26,933 reviews",
+    "reviewCount": "27,288 reviews",
     "type": "Garden",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/d4fuHbdFk3VPCpse7"
@@ -44,6 +44,11 @@
     "title": "About Princes Street Gardens",
     "sections": [
       {
+        "id": "name",
+        "title": "Is it Princes or Princess Street Gardens?",
+        "content": "The official name is Princes Street Gardens — it takes its name from Princes Street, not from a princess. Many visitors search for “Princess Street Gardens”; if you typed that spelling, you are in the right place. Both spellings refer to the same public park below Edinburgh Castle."
+      },
+      {
         "id": "history",
         "title": "Historical Background",
         "content": "Princes Street Gardens was created in the 1820s, replacing the Nor Loch. The loch was once a natural defense on the north side of Edinburgh Castle, which later became an open sewer as the city grew. During the construction of the New Town, the loch was drained and transformed into this beautiful garden that now separates the Old and New Towns."
@@ -51,7 +56,7 @@
       {
         "id": "layout",
         "title": "Geography & Layout",
-        "content": "The park is divided into two parts by an artificial hill known as The Mound. The larger West Princes Street Gardens is home to the famous Ross Fountain and the Ross Bandstand, while the smaller East Princes Street Gardens features the magnificent Scott Monument and the world's oldest Floral Clock."
+        "content": "The park is divided into two parts by an artificial hill known as The Mound. The larger West Princes Street Gardens is home to the Ross Fountain, the Ross Bandstand and the Floral Clock near the Allan Ramsay Monument. The smaller East Princes Street Gardens features the Scott Monument and sits next to Waverley station."
       },
       {
         "id": "culture",
@@ -76,7 +81,7 @@
     "city": "City",
     "cityValue": "Edinburgh",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.7 (26,933)",
+    "googleRatingValue": "4.7 (27,288)",
     "phone": "Phone",
     "phoneValue": "+441315297921",
     "address": "Address",
@@ -87,13 +92,58 @@
   "hours": {
     "title": "Visiting Hours",
     "park": "Site Access",
-    "parkTime": "Open year-round (7:00 AM to dusk, varies by season)",
+    "parkTime": "Gates open 07:00 daily, year-round",
     "bestTime": "Best Time to Visit",
     "bestTimeSpring": "Spring: Flowers and cherry blossoms blooming",
     "bestTimeSummer": "Summer: Sunny days, great for picnics and outdoor activities",
     "bestTimeAutumn": "Autumn: Beautiful foliage and vibrant colors",
     "bestTimeWinter": "Winter: Festive atmosphere with the Edinburgh Christmas Market",
-    "tip": "Opening hours may vary due to seasons and special events. Please check the Edinburgh City Council website for the latest updates."
+    "tip": "Opening hours may vary due to seasons and special events. Please check the Edinburgh City Council website for the latest updates.",
+    "scheduleTitle": "Seasonal closing times",
+    "scheduleNote": "The City of Edinburgh Council publishes closing times that change through the year. Gates start closing about one hour before the published closing time so the gardens can be cleared safely.",
+    "scheduleHeaders": {
+      "period": "Dates",
+      "closes": "Closing time",
+      "gates": "Gates start closing"
+    },
+    "schedule": [
+      {
+        "period": "1 Jan – 29 Mar",
+        "closes": "18:00",
+        "gates": "West 17:00 · East 17:15"
+      },
+      {
+        "period": "30 Mar – 26 Apr",
+        "closes": "19:00",
+        "gates": "West 18:00 · East 18:15"
+      },
+      {
+        "period": "27 Apr – 31 May",
+        "closes": "20:00",
+        "gates": "West 19:00 · East 19:15"
+      },
+      {
+        "period": "1 Jun – 30 Aug",
+        "closes": "22:00",
+        "gates": "West 21:00 · East 21:15"
+      },
+      {
+        "period": "31 Aug – 27 Sep",
+        "closes": "20:00",
+        "gates": "West 19:00 · East 19:15"
+      },
+      {
+        "period": "28 Sep – 25 Oct",
+        "closes": "19:00",
+        "gates": "West 18:00 · East 18:15"
+      },
+      {
+        "period": "26 Oct – 31 Dec",
+        "closes": "18:00",
+        "gates": "West 17:00 · East 17:15"
+      }
+    ],
+    "sourceNote": "Source: City of Edinburgh Council (Edinburgh Outdoors), checked 8 October 2026. Times can change for events, maintenance or bad weather — check the official page before you travel."
   },
   "tickets": {
     "title": "Admission Information",
@@ -124,8 +174,8 @@
     "overview": "Take a leisurely stroll through the gardens and enjoy classic landmarks.",
     "steps": [
       "Start at the Scott Monument in East Princes Street Gardens",
-      "Admire the exquisite Floral Clock, the oldest of its kind in the world",
       "Walk past the Scottish National Gallery into West Princes Street Gardens",
+      "See the Floral Clock in West Princes Street Gardens, near the Allan Ramsay Monument — first planted in 1903",
       "Visit the magnificent cast-iron Ross Fountain",
       "Look up at the majestic Edinburgh Castle from the lawns"
     ]
@@ -142,7 +192,7 @@
       {
         "title": "Floral Clock",
         "description": "The world's oldest floral clock, featuring a different theme of plant arrangements every summer. Perfect for close-up shots.",
-        "location": "East Princes Street Gardens (near the stairs)",
+        "location": "West Princes Street Gardens (near the Allan Ramsay Monument)",
         "image": "/gallery/princes-street-gardens (4).jpg"
       },
       {
@@ -215,44 +265,7 @@
     "title": "Visitor Reviews",
     "declaration": "Visitor feedback can be viewed via Google Maps.",
     "moreReviews": "View more reviews on Google Maps",
-    "items": [
-      {
-        "name": "Sarah M.",
-        "rating": 5,
-        "date": "2026-04-12",
-        "text": "Absolutely one of the most beautiful spots in Edinburgh. I always take a walk here whenever I visit. Whether admiring the Floral Clock or gazing at the castle, it's incredibly refreshing."
-      },
-      {
-        "name": "James L.",
-        "rating": 5,
-        "date": "2026-03-28",
-        "text": "Having a picnic here is just fantastic! The Ross Fountain has been recently restored and looks stunning with the castle as a backdrop. Great for photos."
-      },
-      {
-        "name": "Emily W.",
-        "rating": 4,
-        "date": "2026-05-01",
-        "text": "A perfect urban oasis for relaxation. The Christmas Market here in winter is not to be missed. Although it can get a bit crowded, the festive atmosphere is top-notch."
-      },
-      {
-        "name": "David K.",
-        "rating": 5,
-        "date": "2026-02-15",
-        "text": "As a plant enthusiast, I was deeply impressed by the Floral Clock and the well-kept lawns. The sunlight hitting the castle at different times of the day makes the view from the gardens look like a painting."
-      },
-      {
-        "name": "Lisa T.",
-        "rating": 5,
-        "date": "2025-10-22",
-        "text": "Great place for a family walk. The lawns are beautifully manicured, it's exceptionally stunning during autumn with the fallen leaves, and incredibly accessible right outside the train station."
-      },
-      {
-        "name": "Mark R.",
-        "rating": 5,
-        "date": "2025-08-09",
-        "text": "Compared to the hustle and bustle of the Royal Mile, this provides a peaceful sanctuary. Sitting on a bench with a coffee while looking at the castle is the best way to experience Edinburgh."
-      }
-    ]
+    "ratingNote": "Google Maps rating · checked October 2026"
   },
   "mapSection": {
     "title": "Map Location",
@@ -341,7 +354,7 @@
       },
       {
         "question": "What are the opening hours of Princes Street Gardens?",
-        "answer": "The gardens are open year-round, generally from around 7:00 AM until dusk. Hours vary by season and during special events such as the Edinburgh Christmas Market."
+        "answer": "The gardens open at 07:00 every day. The closing time published by the council changes with the seasons — for example 19:00 between 28 September and 25 October 2026, with the west gates starting to close at 18:00 and the east gates at 18:15."
       },
       {
         "question": "What is there to see and do at Princes Street Gardens?",
@@ -353,7 +366,7 @@
       },
       {
         "question": "What is the difference between East and West Princes Street Gardens?",
-        "answer": "The larger West Gardens feature the Ross Fountain and the Ross Bandstand, while the smaller East Gardens are home to the Scott Monument and the Floral Clock, and host the winter Edinburgh Christmas Market."
+        "answer": "West Princes Street Gardens is the larger half, with the Ross Fountain, the Ross Bandstand and the Floral Clock near the Allan Ramsay Monument. East Princes Street Gardens is smaller, home to the Scott Monument next to Waverley station, and hosts the winter Edinburgh Christmas Market."
       },
       {
         "question": "What events are held at Princes Street Gardens?",
@@ -366,6 +379,18 @@
       {
         "question": "Where are the best photo spots with Edinburgh Castle views?",
         "answer": "The lawns of West Princes Street Gardens with the Ross Fountain in the foreground, and the lower gardens looking up at the castle, offer the most iconic castle-backdrop shots."
+      },
+      {
+        "question": "Is it Princes Street Gardens or Princess Street Gardens?",
+        "answer": "The official name is Princes Street Gardens, after Princes Street itself. “Princess Street Gardens” is a very common misspelling and refers to exactly the same park."
+      },
+      {
+        "question": "Where is the Floral Clock?",
+        "answer": "The Floral Clock stands in West Princes Street Gardens, close to the Allan Ramsay Monument and The Mound — not in the East Gardens. It was first planted in 1903 and is re-planted with a new design every summer."
+      },
+      {
+        "question": "What time do Princes Street Gardens close?",
+        "answer": "Closing time changes through the year: 18:00 (1 Jan – 29 Mar), 19:00 (30 Mar – 26 Apr), 20:00 (27 Apr – 31 May), 22:00 (1 Jun – 30 Aug), 20:00 (31 Aug – 27 Sep), 19:00 (28 Sep – 25 Oct) and 18:00 (26 Oct – 31 Dec). West gates start closing about an hour earlier, east gates 45 minutes earlier."
       }
     ]
   }

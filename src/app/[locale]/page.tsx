@@ -18,6 +18,42 @@ import MapEmbed from '@/components/MapEmbed';
 import FaqSection from '@/components/FaqSection';
 import Footer from '@/components/Footer';
 import JsonLd from '@/components/JsonLd';
+import { topics } from '@/content/topics';
+
+function GuideLinks({ locale }: { locale: string }) {
+  if (locale !== 'en') return null;
+  return (
+    <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
+      <div className="max-w-4xl mx-auto">
+        <h2
+          className="font-display text-2xl sm:text-3xl font-semibold mb-6"
+          style={{ color: 'var(--text-primary)' }}
+        >
+          Plan your visit
+        </h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          {Object.values(topics).map((t) => (
+            <a
+              key={t.slug}
+              href={`/${locale}/${t.slug}`}
+              className="rounded-xl p-5 transition-shadow hover:shadow-md"
+              style={{
+                background: 'var(--bg-tertiary)',
+                border: '1px solid var(--border-color)',
+                color: 'var(--text-primary)',
+              }}
+            >
+              <p className="font-medium">{t.navLabel}</p>
+              <p className="text-sm mt-1" style={{ color: 'var(--text-muted)' }}>
+                {t.title.split(' | ')[0].split(' | ')[0]}
+              </p>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
 
 export default async function HomePage({
   params,
@@ -59,6 +95,7 @@ export default async function HomePage({
         <HotelsSection />
         <Reviews />
         <MapEmbed />
+        <GuideLinks locale={locale} />
         <FaqSection title={tFaq('title')} items={faqItems} />
       </main>
       <Footer />

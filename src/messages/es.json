@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Princes Street Gardens en Edimburgo – Entrada gratuita, horarios y las mejores vistas del castillo",
-    "description": "Planifica tu visita a los Princes Street Gardens en el centro de Edimburgo. Entrada gratuita todo el año, horarios, Ross Fountain, el reloj floral, consejos para familias y los mejores sitios para fotos con vistas a Edinburgh Castle."
+    "title": "Princes Street Gardens Edimburgo | Horarios, mapa y entrada gratuita",
+    "description": "Planifica tu visita a los Princes Street Gardens de Edimburgo: horarios estacionales, entrada gratuita, accesos, Ross Fountain, reloj floral y vistas al castillo."
   },
   "header": {
     "home": "Inicio",
@@ -14,7 +14,7 @@
     "title": "Princes Street Gardens",
     "subtitle": "Jardín · Edimburgo",
     "rating": "4.7",
-    "reviewCount": "26.933 opiniones",
+    "reviewCount": "27.288 opiniones",
     "type": "Jardín",
     "openMaps": "Ver en Google Maps",
     "mapsLink": "https://maps.app.goo.gl/d4fuHbdFk3VPCpse7"
@@ -51,7 +51,7 @@
       {
         "id": "layout",
         "title": "Geografía y distribución",
-        "content": "El parque se divide en dos partes por una colina artificial conocida como The Mound. Los más amplios West Princes Street Gardens albergan la famosa Ross Fountain y la Ross Bandstand, mientras que los más pequeños East Princes Street Gardens cuentan con el magnífico Scott Monument y el reloj floral más antiguo del mundo."
+        "content": "El parque se divide en dos partes por una colina artificial conocida como The Mound. Los más amplios West Princes Street Gardens albergan la Ross Fountain, la Ross Bandstand y el reloj floral junto al monumento a Allan Ramsay. Los más pequeños East Princes Street Gardens cuentan con el Scott Monument y están junto a la estación de Waverley."
       },
       {
         "id": "culture",
@@ -76,7 +76,7 @@
     "city": "Ciudad",
     "cityValue": "Edimburgo",
     "googleRating": "Valoración de Google",
-    "googleRatingValue": "4,7 (26.933)",
+    "googleRatingValue": "4,7 (27.288)",
     "phone": "Teléfono",
     "phoneValue": "+441315297921",
     "address": "Dirección",
@@ -87,13 +87,58 @@
   "hours": {
     "title": "Horarios de visita",
     "park": "Acceso al recinto",
-    "parkTime": "Abierto todo el año (de 7:00 al anochecer, varía según la estación)",
+    "parkTime": "Puertas abiertas desde las 07:00 todos los días, todo el año",
     "bestTime": "Mejor época para visitar",
     "bestTimeSpring": "Primavera: flores y cerezos en flor",
     "bestTimeSummer": "Verano: días soleados, ideales para picnics y actividades al aire libre",
     "bestTimeAutumn": "Otoño: preciosos colores otoñales",
     "bestTimeWinter": "Invierno: ambiente festivo con el Edinburgh Christmas Market",
-    "tip": "Los horarios pueden variar según la estación y eventos especiales. Consulta el sitio web del Edinburgh City Council para las últimas novedades."
+    "tip": "Los horarios pueden variar según la estación y eventos especiales. Consulta el sitio web del Edinburgh City Council para las últimas novedades.",
+    "scheduleTitle": "Horarios de cierre estacionales",
+    "scheduleNote": "El Ayuntamiento de Edimburgo publica horarios de cierre que cambian a lo largo del año. Las puertas empiezan a cerrarse aproximadamente una hora antes del cierre general.",
+    "scheduleHeaders": {
+      "period": "Periodo",
+      "closes": "Cierre",
+      "gates": "Las puertas empiezan a cerrar"
+    },
+    "schedule": [
+      {
+        "period": "1 ene – 29 mar",
+        "closes": "18:00",
+        "gates": "Oeste 17:00 · Este 17:15"
+      },
+      {
+        "period": "30 mar – 26 abr",
+        "closes": "19:00",
+        "gates": "Oeste 18:00 · Este 18:15"
+      },
+      {
+        "period": "27 abr – 31 may",
+        "closes": "20:00",
+        "gates": "Oeste 19:00 · Este 19:15"
+      },
+      {
+        "period": "1 jun – 30 ago",
+        "closes": "22:00",
+        "gates": "Oeste 21:00 · Este 21:15"
+      },
+      {
+        "period": "31 ago – 27 sep",
+        "closes": "20:00",
+        "gates": "Oeste 19:00 · Este 19:15"
+      },
+      {
+        "period": "28 sep – 25 oct",
+        "closes": "19:00",
+        "gates": "Oeste 18:00 · Este 18:15"
+      },
+      {
+        "period": "26 oct – 31 dic",
+        "closes": "18:00",
+        "gates": "Oeste 17:00 · Este 17:15"
+      }
+    ],
+    "sourceNote": "Fuente: City of Edinburgh Council (Edinburgh Outdoors), consultado el 8 de octubre de 2026. Los horarios pueden cambiar por eventos, mantenimiento o mal tiempo."
   },
   "tickets": {
     "title": "Información de entradas",
@@ -124,8 +169,8 @@
     "overview": "Pasea con calma por los jardines y disfruta de los hitos clásicos.",
     "steps": [
       "Empieza en el Scott Monument en los East Princes Street Gardens",
-      "Admira el exquisito reloj floral, el más antiguo de su tipo en el mundo",
       "Pasa junto a la Galería Nacional de Escocia hacia los West Princes Street Gardens",
+      "Admira el reloj floral en los West Princes Street Gardens, junto al monumento a Allan Ramsay — plantado por primera vez en 1903",
       "Visita la magnífica fuente de hierro fundido Ross",
       "Levanta la vista hacia el majestuoso Edinburgh Castle desde los céspedes"
     ]
@@ -142,7 +187,7 @@
       {
         "title": "Reloj floral",
         "description": "El reloj floral más antiguo del mundo, con un tema de plantas diferente cada verano. Perfecto para primeros planos.",
-        "location": "East Princes Street Gardens (cerca de las escaleras)",
+        "location": "West Princes Street Gardens (junto al monumento a Allan Ramsay)",
         "image": "/gallery/princes-street-gardens (4).jpg"
       },
       {
@@ -215,44 +260,7 @@
     "title": "Opiniones de los visitantes",
     "declaration": "Los comentarios de los visitantes se pueden ver a través de Google Maps.",
     "moreReviews": "Ver más opiniones en Google Maps",
-    "items": [
-      {
-        "name": "Sarah M.",
-        "rating": 5,
-        "date": "2026-04-12",
-        "text": "Sin duda uno de los lugares más bonitos de Edimburgo. Siempre doy un paseo aquí en cada visita. Tanto si admiro el reloj floral como si miro el castillo, es increíblemente renovador."
-      },
-      {
-        "name": "James L.",
-        "rating": 5,
-        "date": "2026-03-28",
-        "text": "Hacer un picnic aquí es simplemente fantástico. La Ross Fountain se ha restaurado recientemente y luce deslumbrante con el castillo al fondo. Ideal para fotos."
-      },
-      {
-        "name": "Emily W.",
-        "rating": 4,
-        "date": "2026-05-01",
-        "text": "Un oasis urbano perfecto para relajarse. El mercadillo de Navidad aquí en invierno no te lo puedes perder. Aunque puede estar un poco concurrido, el ambiente festivo es de primera."
-      },
-      {
-        "name": "David K.",
-        "rating": 5,
-        "date": "2026-02-15",
-        "text": "Como amante de las plantas, quedé profundamente impresionado por el reloj floral y los céspedes bien cuidados. La luz del sol sobre el castillo a diferentes horas del día hace que la vista desde los jardines parezca un cuadro."
-      },
-      {
-        "name": "Lisa T.",
-        "rating": 5,
-        "date": "2025-10-22",
-        "text": "Un lugar estupendo para un paseo en familia. Los céspedes están impecables, preciosos en otoño con las hojas caídas, y accesibles justo al salir de la estación."
-      },
-      {
-        "name": "Mark R.",
-        "rating": 5,
-        "date": "2025-08-09",
-        "text": "En comparación con el bullicio de la Royal Mile, ofrece un refugio tranquilo. Sentarse en un banco con un café mirando el castillo es la mejor forma de experimentar Edimburgo."
-      }
-    ]
+    "ratingNote": "Valoración de Google Maps · consultada en octubre de 2026"
   },
   "mapSection": {
     "title": "Ubicación en el mapa",
@@ -341,7 +349,7 @@
       },
       {
         "question": "¿Cuáles son los horarios de los Princes Street Gardens?",
-        "answer": "Los jardines están abiertos todo el año, generalmente de las 7:00 aproximadamente al anochecer. Los horarios varían según la estación y durante eventos especiales como el Edinburgh Christmas Market."
+        "answer": "Los jardines abren todos los días a las 07:00. El cierre varía según la temporada: por ejemplo, a las 19:00 entre el 28 de septiembre y el 25 de octubre de 2026, con las puertas oeste cerrándose desde las 18:00 y las este desde las 18:15."
       },
       {
         "question": "¿Qué hay para ver y hacer en los Princes Street Gardens?",
@@ -353,7 +361,7 @@
       },
       {
         "question": "¿Cuál es la diferencia entre los East y West Princes Street Gardens?",
-        "answer": "Los más amplios West Gardens albergan la Ross Fountain y la Ross Bandstand, mientras que los más pequeños East Gardens albergan el Scott Monument y el reloj floral y acogen el mercadino de Navidad de Edimburgo en invierno."
+        "answer": "Los West Princes Street Gardens, más amplios, albergan la Ross Fountain, la Ross Bandstand y el reloj floral junto al monumento a Allan Ramsay. Los East Princes Street Gardens, más pequeños, albergan el Scott Monument junto a la estación de Waverley y el mercadillo navideño en invierno."
       },
       {
         "question": "¿Qué eventos se celebran en los Princes Street Gardens?",

@@ -16,6 +16,7 @@ export async function generateMetadata({
   const selfUrl = localeUrls[locale] ?? localeUrls[routing.defaultLocale];
 
   return {
+    robots: { index: false, follow: true },
     alternates: {
       canonical: selfUrl,
       languages: {

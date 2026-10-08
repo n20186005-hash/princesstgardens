@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Princes Street Gardens in Edinburgh – Kostenloser Eintritt, Öffnungszeiten & bester Blick auf die Burg",
-    "description": "Planen Sie Ihren Besuch in den Princes Street Gardens im Zentrum von Edinburgh. Kostenloser Eintritt das ganze Jahr über, Öffnungszeiten, Ross Fountain, die Blumenuhr, Tipps für Familien und die besten Fotomotive mit Blick auf Edinburgh Castle."
+    "title": "Princes Street Gardens Edinburgh | Öffnungszeiten, Karte & freier Eintritt",
+    "description": "Planen Sie Ihren Besuch der Princes Street Gardens in Edinburgh: saisonale Öffnungszeiten, freier Eintritt, Eingänge, Ross Fountain, Blumenuhr und Blicke auf das Schloss."
   },
   "header": {
     "home": "Startseite",
@@ -14,7 +14,7 @@
     "title": "Princes Street Gardens",
     "subtitle": "Garten · Edinburgh",
     "rating": "4.7",
-    "reviewCount": "26.933 Bewertungen",
+    "reviewCount": "27.288 Bewertungen",
     "type": "Garten",
     "openMaps": "In Google Maps ansehen",
     "mapsLink": "https://maps.app.goo.gl/d4fuHbdFk3VPCpse7"
@@ -51,7 +51,7 @@
       {
         "id": "layout",
         "title": "Geografie & Aufteilung",
-        "content": "Der Park wird durch einen künstlichen Hügel namens The Mound in zwei Teile geteilt. Die größeren West Princes Street Gardens beherbergen den berühmten Ross Brunnen und die Ross Bandstand, während die kleineren East Princes Street Gardens das prächtige Scott-Denkmal und die älteste Blumenuhr der Welt enthalten."
+        "content": "Der Park wird durch einen künstlichen Hügel namens The Mound in zwei Teile geteilt. Die größeren West Princes Street Gardens beherbergen den Ross Brunnen, die Ross Bandstand und die Blumenuhr beim Allan Ramsay Monument. Die kleineren East Princes Street Gardens umfassen das Scott-Denkmal und liegen direkt am Bahnhof Waverley."
       },
       {
         "id": "culture",
@@ -76,7 +76,7 @@
     "city": "Stadt",
     "cityValue": "Edinburgh",
     "googleRating": "Google-Bewertung",
-    "googleRatingValue": "4,7 (26.933)",
+    "googleRatingValue": "4,7 (27.288)",
     "phone": "Telefon",
     "phoneValue": "+441315297921",
     "address": "Adresse",
@@ -87,13 +87,58 @@
   "hours": {
     "title": "Öffnungszeiten",
     "park": "Zugang zum Gelände",
-    "parkTime": "Ganzjährig geöffnet (7:00 Uhr bis zur Dämmerung, je nach Jahreszeit)",
+    "parkTime": "Öffnung täglich um 07:00 Uhr, ganzjährig",
     "bestTime": "Beste Besuchszeit",
     "bestTimeSpring": "Frühling: Blüten und Kirschblüten",
     "bestTimeSummer": "Sommer: Sonnige Tage, ideal für Picknicks und Outdoor-Aktivitäten",
     "bestTimeAutumn": "Herbst: Wunderschöne Laubfarben",
     "bestTimeWinter": "Winter: Festliche Atmosphäre mit dem Edinburgh Christmas Market",
-    "tip": "Die Öffnungszeiten können je nach Jahreszeit und Sonderveranstaltungen variieren. Bitte prüfen Sie die aktuellsten Informationen auf der Website des Stadtrats von Edinburgh."
+    "tip": "Die Öffnungszeiten können je nach Jahreszeit und Sonderveranstaltungen variieren. Bitte prüfen Sie die aktuellsten Informationen auf der Website des Stadtrats von Edinburgh.",
+    "scheduleTitle": "Saisonale Schließzeiten",
+    "scheduleNote": "Die Stadtverwaltung Edinburgh veröffentlicht Schließzeiten, die sich im Jahresverlauf ändern. Die Tore beginnen etwa eine Stunde vor der angegebenen Schließzeit zu schließen, damit die Gärten sicher geleert werden können.",
+    "scheduleHeaders": {
+      "period": "Zeitraum",
+      "closes": "Schließzeit",
+      "gates": "Tore schließen ab"
+    },
+    "schedule": [
+      {
+        "period": "1. Jan. – 29. März",
+        "closes": "18:00",
+        "gates": "West 17:00 · Ost 17:15"
+      },
+      {
+        "period": "30. März – 26. Apr.",
+        "closes": "19:00",
+        "gates": "West 18:00 · Ost 18:15"
+      },
+      {
+        "period": "27. Apr. – 31. Mai",
+        "closes": "20:00",
+        "gates": "West 19:00 · Ost 19:15"
+      },
+      {
+        "period": "1. Juni – 30. Aug.",
+        "closes": "22:00",
+        "gates": "West 21:00 · Ost 21:15"
+      },
+      {
+        "period": "31. Aug. – 27. Sep.",
+        "closes": "20:00",
+        "gates": "West 19:00 · Ost 19:15"
+      },
+      {
+        "period": "28. Sep. – 25. Okt.",
+        "closes": "19:00",
+        "gates": "West 18:00 · Ost 18:15"
+      },
+      {
+        "period": "26. Okt. – 31. Dez.",
+        "closes": "18:00",
+        "gates": "West 17:00 · Ost 17:15"
+      }
+    ],
+    "sourceNote": "Quelle: City of Edinburgh Council (Edinburgh Outdoors), geprüft am 8. Oktober 2026. Die Zeiten können sich wegen Veranstaltungen, Wartungsarbeiten oder Wetter ändern – prüfen Sie vor dem Besuch die offizielle Seite."
   },
   "tickets": {
     "title": "Eintrittsinformationen",
@@ -124,8 +169,8 @@
     "overview": "Schlendern Sie entspannt durch die Gärten und genießen Sie klassische Sehenswürdigkeiten.",
     "steps": [
       "Beginnen Sie beim Scott-Denkmal in den East Princes Street Gardens",
-      "Bewundern Sie die exquisite Blumenuhr, die älteste ihrer Art weltweit",
       "Gehen Sie an der Schottischen Nationalgalerie vorbei in die West Princes Street Gardens",
+      "Besichtigen Sie die Blumenuhr in den West Princes Street Gardens beim Allan Ramsay Monument – erstmals 1903 bepflanzt",
       "Besuchen Sie den prächtigen gusseisernen Ross Brunnen",
       "Blicken Sie von den Rasenflächen aus hinauf auf das majestätische Edinburgh Castle"
     ]
@@ -142,7 +187,7 @@
       {
         "title": "Blumenuhr",
         "description": "Die älteste Blumenuhr der Welt, die jeden Sommer ein anderes Pflanzenthema zeigt. Perfekt für Nahaufnahmen.",
-        "location": "East Princes Street Gardens (bei der Treppe)",
+        "location": "West Princes Street Gardens (beim Allan Ramsay Monument)",
         "image": "/gallery/princes-street-gardens (4).jpg"
       },
       {
@@ -215,44 +260,7 @@
     "title": "Besucherbewertungen",
     "declaration": "Gästebewertungen können über Google Maps eingesehen werden.",
     "moreReviews": "Weitere Bewertungen auf Google Maps ansehen",
-    "items": [
-      {
-        "name": "Sarah M.",
-        "rating": 5,
-        "date": "2026-04-12",
-        "text": "Absolut einer der schönsten Orte in Edinburgh. Ich gehe hier immer spazieren, wenn ich zu Besuch komme. Egal ob man die Blumenuhr bewundert oder die Burg betrachtet, es ist unglaublich erfrischend."
-      },
-      {
-        "name": "James L.",
-        "rating": 5,
-        "date": "2026-03-28",
-        "text": "Ein Picknick hier ist einfach fantastisch! Der Ross Brunnen wurde kürzlich restauriert und sieht mit der Burg im Hintergrund atemberaubend aus. Toll zum Fotografieren."
-      },
-      {
-        "name": "Emily W.",
-        "rating": 4,
-        "date": "2026-05-01",
-        "text": "Eine perfekte städtische Oase zum Entspannen. Der Weihnachtsmarkt hier im Winter darf nicht verpasst werden. Es kann zwar etwas voll werden, aber die festliche Atmosphäre ist erstklassig."
-      },
-      {
-        "name": "David K.",
-        "rating": 5,
-        "date": "2026-02-15",
-        "text": "Als Pflanzenliebhaber war ich von der Blumenuhr und den gepflegten Rasenflächen tief beeindruckt. Das Sonnenlicht, das zu verschiedenen Tageszeiten auf die Burg fällt, lässt den Blick aus den Gärten wie ein Gemälde wirken."
-      },
-      {
-        "name": "Lisa T.",
-        "rating": 5,
-        "date": "2025-10-22",
-        "text": "Ein großartiger Ort für einen Familienausflug. Die Rasenflächen sind wunderschön gepflegt, im Herbst mit dem fallenden Laub besonders schön, und direkt vom Bahnhof aus extrem gut erreichbar."
-      },
-      {
-        "name": "Mark R.",
-        "rating": 5,
-        "date": "2025-08-09",
-        "text": "Im Vergleich zum Trubel der Royal Mile bietet es hier eine friedliche Zuflucht. Mit einem Kaffee auf einer Bank zu sitzen und die Burg zu betrachten, ist der beste Weg, Edinburgh zu erleben."
-      }
-    ]
+    "ratingNote": "Google-Maps-Bewertung · geprüft im Oktober 2026"
   },
   "mapSection": {
     "title": "Kartenstandort",
@@ -341,7 +349,7 @@
       },
       {
         "question": "Wie sind die Öffnungszeiten der Princes Street Gardens?",
-        "answer": "Die Gärten sind ganzjährig geöffnet, in der Regel von etwa 7:00 Uhr bis zur Dämmerung. Die Zeiten variieren je nach Jahreszeit und während Sonderveranstaltungen wie dem Edinburgh Christmas Market."
+        "answer": "Die Gärten öffnen täglich um 07:00 Uhr. Die von der Stadtverwaltung veröffentlichte Schließzeit ändert sich mit den Jahreszeiten – zum Beispiel 19:00 Uhr zwischen dem 28. September und dem 25. Oktober 2026, wobei die West-Tore ab 18:00 Uhr und die Ost-Tore ab 18:15 Uhr schließen."
       },
       {
         "question": "Was gibt es in den Princes Street Gardens zu sehen und zu tun?",
@@ -353,7 +361,7 @@
       },
       {
         "question": "Was ist der Unterschied zwischen East und West Princes Street Gardens?",
-        "answer": "Die größeren West Gardens beherbergen den Ross Brunnen und die Ross Bandstand, während die kleineren East Gardens das Scott-Denkmal und die Blumenuhr beheimaten und im Winter den Edinburgh Christmas Market ausrichten."
+        "answer": "Die größeren West Princes Street Gardens umfassen Ross Brunnen, Ross Bandstand und die Blumenuhr beim Allan Ramsay Monument. Die kleineren East Princes Street Gardens beherbergen das Scott-Denkmal am Bahnhof Waverley und im Winter den Weihnachtsmarkt."
       },
       {
         "question": "Welche Veranstaltungen finden in den Princes Street Gardens statt?",
