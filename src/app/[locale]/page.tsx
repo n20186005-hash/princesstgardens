@@ -18,6 +18,7 @@ import MapEmbed from '@/components/MapEmbed';
 import FaqSection from '@/components/FaqSection';
 import Footer from '@/components/Footer';
 import JsonLd from '@/components/JsonLd';
+import NearbyGuides from '@/components/NearbyGuides';
 import { topics } from '@/content/topics';
 
 function GuideLinks({ locale }: { locale: string }) {
@@ -96,6 +97,7 @@ export default async function HomePage({
         <Reviews />
         <MapEmbed />
         <GuideLinks locale={locale} />
+        <NearbyGuides locale={locale} compact />
         <FaqSection title={tFaq('title')} items={faqItems} />
       </main>
       <Footer />

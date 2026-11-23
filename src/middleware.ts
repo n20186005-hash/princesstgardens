@@ -26,7 +26,11 @@ export default function middleware(request: NextRequest) {
     return NextResponse.redirect(url, 308);
   }
 
-  return intlMiddleware(request);
+  const response = intlMiddleware(request);
+  if (nextUrl.pathname.startsWith('/en/nearby/')) {
+    response.headers.delete('link');
+  }
+  return response;
 }
 
 export const config = {

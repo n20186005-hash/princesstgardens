@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next';
 import { SITE_URL } from '@/lib/seo';
 import { routing } from '@/i18n/routing';
+import { nearby } from '@/content/nearby';
 import { TOPIC_SLUGS } from '@/content/topics';
 
 // Only indexable, canonical content. Utility/legal pages (privacy, terms,
@@ -33,6 +34,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.7,
     });
+  }
+
+  const directoryLanguages = Object.fromEntries([...routing.locales, 'x-default'].map((lang) => [
+    lang, `${SITE_URL}/${lang === 'x-default' ? 'en' : lang}/nearby`,
+  ]));
+  for (const locale of routing.locales) {
+    entries.push({ url: directoryLanguages[locale], alternates: { languages: directoryLanguages } });
+  }
+  for (const { slug } of nearby) {
+    entries.push({ url: `${SITE_URL}/en/nearby/${slug}` });
   }
 
   return entries;

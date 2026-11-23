@@ -1,5 +1,6 @@
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import Reviews from '@/components/Reviews';
 import JsonLd from '@/components/JsonLd';
 import { SITE_URL } from '@/lib/seo';
 import { topics, type Topic } from '@/content/topics';
@@ -48,8 +49,8 @@ export default function TopicPage({
     <>
       <JsonLd data={breadcrumbJsonLd} />
       <JsonLd data={faqJsonLd} />
-      <Header />
-      <main className="section-padding">
+      <Header solid englishGuide />
+      <main className="section-padding !pt-24">
         <div className="max-w-3xl mx-auto">
           {/* Breadcrumb */}
           <nav aria-label="Breadcrumb" className="mb-6 text-sm" style={{ color: 'var(--text-muted)' }}>
@@ -76,6 +77,19 @@ export default function TopicPage({
           >
             {topic.intro}
           </p>
+
+          <section className="mb-10 rounded-xl border p-5 sm:p-7" style={{ background: 'var(--bg-secondary)', borderColor: 'var(--border-color)' }}>
+            <h2 className="mb-4 font-display text-2xl font-semibold">Princes Street Gardens at a glance</h2>
+            <dl className="space-y-3">
+              <div><dt className="font-semibold">Managed by</dt><dd>City of Edinburgh Council</dd></div>
+              <div><dt className="font-semibold">Location</dt><dd>Princes Street and The Mound, Edinburgh EH2</dd></div>
+              <div><dt className="font-semibold">Admission and access</dt><dd>Free public gardens. The east and west gardens have separate gates and seasonal closing times.</dd></div>
+              <div><dt className="font-semibold">Getting here</dt><dd>From Edinburgh Waverley, walk via Waverley Bridge to the east gardens. Princes Street tram stop is close to the Mound and west gardens.</dd></div>
+            </dl>
+            <p className="mt-4">
+              <a href="https://maps.app.goo.gl/d4fuHbdFk3VPCpse7" className="underline" style={{ color: 'var(--accent)' }}>View the gardens on Google Maps</a>
+            </p>
+          </section>
 
           {topic.sections.map((section, i) => (
             <section key={i} className="mb-12">
@@ -212,9 +226,13 @@ export default function TopicPage({
                   {t.navLabel}
                 </a>
               ))}
+              <a href="/en/nearby" className="px-4 py-2 rounded-full text-sm font-medium" style={{ color: 'var(--accent)', border: '1px solid var(--accent)' }}>
+                Nearby attractions
+              </a>
             </div>
           </section>
         </div>
+        <Reviews />
       </main>
       <Footer />
     </>

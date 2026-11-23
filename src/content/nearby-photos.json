@@ -1,0 +1,275 @@
+{
+  "scott-monument": {
+    "source": "https://commons.wikimedia.org/wiki/File:Scott_monument_%284792908988%29.jpg",
+    "author": "Martin Abegglen from Bern, Switzerland",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Scott_monument_(4792908988).jpg"
+  },
+  "edinburgh-castle": {
+    "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_Esplanade_20211019.jpg",
+    "author": "Daniel Kraft",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "Edinburgh_Castle_from_Esplanade_20211019.jpg"
+  },
+  "calton-hill": {
+    "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Calton_Hill.jpg",
+    "author": "Saffron Blaze",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "file": "Edinburgh_Calton_Hill.jpg"
+  },
+  "national-monument": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tourists_posing_at_the_National_Monument_of_Scotland.jpg",
+    "author": "Colin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "Tourists_posing_at_the_National_Monument_of_Scotland.jpg"
+  },
+  "nelson-monument": {
+    "source": "https://commons.wikimedia.org/wiki/File:Scotland-2016-Edinburgh-Nelson_Monument.jpg",
+    "author": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "Scotland-2016-Edinburgh-Nelson_Monument.jpg"
+  },
+  "dugald-stewart-monument": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dugald_Stewart_Monument_-_05.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "Dugald_Stewart_Monument_-_05.jpg"
+  },
+  "city-observatory": {
+    "source": "https://commons.wikimedia.org/wiki/File:Scotland-2016-Edinburgh-City_Observatory.jpg",
+    "author": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "Scotland-2016-Edinburgh-City_Observatory.jpg"
+  },
+  "national-gallery": {
+    "source": "https://commons.wikimedia.org/wiki/File:Scottish_National_Gallery_-_aerial_-_2025-04-19_01.jpg",
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "Scottish_National_Gallery_-_aerial_-_2025-04-19_01.jpg"
+  },
+  "portrait-gallery": {
+    "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Scottish_National_Portrait_Gallery.jpg",
+    "author": "Kenneth C. Zirkel",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "file": "Exterior_of_the_Scottish_National_Portrait_Gallery.jpg"
+  },
+  "st-giles-cathedral": {
+    "source": "https://commons.wikimedia.org/wiki/File:St_Giles_Cathedral_-_01.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "St_Giles_Cathedral_-_01.jpg"
+  },
+  "greyfriars-kirk": {
+    "source": "https://commons.wikimedia.org/wiki/File:Greyfriars_Kirk_-_01.jpg",
+    "author": "Carlos Delgado",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "Greyfriars_Kirk_-_01.jpg"
+  },
+  "scottish-parliament": {
+    "source": "https://commons.wikimedia.org/wiki/File:Holyrood_Parliament_Edinburgh_%286096619764%29.jpg",
+    "author": "dun_deagh",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Holyrood_Parliament_Edinburgh_(6096619764).jpg"
+  },
+  "holyrood-palace": {
+    "source": "https://commons.wikimedia.org/wiki/File:Holyrood_Palace_-_aerial_-_2025-04-19_01_%28cropped%29.jpg",
+    "author": "瑞丽江的河水",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "Holyrood_Palace_-_aerial_-_2025-04-19_01_(cropped).jpg"
+  },
+  "st-cecilias-hall": {
+    "source": "https://commons.wikimedia.org/wiki/File:A13-EDU-Jly-23-1147.jpg",
+    "author": "TrainingLaura",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "A13-EDU-Jly-23-1147.jpg"
+  },
+  "ross-fountain": {
+    "source": "https://commons.wikimedia.org/wiki/File:The_Ross_Fountain_in_Princes_Street_Gardens_Edinburgh_-_geograph.org.uk_-_8171509.jpg",
+    "author": "Jennifer Petrie",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "The_Ross_Fountain_in_Princes_Street_Gardens_Edinburgh_-_geograph.org.uk_-_8171509.jpg"
+  },
+  "national-museum": {
+    "source": "https://commons.wikimedia.org/wiki/File:The_National_Museum_of_Scotland_in_Chambers_Street_-_geograph.org.uk_-_8247795.jpg",
+    "author": "Iain Lees",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "The National Museum of Scotland in Chambers Street - geograph.org.uk - 8247795.jpg"
+  },
+  "dean-village": {
+    "source": "https://commons.wikimedia.org/wiki/File:Well_Court,_Dean_Village_-_geograph.org.uk_-_7095784.jpg",
+    "author": "M J Richardson",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Well_Court,_Dean_Village_-_geograph.org.uk_-_7095784.jpg"
+  },
+  "victoria-street": {
+    "source": "https://commons.wikimedia.org/wiki/File:Victoria_Street_Edinburgh_-_geograph.org.uk_-_4636785.jpg",
+    "author": "Jim Barton",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Victoria_Street_Edinburgh_-_geograph.org.uk_-_4636785.jpg"
+  },
+  "st-bernards-well": {
+    "source": "https://commons.wikimedia.org/wiki/File:The_Water_of_Leith_and_St._Bernard%27s_Well_-_geograph.org.uk_-_3614869.jpg",
+    "author": "Jonathan Thacker",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "The_Water_of_Leith_and_St._Bernard's_Well_-_geograph.org.uk_-_3614869.jpg"
+  },
+  "museum-on-the-mound": {
+    "source": "https://commons.wikimedia.org/wiki/File:Token_at_the_Museum_on_the_Mound.JPG",
+    "author": "Alf van Beem",
+    "license": "Public domain",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:Token_at_the_Museum_on_the_Mound.JPG",
+    "file": "Token_at_the_Museum_on_the_Mound.JPG"
+  },
+  "grassmarket": {
+    "source": "https://commons.wikimedia.org/wiki/File:Grassmarket,_Edinburgh,_Scotland.jpg",
+    "author": "rboed*",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "file": "Grassmarket, Edinburgh, Scotland.jpg"
+  },
+  "stockbridge": {
+    "source": "https://commons.wikimedia.org/wiki/File:Stockbridge,_Edinburgh_-_geograph.org.uk_-_7919527.jpg",
+    "author": "Jim Barton",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Stockbridge,_Edinburgh_-_geograph.org.uk_-_7919527.jpg"
+  },
+  "john-knox-house": {
+    "source": "https://commons.wikimedia.org/wiki/File:Moubray_House_and_John_Knox_House,_High_Street,_Edinburgh_-_geograph.org.uk_-_6660135.jpg",
+    "author": "Humphrey Bolton",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Moubray_House_and_John_Knox_House,_High_Street,_Edinburgh_-_geograph.org.uk_-_6660135.jpg"
+  },
+  "museum-of-edinburgh": {
+    "source": "https://commons.wikimedia.org/wiki/File:Museum_of_Edinburgh_-_geograph.org.uk_-_3851044.jpg",
+    "author": "M J Richardson",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Museum_of_Edinburgh_-_geograph.org.uk_-_3851044.jpg"
+  },
+  "dean-bridge": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dean_Bridge_Edinburgh.jpg",
+    "author": "Jorge Franganillo",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "file": "Dean Bridge Edinburgh.jpg"
+  },
+  "royal-mile": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tenements,_Royal_Mile_-_geograph.org.uk_-_2316576.jpg",
+    "author": "N Chadwick",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Tenements,_Royal_Mile_-_geograph.org.uk_-_2316576.jpg"
+  },
+  "greyfriars-bobby": {
+    "source": "https://commons.wikimedia.org/wiki/File:Greyfriars_Bobby_statue_on_a_rainy_day_in_Edinburgh.jpg",
+    "author": "Drkirstyross",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "Greyfriars Bobby statue on a rainy day in Edinburgh.jpg"
+  },
+  "peoples-story": {
+    "source": "https://commons.wikimedia.org/wiki/File:Canongate_Tolbooth,_Edinburgh,_Scotland.jpg",
+    "author": "rboed*",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "file": "Canongate Tolbooth, Edinburgh, Scotland.jpg"
+  },
+  "st-marys-cathedral": {
+    "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_(St._Mary_Episcopal).jpg",
+    "author": "Stavros Argyropoulos",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "Edinburgh (St. Mary Episcopal).jpg"
+  },
+  "charlotte-square": {
+    "source": "https://commons.wikimedia.org/wiki/File:North_side_of_Charlotte_Square,_Edinburgh_-_geograph.org.uk_-_4622650.jpg",
+    "author": "Jim Barton",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "North_side_of_Charlotte_Square,_Edinburgh_-_geograph.org.uk_-_4622650.jpg"
+  },
+  "georgian-house": {
+    "source": "https://commons.wikimedia.org/wiki/File:Georgian_houses_in_Charlotte_Square,_Edinburgh_-_geograph.org.uk_-_6660034.jpg",
+    "author": "Humphrey Bolton",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Georgian houses in Charlotte Square, Edinburgh - geograph.org.uk - 6660034.jpg"
+  },
+  "writers-museum": {
+    "source": "https://commons.wikimedia.org/wiki/File:Lady_Stair's_House_(the_Writers_Museum),_Lawnmarket,_Edinburgh.jpg",
+    "author": "Stephencdickson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "Lady Stair's House (the Writers Museum), Lawnmarket, Edinburgh.jpg"
+  },
+  "canongate-kirk": {
+    "source": "https://commons.wikimedia.org/wiki/File:The_Canongate_Kirk,_Edinburgh.JPG",
+    "author": "Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "The Canongate Kirk, Edinburgh.JPG"
+  },
+  "surgeons-hall": {
+    "source": "https://commons.wikimedia.org/wiki/File:Surgeons'_Hall,_Nicolson_Street,_Edinburgh.jpg",
+    "author": "Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "Surgeons' Hall, Nicolson Street, Edinburgh.jpg"
+  },
+  "assembly-rooms": {
+    "source": "https://commons.wikimedia.org/wiki/File:George_Street_54,_Assembly_Rooms,_Edinburgh.jpg",
+    "author": "SylviaStanley",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "George Street 54, Assembly Rooms, Edinburgh.jpg"
+  },
+  "museum-of-childhood": {
+    "source": "https://commons.wikimedia.org/wiki/File:Museum_of_Childhood,_Edinburgh,_November_2024_-_04.jpg",
+    "author": "Pretzelles",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "Museum of Childhood, Edinburgh, November 2024 - 04.jpg"
+  },
+  "national-war-museum": {
+    "source": "https://commons.wikimedia.org/wiki/File:MG-34_at_National_War_Museum,_Edinburgh.jpg",
+    "author": "501ghost",
+    "license": "CC0",
+    "licenseUrl": "https://commons.wikimedia.org/wiki/File:MG-34_at_National_War_Museum,_Edinburgh.jpg",
+    "file": "MG-34 at National War Museum, Edinburgh.jpg"
+  },
+  "st-andrew-square": {
+    "source": "https://commons.wikimedia.org/wiki/File:City_of_Edinburgh_-_25_St_Andrew_Square,_Edinburgh_-_20240529125018.jpg",
+    "author": "Gillfoto",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "City of Edinburgh - 25 St Andrew Square, Edinburgh - 20240529125018.jpg"
+  },
+  "camera-obscura": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hall_of_mirrors,_Camera_Obscura,_Edinburgh_-_geograph.org.uk_-_2444773.jpg",
+    "author": "Mike Pennington",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Hall_of_mirrors,_Camera_Obscura,_Edinburgh_-_geograph.org.uk_-_2444773.jpg"
+  }
+}

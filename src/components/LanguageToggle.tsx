@@ -14,7 +14,7 @@ const labels: Record<string, string> = {
   fr: 'Français',
 };
 
-export default function LanguageToggle() {
+export default function LanguageToggle({ directoryFallback = false }: { directoryFallback?: boolean }) {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
@@ -37,7 +37,7 @@ export default function LanguageToggle() {
     if (next === locale) return;
 
     // Use next-intl router to navigate with locale handling
-    router.replace(pathname, { locale: next });
+    router.replace(directoryFallback ? '/nearby' : pathname, { locale: next });
   }
 
   return (

@@ -4,6 +4,7 @@
     "description": "Planifica tu visita a los Princes Street Gardens de Edimburgo: horarios estacionales, entrada gratuita, accesos, Ross Fountain, reloj floral y vistas al castillo."
   },
   "header": {
+    "nearby": "En los alrededores",
     "home": "Inicio",
     "gallery": "Galería",
     "reviews": "Opiniones",
