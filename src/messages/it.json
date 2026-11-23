@@ -4,6 +4,7 @@
     "description": "Pianifica la visita ai Princes Street Gardens di Edimburgo: orari stagionali, ingresso gratuito, ingressi, Ross Fountain, orologio floreale e vista sul castello."
   },
   "header": {
+    "navigation": "Navigazione principale",
     "siteName": "Giardini di Princes Street",
     "switchLanguage": "Cambia lingua",
     "switchTheme": "Cambia tema colori",

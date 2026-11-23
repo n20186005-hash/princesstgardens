@@ -4,6 +4,7 @@
     "description": "规划你的爱丁堡王子街花园行程：季节性闭园时间、免费入园、各入口位置、罗斯喷泉、花钟与城堡景观。"
   },
   "header": {
+    "navigation": "主导航",
     "siteName": "王子街花园",
     "switchLanguage": "切换语言",
     "switchTheme": "切换配色主题",
