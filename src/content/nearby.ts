@@ -1,6 +1,10 @@
 import photos from './nearby-photos.json';
+import details from './nearby-details.json';
+import additionalPhotos from './nearby-extra-photos.json';
 
 type Photo = { source: string; author: string; license: string; licenseUrl: string };
+type ExtraPhoto = Photo & { path: string; caption: string };
+type Detail = (typeof details)['scott-monument'];
 type Place = {
   slug: string;
   name: string;
@@ -13,6 +17,8 @@ type Place = {
   route: string;
   photoTip: string;
   photo: Photo;
+  extraPhoto?: ExtraPhoto;
+  detail: Detail;
 };
 
 const council = 'City of Edinburgh Council';
@@ -79,13 +85,29 @@ const entries: [string, string, string, string, string, string, string, string, 
 ];
 
 const photoBySlug: Partial<Record<string, Photo>> = photos;
+const extraBySlug: Partial<Record<string, ExtraPhoto>> = additionalPhotos;
+const detailBySlug: Partial<Record<string, Detail>> = details;
 
 export const nearby: Place[] = entries.map(([slug, name, address, area, operator, access, source, history, route, photoTip]) => {
   const photo = photoBySlug[slug];
   if (!photo) throw new Error(`Missing matched photograph for ${slug}`);
-  return { slug, name, address, area, operator, access, source, history, route, photoTip, photo };
+  const detail = detailBySlug[slug];
+  if (!detail) throw new Error(`Missing guide content for ${slug}`);
+  return { slug, name, address, area, operator, access, source, history, route, photoTip, photo, extraPhoto: extraBySlug[slug], detail };
 });
 
-export function placeMap(name: string, address: string) {
-  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${name}, ${address}, Edinburgh, Scotland`)}`;
+const mapNames: Partial<Record<string, string>> = {
+  'national-gallery': 'Scottish National Gallery',
+  'portrait-gallery': 'Scottish National Portrait Gallery',
+  'city-observatory': 'Collective City Observatory',
+  'st-marys-cathedral': 'St Mary’s Episcopal Cathedral Palmerston Place',
+  'national-war-museum': 'National War Museum Edinburgh Castle',
+};
+
+export function placeMaps({ slug, name, address }: Place) {
+  const destination = encodeURIComponent(`${mapNames[slug] ?? name}, ${address}, Edinburgh, Scotland`);
+  return {
+    search: `https://www.google.com/maps/search/?api=1&query=${destination}`,
+    transit: `https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=${destination}`,
+  };
 }

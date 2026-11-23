@@ -92,12 +92,12 @@ export default async function HomePage({
         <InfoSection />
         <RouteSection />
         <PhotoSpotsSection />
+        <NearbyGuides locale={locale} compact />
         <Gallery />
         <HotelsSection />
         <Reviews />
         <MapEmbed />
         <GuideLinks locale={locale} />
-        <NearbyGuides locale={locale} compact />
         <FaqSection title={tFaq('title')} items={faqItems} />
       </main>
       <Footer />

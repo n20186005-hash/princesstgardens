@@ -1,0 +1,47 @@
+{
+  "ross-fountain": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ross_Fountain_and_Edinburgh_Castle.jpg",
+    "author": "Ad Meskens",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "Ross Fountain and Edinburgh Castle.jpg",
+    "path": "/nearby/ross-fountain-view.jpg",
+    "caption": "Ross Fountain and Edinburgh Castle before the fountain’s later restoration"
+  },
+  "georgian-house": {
+    "source": "https://commons.wikimedia.org/wiki/File:Georgian_house,_Charlotte_Square_-_geograph.org.uk_-_2291901.jpg",
+    "author": "N Chadwick",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "file": "Georgian house, Charlotte Square - geograph.org.uk - 2291901.jpg",
+    "path": "/nearby/georgian-house-view.jpg",
+    "caption": "The Georgian House entrance at 7 Charlotte Square"
+  },
+  "museum-on-the-mound": {
+    "source": "https://commons.wikimedia.org/wiki/File:EdinburghMuseumOnTheMound-pjt.jpg",
+    "author": "Pjt56",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "file": "EdinburghMuseumOnTheMound-pjt.jpg",
+    "path": "/nearby/museum-on-the-mound-view.jpg",
+    "caption": "Museum on the Mound exterior and entrance"
+  },
+  "national-war-museum": {
+    "source": "https://commons.wikimedia.org/wiki/File:Earl_Haig_statue,_Edinburgh_Castle.jpg",
+    "author": "Kim Traynor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "Earl Haig statue, Edinburgh Castle.jpg",
+    "path": "/nearby/national-war-museum-view.jpg",
+    "caption": "Hospital Square beside the National War Museum entrance, with the relocated Earl Haig statue"
+  },
+  "st-andrew-square": {
+    "source": "https://commons.wikimedia.org/wiki/File:Melville_Monument,_St_Andrews_Square_Edinburgh.JPG",
+    "author": "Katie Chan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "file": "Melville Monument, St Andrews Square Edinburgh.JPG",
+    "path": "/nearby/st-andrew-square-view.jpg",
+    "caption": "Melville Monument in St Andrew Square"
+  }
+}
