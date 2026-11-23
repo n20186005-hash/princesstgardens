@@ -4,6 +4,9 @@
     "description": "Préparez votre visite des Princes Street Gardens à Édimbourg : horaires saisonniers, entrée gratuite, accès, Ross Fountain, horloge florale et vues sur le château."
   },
   "header": {
+    "siteName": "Jardins de Princes Street",
+    "switchLanguage": "Changer de langue",
+    "switchTheme": "Changer le thème de couleurs",
     "nearby": "À proximité",
     "home": "Accueil",
     "gallery": "Galerie",
@@ -182,7 +185,7 @@
       {
         "title": "Ross Fountain",
         "description": "Une fontaine en fonte ornée dans les jardins ouest. Avec Edinburgh Castle en arrière-plan, elle offre une image classique de carte postale.",
-        "location": "West Princes Street Gardens",
+        "location": "Jardins ouest de Princes Street",
         "image": "/gallery/princes-street-gardens (2).jpg"
       },
       {
@@ -194,7 +197,7 @@
       {
         "title": "Scott Monument",
         "description": "Un grand monument gothique. Le photographier depuis le bas des pelouses crée un fort impact visuel.",
-        "location": "East Princes Street Gardens",
+        "location": "Jardins est de Princes Street",
         "image": "/gallery/princes-street-gardens (5).jpg"
       },
       {
@@ -231,6 +234,9 @@
     ]
   },
   "gallery": {
+    "previousPhoto": "Photo précédente",
+    "nextPhoto": "Photo suivante",
+    "closeViewer": "Fermer la visionneuse",
     "title": "Galerie photos",
     "subtitle": "Vues des Princes Street Gardens",
     "captions": [
@@ -258,6 +264,7 @@
     "showLess": "Voir moins"
   },
   "reviews": {
+    "starsLabel": "{count} sur 5",
     "title": "Avis des visiteurs",
     "declaration": "Les commentaires des visiteurs sont consultables via Google Maps.",
     "moreReviews": "Voir plus d'avis sur Google Maps",

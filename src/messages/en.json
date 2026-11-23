@@ -4,6 +4,9 @@
     "description": "Plan your visit to Princes Street Gardens in Edinburgh. Check seasonal opening hours, free admission, entrance locations, Ross Fountain, Floral Clock and castle views."
   },
   "header": {
+    "siteName": "Princes Street Gardens",
+    "switchLanguage": "Switch language",
+    "switchTheme": "Switch colour theme",
     "nearby": "Nearby attractions",
     "home": "Home",
     "gallery": "Gallery",
@@ -236,6 +239,9 @@
     ]
   },
   "gallery": {
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo",
+    "closeViewer": "Close photo viewer",
     "title": "Photo Gallery",
     "subtitle": "Scenic Views of Princes Street Gardens",
     "captions": [
@@ -263,6 +269,7 @@
     "showLess": "Show Less"
   },
   "reviews": {
+    "starsLabel": "{count} out of 5",
     "title": "Visitor Reviews",
     "declaration": "Visitor feedback can be viewed via Google Maps.",
     "moreReviews": "View more reviews on Google Maps",

@@ -32,7 +32,7 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Princes Street Gardens"
+            title={t('title')}
           />
         </div>
 

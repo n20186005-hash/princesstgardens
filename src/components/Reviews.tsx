@@ -1,8 +1,9 @@
 import { useTranslations } from 'next-intl';
 
 function Stars({ count }: { count: number }) {
+  const t = useTranslations('reviews');
   return (
-    <div className="flex gap-0.5" aria-label={`${count} out of 5`}>
+    <div className="flex gap-0.5" aria-label={t('starsLabel', { count })}>
       {[1, 2, 3, 4, 5].map((i) => (
         <svg
           key={i}

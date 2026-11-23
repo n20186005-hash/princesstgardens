@@ -1,7 +1,7 @@
 'use client';
 
-import { useLocale } from 'next-intl';
-import { useRouter, usePathname, routing, type Locale } from '@/i18n/routing';
+import { useLocale, useTranslations } from 'next-intl';
+import { usePathname, routing } from '@/i18n/routing';
 import { useState, useRef, useEffect } from 'react';
 
 const labels: Record<string, string> = {
@@ -14,9 +14,9 @@ const labels: Record<string, string> = {
   fr: 'Français',
 };
 
-export default function LanguageToggle({ directoryFallback = false }: { directoryFallback?: boolean }) {
+export default function LanguageToggle() {
   const locale = useLocale();
-  const router = useRouter();
+  const t = useTranslations('header');
   const pathname = usePathname();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
@@ -31,15 +31,6 @@ export default function LanguageToggle({ directoryFallback = false }: { director
     return () => document.removeEventListener('mousedown', handleClick);
   }, []);
 
-  function switchLocale(next: Locale) {
-    setOpen(false);
-    
-    if (next === locale) return;
-
-    // Use next-intl router to navigate with locale handling
-    router.replace(directoryFallback ? '/nearby' : pathname, { locale: next });
-  }
-
   return (
     <div ref={ref} className="relative">
       <button
@@ -49,7 +40,8 @@ export default function LanguageToggle({ directoryFallback = false }: { director
           background: 'var(--tag-bg)',
           color: 'var(--tag-text)',
         }}
-        aria-label="Switch language"
+        aria-label={t('switchLanguage')}
+        aria-expanded={open}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>
@@ -68,10 +60,13 @@ export default function LanguageToggle({ directoryFallback = false }: { director
           style={{ background: 'var(--card-bg)', border: '1px solid var(--border-color)' }}
         >
           {routing.locales.map((loc) => (
-            <button
+            <a
               key={loc}
-              onClick={() => switchLocale(loc)}
-              className="w-full text-left px-4 py-2.5 text-sm transition-colors"
+              href={`/${loc}${pathname === '/' ? '' : pathname}`}
+              hrefLang={loc}
+              lang={loc}
+              aria-current={loc === locale ? 'page' : undefined}
+              className="block w-full text-left px-4 py-2.5 text-sm transition-colors"
               style={{
                 color: loc === locale ? 'var(--accent)' : 'var(--text-primary)',
                 fontWeight: loc === locale ? 600 : 400,
@@ -81,7 +76,7 @@ export default function LanguageToggle({ directoryFallback = false }: { director
               onMouseLeave={(e) => (e.currentTarget.style.background = 'transparent')}
             >
               {labels[loc]}
-            </button>
+            </a>
           ))}
         </div>
       )}

@@ -4,6 +4,9 @@
     "description": "Zaplanuj wizytę w Princes Street Gardens w Edynburgu: sezonowe godziny zamknięcia, bezpłatny wstęp, wejścia, Ross Fountain, zegar kwiatowy i widoki na zamek."
   },
   "header": {
+    "siteName": "Ogrody Princes Street",
+    "switchLanguage": "Zmień język",
+    "switchTheme": "Zmień motyw kolorystyczny",
     "nearby": "Atrakcje w pobliżu",
     "home": "Strona główna",
     "gallery": "Galeria",
@@ -182,7 +185,7 @@
       {
         "title": "Fontanna Ross",
         "description": "Ozdobna żeliwna fontanna w zachodniej części ogrodów. Z zamkiem w Edynburgu w tle oferuje klasyczne, pocztówkowe ujęcie.",
-        "location": "West Princes Street Gardens",
+        "location": "Zachodnie ogrody Princes Street",
         "image": "/gallery/princes-street-gardens (2).jpg"
       },
       {
@@ -194,7 +197,7 @@
       {
         "title": "Pomnik Scotta",
         "description": "Wspaniały gotycki pomnik. Fotografowanie z dołu z trawników ogrodu tworzy silny efekt wizualny.",
-        "location": "East Princes Street Gardens",
+        "location": "Wschodnie ogrody Princes Street",
         "image": "/gallery/princes-street-gardens (5).jpg"
       },
       {
@@ -231,6 +234,9 @@
     ]
   },
   "gallery": {
+    "previousPhoto": "Poprzednie zdjęcie",
+    "nextPhoto": "Następne zdjęcie",
+    "closeViewer": "Zamknij podgląd zdjęć",
     "title": "Galeria zdjęć",
     "subtitle": "Widoki Princes Street Gardens",
     "captions": [
@@ -258,6 +264,7 @@
     "showLess": "Pokaż mniej"
   },
   "reviews": {
+    "starsLabel": "{count} na 5",
     "title": "Opinie odwiedzających",
     "declaration": "Opinie można przeglądać przez Mapy Google.",
     "moreReviews": "Zobacz więcej opinii na Mapach Google",

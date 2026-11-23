@@ -1,3 +1,4 @@
+import { routing } from '@/i18n/routing';
 import type { Locale } from '@/i18n/routing';
 
 export const SITE_URL = 'https://www.princesstgardens.com';
@@ -94,4 +95,12 @@ export function buildFaqJsonLd(items: FaqItem[]) {
       },
     })),
   };
+}
+
+
+export function guideAlternates(path: string) {
+  return Object.fromEntries([
+    ...routing.locales.map((locale) => [locale, `${SITE_URL}/${locale}${path}`]),
+    ['x-default', `${SITE_URL}/${routing.defaultLocale}${path}`],
+  ]);
 }

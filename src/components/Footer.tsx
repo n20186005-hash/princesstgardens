@@ -1,10 +1,13 @@
 import { useTranslations } from 'next-intl';
 import { useLocale } from 'next-intl';
-import { topics } from '@/content/topics';
+import { guideTopics, guideText } from '@/content/guide-localization';
+import type { Locale } from '@/i18n/routing';
 
 export default function Footer() {
   const t = useTranslations('footer');
-  const locale = useLocale();
+  const locale = useLocale() as Locale;
+  const copy = guideText(locale);
+  const topics = guideTopics(locale);
   const prefix = `/${locale}`;
 
   return (
@@ -23,27 +26,26 @@ export default function Footer() {
             </p>
             <div className="flex flex-col gap-2">
               <a href="https://www.edinburgh.gov.uk/directory-record/1099222/west-princes-street-gardens" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '爱丁堡市议会' : 'Edinburgh City Council'}
+                {copy('Edinburgh City Council')}
               </a>
               <a href="https://portal.historicenvironment.scot/designation/GDL00367" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '苏格兰历史环境局' : 'Historic Environment Scotland'}
+                {copy('Historic Environment Scotland')}
               </a>
               <a href="https://ewh.org.uk/ross-fountain/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '爱丁堡世界遗产基金会' : 'Edinburgh World Heritage'}
+                {copy('Edinburgh World Heritage')}
               </a>
               <a href="https://edinburgh.org/point-of-interest/scott-monument/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '爱丁堡官方旅游局' : 'Official Edinburgh Tourism Board'}
+                {copy('Official Edinburgh Tourism Board')}
               </a>
               <a href="https://www.nationalgalleries.org/visit/scottish-national-gallery" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
-                {locale === 'zh' ? '苏格兰国家画廊' : 'Scottish National Gallery'}
+                {copy('Scottish National Gallery')}
               </a>
             </div>
           </div>
           <div className="flex flex-wrap gap-4 text-sm mt-4 sm:mt-0">
-            {locale === 'en' && (
               <div className="flex flex-col gap-2 mr-4">
                 <h3 className="font-display text-base font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-                  Visitor guides
+                  {copy('Visitor guides')}
                 </h3>
                 {Object.values(topics).map((g) => (
                   <a
@@ -56,7 +58,6 @@ export default function Footer() {
                   </a>
                 ))}
               </div>
-            )}
             <a href={`${prefix}/privacy-policy`} style={{ color: 'var(--text-secondary)' }} className="hover:underline">
               {t('privacy')}
             </a>

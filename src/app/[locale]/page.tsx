@@ -1,5 +1,7 @@
 import { setRequestLocale, getMessages, getTranslations } from 'next-intl/server';
-import type { Locale } from '@/i18n/routing';
+import { routing, type Locale } from '@/i18n/routing';
+import { hasLocale } from 'next-intl';
+import { notFound } from 'next/navigation';
 import { buildAttractionJsonLd, buildFaqJsonLd, type FaqItem } from '@/lib/seo';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
@@ -19,10 +21,11 @@ import FaqSection from '@/components/FaqSection';
 import Footer from '@/components/Footer';
 import JsonLd from '@/components/JsonLd';
 import NearbyGuides from '@/components/NearbyGuides';
-import { topics } from '@/content/topics';
+import { guideTopics, guideText } from '@/content/guide-localization';
 
-function GuideLinks({ locale }: { locale: string }) {
-  if (locale !== 'en') return null;
+function GuideLinks({ locale }: { locale: Locale }) {
+  const t = guideText(locale);
+  const topics = guideTopics(locale);
   return (
     <section className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
       <div className="max-w-4xl mx-auto">
@@ -30,7 +33,7 @@ function GuideLinks({ locale }: { locale: string }) {
           className="font-display text-2xl sm:text-3xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
         >
-          Plan your visit
+          {t('Plan your visit')}
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {Object.values(topics).map((t) => (
@@ -62,6 +65,7 @@ export default async function HomePage({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
+  if (!hasLocale(routing.locales, locale)) notFound();
   setRequestLocale(locale);
 
   const messages = (await getMessages()) as {

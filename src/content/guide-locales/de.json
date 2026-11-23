@@ -1,0 +1,1558 @@
+{
+  "places": {
+    "scott-monument": {
+      "name": "Scott-Denkmal",
+      "area": "Princes Street Gardens",
+      "operator": "Museums & Galleries Edinburgh (Stadt des Edinburgh Council)",
+      "history": "George Meikle Kemp entwarf dieses gotische Denkmal für den Schriftsteller Walter Scott. Unter den spitzen Bögen suchen Sie nach der blassen Marmorskulptur von Scott und seinem Hund Maida.",
+      "access": "Freies Äußere. Der Zugang zum geführten Turm ist mit einem Ticket versehen und verwendet schmale Treppen.",
+      "route": "Nähern Sie sich von der Waverley Bridge entlang der Princes Street und steigen Sie dann in die östlichen Gärten ab, um einen Blick auf die Basis zu werfen.",
+      "photoTip": "Fotografieren Sie vom östlichen Gartenweg für einen höhenreichen Rahmen und suchen Sie dann nach der Statue unter dem zentralen Bogen.",
+      "detail": {
+        "tagline": "Edinburghs gotische Hommage an Sir Walter Scott",
+        "background": "Das Denkmal entstand aus einer öffentlichen Kampagne nach Scotts Tod im Jahr 1832. George Meikle Kemps Design macht ein literarisches Denkmal, das wie ein gotischer Turm gelesen wird, mit spitzen Bögen und Zinnen, die eine sitzende Figur statt eines Altars einrahmen.",
+        "details": "Gehen Sie um die Basis herum und vergleichen Sie die blasse Marmorstatue mit dem dunkleren Mauerwerk. Höher oben beziehen sich kleine Figuren auf Charaktere aus Scotts Büchern. Ferngläser sind nützlich, wenn Sie auf Bodenniveau bleiben.",
+        "firstStop": "Auf Princes Street Ebene finden Sie den Blick entlang der Geländer, bevor Sie die Ostgärten betreten.",
+        "finalStop": "Schauen Sie an der Basis unter dem Hauptbogen nach Scott und seinem Hund Maida und fahren Sie dann zum Hügel, wenn Sie die Nationalgalerie besuchen.",
+        "transport": "Waverley ist der nächstgelegene Schienenansatz. Benutzen Sie den Waverley Bridge Ausgang. St Andrew Square ist eine bequeme Straßenbahnhaltestelle für das östliche Ende.",
+        "advice": "Die Turmtreppen sind begrenzt. Wenn der Aufstieg Ihren Besuch einschränken würde, lassen Sie sich Zeit, um die Statue und die Schnitzereien vom Gartenweg aus zu sehen.",
+        "question": "Benötige ich ein Ticket, um die Statue zu sehen?",
+        "answer": "Die Hauptskulptur kann vom öffentlichen Gartenweg aus gesehen werden. Überprüfen Sie den Betreiber für alle separat Ticket Turm Touren und Verfügbarkeit."
+      },
+      "visit": {
+        "kind": "gotisches Literaturdenkmal",
+        "duration": "20-45 Minuten",
+        "hours": "Die Statue kann von den Gärten während der Torstunden gesehen werden. Bestätigen Sie die aktuellen geführten Tower Slots vor dem Besuch.",
+        "admission": "Frei zu sehen aus dem Park. Der geführte Aufstieg ist £ 9 Erwachsene, £ 7 Kind oder Konzession oder £ 26 Familie auf der veröffentlichten Preisliste des Rates. Nur Kartenzahlung.",
+        "access": "Die schmale Turmtreppe kann übersprungen werden, indem man die Marmorstatue und das Traktat auf Bodenhöhe sieht.",
+        "experience": "Beginnen Sie bei der Marmorgruppe von Scott und Maida, wo Sie vom Thema des Denkmals zum gotischen Rahmen und den höher geschnitzten Charakteren übergehen können. Kombinieren Sie die Literaturverbindung mit dem Schriftstellermuseum, wenn Sie Zeit haben, in die Altstadt zu klettern."
+      }
+    },
+    "ross-fountain": {
+      "name": "Ross-Brunnen",
+      "area": "Princes Street Gardens",
+      "operator": "Stadtrat von Edinburgh",
+      "history": "Dieser Ziergussbrunnen wurde in Frankreich hergestellt und im 19. Jahrhundert in den Gärten installiert. Seine gestapelten Becken und Skulpturenfiguren bieten einen nahen Kontrapunkt zum dahinter liegenden Burgfelsen.",
+      "access": "Freier Außenstopp. Der Zugang folgt allen geposteten Toren oder temporären Schließungen.",
+      "route": "Betreten Sie die Westgärten von der Princes Street und folgen Sie dem unteren Pfad zum Fuß des Castle Rock.",
+      "photoTip": "Stellen Sie sich auf den unteren Weg nach Süden, um das farbige Eisenwerk gegen das Schloss zu rahmen.",
+      "detail": {
+        "tagline": "Gusseisen und Farbe unter Castle Rock",
+        "background": "Der Brunnen wurde in einer französischen Gießerei hergestellt und auf der 1862 London International Exhibition ausgestellt, bevor er nach Edinburgh gebracht wurde. Seine industrielle Gusseisenkonstruktion ermöglichte es, reich modellierte Dekorationen in Tiers zu montieren.",
+        "details": "Beginnen Sie mit den Figuren im Becken und verfolgen Sie dann die kleineren Schüsseln und Jets nach oben. Der Brunnen und der Castle Rock haben sehr unterschiedliche Entfernungen, was ihre scheinbaren Proportionen verändert, wenn Sie sich auf dem Weg bewegen.",
+        "firstStop": "Nehmen Sie den West Gardens Pfad von der Princes Street hinunter und nähern Sie sich dem Becken von Norden.",
+        "finalStop": "Gehen Sie auf Pfadebene um den Brunnen herum und machen Sie dann eine Pause auf der Nordseite, um zu sehen, wie sich die Burg dahinter erhebt.",
+        "transport": "Verwenden Sie Princes Street oder West End Straßenbahnhaltestellen und fahren Sie zu einem signierten West-Gärten-Tor. Der Brunnen befindet sich unterhalb der Straßenebene.",
+        "advice": "Behandeln Sie den Brunnen als Teil eines Gartenbesuchs. Tore und Wege können sich für Ereignisse schließen, und die Skulptur bleibt auch dann sichtbar, wenn das Wasser ausgeschaltet ist.",
+        "question": "Kann ich nach der Schließung der Gärten besuchen?",
+        "answer": "Der Brunnen befindet sich in den Westgärten. Verwenden Sie die aktuellen Gate-Informationen des Rates, um einen Besuch während der öffentlichen Eröffnung zu planen."
+      },
+      "visit": {
+        "kind": "Gusseisenbrunnen in einem öffentlichen Garten",
+        "duration": "15-30 Minuten",
+        "hours": "Die West Princes Street Gardens sind täglich um 07:00 Uhr geöffnet. Die Schließung variiert von 18:00 Uhr im Winter bis 22:00 Uhr im Sommer. West Gates beginnen etwa eine Stunde früher zu schließen. Überprüfen Sie den saisonalen Zeitplan des Rates für Ihr Datum.",
+        "admission": "Frei auf den öffentlichen Gartenwegen. Kein Springbrunnenticket oder Reservierung.",
+        "access": "Der Brunnen befindet sich am Fuße des Hanges. Lassen Sie Zeit, um zu einem offenen Westtor zurückzukehren.",
+        "experience": "Verbringen Sie die ersten paar Minuten nah genug, um die gegossenen Figuren und geformten Eisenarbeiten zu sehen. Treten Sie zurück über den unteren Gartenweg für einen zweiten Blick auf die Beziehung des Brunnens zum Castle Rock und fahren Sie dann entlang der Rasenflächen fort, anstatt sofort hinauszuklettern."
+      },
+      "caption": "Ross Fountain und Edinburgh Castle vor der späteren Restaurierung des Brunnens"
+    },
+    "edinburgh-castle": {
+      "name": "Edinburgh Castle",
+      "area": "Altstadt",
+      "operator": "Schottische Denkmalbehörde",
+      "history": "Die Festung befindet sich in einer vulkanischen Felsen über der Stadt. Die erhaltenen Gebäude reichen von der St. Margaret's Chapel über Militärlagerhäuser bis hin zur Großen Halle.",
+      "access": "Fahrkartenbesuch. Überprüfen Sie die Öffnungszeiten, Preise und Verfügbarkeit vor der Reise.",
+      "route": "Gehen Sie den Lawnmarket und Castlehill zur Esplanade hinauf. Lassen Sie sich zusätzliche Zeit für den bergaufgehenden Ansatz und die Einstiegswarteschlange.",
+      "photoTip": "Bilden Sie von der Esplanade das Torhaus und die Kurve des Ansatzes ein. Die Westgärten bieten einen tieferen Blick auf den Felsen.",
+      "detail": {
+        "tagline": "Eine Festung auf dem Altstadtkamm",
+        "background": "Die strategische Lage des Schlosses hat seine Nutzung als königliche Residenz, Garnison und militärische Festung geprägt. Seine Gebäude wurden über Jahrhunderte hinzugefügt und überarbeitet, was erklärt, warum eine kleine mittelalterliche Kapelle in der Nähe späterer militärischer Bereiche und formeller königlicher Innenräume steht.",
+        "details": "Vergleichen Sie den defensiven Ansatz am Eingang mit den geschlossenen Räumen höher oben. Sehen Sie sich in der Nähe des Crown Square an, wie die Gebäude einen Hof bilden, obwohl der Felsen und seine Verteidigung das breitere Layout bestimmen.",
+        "firstStop": "Von der Esplanade aus durchqueren Sie den Eintritt mit dem Ticket und arbeiten entlang der signierten Route bergauf.",
+        "finalStop": "Geben Sie der oberen Burg und dem Kronenplatz ihren eigenen Halt. Auf dem Rückweg nehmen Sie den unteren Ansatz zum National War Museum, wenn dies auf Ihrer Reiseroute steht.",
+        "transport": "Der Bahnhof Waverley und die Straßenbahnhaltestelle Princes Street befinden sich unterhalb von Castlehill. Der endgültige Ansatz über den Lawnmarket und die Esplanade ist bergauf.",
+        "advice": "Reservieren Sie ein zeitgesteuertes Ticket, wenn Ihr Zeitplan festgelegt ist, und überprüfen Sie die Zugangsführung des Schlosses auf steile Steigungen, unebenes Pflastern und den am besten geeigneten Ankunftsort.",
+        "question": "Ist das National War Museum eine separate Reise?",
+        "answer": "Es ist im Inneren des Schlosses. Überprüfen Sie die eigenen Stunden und die Ticket-Arrangements des Schlosses, bevor Sie die beiden Besuche kombinieren."
+      },
+      "visit": {
+        "kind": "Historische Festung und königlicher Komplex",
+        "duration": "2–3 Stunden",
+        "hours": "Normalerweise 09:30-18:00 April-September, letzter Eintrag 17:00. Die meisten Oktober-März-Daten sind 09:30-17:00, letzter Eintrag 16:00. Heiligabend und Neujahrstag haben unterschiedliche Stunden, und der 25. bis 26. Dezember ist geschlossen.",
+        "admission": "Erwachsene £23.50 online oder £26 Walk-up. Kind im Alter von 7-15 £ 11,50 online oder £ 13 Walk-up. Standardtickets haben eine begrenzte Kapazität.",
+        "access": "Die Routen innerhalb der Festung klettern über Steinflächen. Konsultieren Sie den Zugangsführer des Schlosses, wenn steile Hänge oder Pflastersteine Ihren Besuch beeinflussen.",
+        "experience": "Bauen Sie Ihren ersten Besuch mit drei verschiedenen Erlebnissen auf: dem strategischen Ansatz durch die Verteidigungsanlagen, den königlichen Gebäuden in der Nähe des Kronenplatzes und der älteren Kapelle. Wenn das Kriegsmuseum für Sie wichtig ist, legen Sie es vor der Rückkehr zum Eingang auf Ihre Route."
+      }
+    },
+    "calton-hill": {
+      "name": "Calton Hill",
+      "area": "Calton Hill",
+      "operator": "Stadtrat von Edinburgh",
+      "history": "Die Sammlung klassischer Denkmäler und Observatorien des Hügels trug dazu bei, den Ruf Edinburghs als Athen des Nordens zu prägen. Der Gipfel zeigt, wie das Netz der Neustadt am Kamm endet.",
+      "access": "Freier Außenstopp. Der Zugang folgt allen geposteten Toren oder temporären Schließungen.",
+      "route": "Klettern Sie vom Waterloo Place, umrunden Sie die Gipfeldenkmäler und folgen Sie dann der beschilderten Route zurück in Richtung Regent Road.",
+      "photoTip": "Blicken Sie nach Westen entlang der Princes Street vom Gipfelweg. Halten Sie sich von Klippenkanten fern und lassen Sie die Wege offen.",
+      "detail": {
+        "tagline": "Der Kamm, wo Edinburgh auf seine Skyline trifft",
+        "background": "Calton Hill wurde zu einem Schauplatz für Observatorien und klassische Denkmäler, als Edinburgh nach Osten expandierte. Die Hügelgebäude stehen in kleinen Gruppen, so dass die Lücken zwischen ihnen für die Ansichten ebenso wichtig sind wie die Denkmäler selbst.",
+        "details": "Von der Westterrasse folgen Sie der geraden Linie der Princes Street in Richtung Schloss. Während Sie den Gipfel umrunden, wechselt die Aussicht von kompakten Stadtblöcken zu Arthur's Seat und dem Firth of Forth.",
+        "firstStop": "Beginnen Sie mit dem nach Westen gerichteten Blick über Waterloo Place, bevor Sie zu den Nelson- und Nationaldenkmälern überqueren.",
+        "finalStop": "Fahren Sie weiter in Richtung des Stadtobservatoriums und kehren Sie dann über eine signierte Route zurück, die zu Ihren Füßen passt.",
+        "transport": "Von Waverley aus nutzen Sie die Princes Street und fahren weiter am Waterloo Place vorbei. Vergleichen Sie die signierten Schritte und Pfadanflüge auf der Regent Road, bevor Sie steigen.",
+        "advice": "Der Gipfel ist dem Wind ausgesetzt. Budget Zeit für den Aufstieg und prüfen Sie, ob ein Indoor-Stop bei Collective geöffnet ist, wenn Sie Schutz wünschen.",
+        "question": "Brauche ich ein Ticket für den Hügel?",
+        "answer": "Die öffentlichen Bergwege sind frei. Einzelne Gebäude, Touren und Ausstellungen können ihre eigenen Eröffnungsarrangements haben."
+      },
+      "visit": {
+        "kind": "Öffentliche Hügel und Skyline Aussichtspunkt",
+        "duration": "45-75 Minuten",
+        "hours": "Öffentliche Wege im Freien. Für das Observatorium und die Türme gelten getrennte Öffnungszeiten.",
+        "admission": "Kostenlos für die öffentlichen Bergwege. Indoor-Denkmäler oder programmierte Aktivitäten haben separate Eintrittsvereinbarungen.",
+        "access": "Die signierten Routen variieren in der Steigung und Treppennutzung. Bleiben Sie auf Pfaden, besonders in der Nähe des steilen westlichen Randes.",
+        "experience": "Behandeln Sie den Gipfel als kurze Schleife mit unterschiedlichen Ansichten. Die Westterrasse blickt entlang der Princes Street zurück, die Denkmäler zeigen die klassischen Ambitionen der Edinburgh Enlightenment und die östlichen Pfade öffnen sich zu Holyrood und den Hügeln."
+      }
+    },
+    "national-monument": {
+      "name": "Schottisches Nationaldenkmal",
+      "area": "Calton Hill",
+      "operator": "Stadtrat von Edinburgh",
+      "history": "Inspiriert vom Parthenon erinnert das unvollendete Denkmal an schottische Soldaten und Matrosen, die in den Napoleonischen Kriegen starben. Die freistehenden Säulen zeigen die beabsichtigte Skala.",
+      "access": "Freier Außenstopp. Der Zugang folgt allen geposteten Toren oder temporären Schließungen.",
+      "route": "Von der Calton Hill-Treppe aus folgen Sie dem Gipfelweg vorbei am Nelson Monument bis zur Kolonnade.",
+      "photoTip": "Nehmen Sie einen Diagonalwinkel vom Niveaupfad, so dass sich die Spalten überlappen und ihre Tiefe sichtbar ist.",
+      "detail": {
+        "tagline": "Die unvollendete Kolonnade auf Calton Hill",
+        "background": "Die Arbeit an diesem Denkmal für Schotten, die in den Napoleonischen Kriegen starben, begann in den 1820er Jahren. Das Parthenon-inspirierte Design blieb unvollständig und hinterließ eine einzige monumentale Komposition aus Plattform, Stufen und Säulen.",
+        "details": "Betrachten Sie die Riffelung und den Abstand aus einem diagonalen Winkel. Die Säulen kommunizieren den Umfang des vorgeschlagenen Gebäudes, während die offenen Enden zeigen, wie viel davon nie fertiggestellt wurde.",
+        "firstStop": "Erreichen Sie den Gipfel vom Waterloo Place und passieren Sie das Nelson Monument zum offenen Rasen.",
+        "finalStop": "Folgen Sie den Pfaden rund um die Plattform und beenden Sie mit einer seitlichen Ansicht in Richtung des Observatoriums.",
+        "transport": "Waverley ist für Bahnbesucher nützlich. Vom Stadtzentrum aus ist die letzte Etappe bergauf auf Calton Hill Pfaden oder Treppen.",
+        "advice": "Sehen Sie das Denkmal von der Erdoberfläche aus. Die hohe Steinplattform hat scharfe Höhenänderungen und gibt im Vergleich zum Pfad wenig zusätzlichen Kontext.",
+        "question": "Warum gibt es nur Spalten und Schritte?",
+        "answer": "Das Gebäude wurde gestoppt, bevor das breitere Design fertiggestellt werden konnte. Die überlebende Kolonnade ist das historische Denkmal, das Sie heute sehen."
+      },
+      "visit": {
+        "kind": "Unvollendetes klassisches Kriegsdenkmal",
+        "duration": "15-25 Minuten",
+        "hours": "Das Äußere wird von den öffentlichen Gipfelwegen aus betrachtet, wenn es zugänglich ist.",
+        "admission": "Kostenloses Outdoor Viewing. Es gibt keine separate Ticket-Schaltung.",
+        "access": "Die erhabene Steinplattform hat hohe Stufen. Die stärksten Ansichten der Kolonnade sind am Boden verfügbar.",
+        "experience": "Der stärkste Eindruck kommt vom Gehen neben der unvollendeten Kolonnade. Es gibt Ihnen sowohl den Umfang des beabsichtigten Designs des Denkmals als auch einen ungehinderten Blick direkt durch die überlebenden Säulen."
+      }
+    },
+    "nelson-monument": {
+      "name": "Nelson-Denkmal",
+      "area": "Calton Hill",
+      "operator": "Museums & Galleries Edinburgh (Stadt des Edinburgh Council)",
+      "history": "Der Turm erinnert an Admiral Nelson und ähnelt einem umgedrehten Teleskop. Suchen Sie nach dem Zeitball an der Spitze, der als visuelles Signal für Schiffe am Firth of Forth installiert ist.",
+      "access": "Exterieur Viewing ist kostenlos. Überprüfen Sie den Betreiber auf den aktuellen Tower-Zugang.",
+      "route": "Klettern Sie vom Waterloo Place und nehmen Sie die bergauf gehende Gabel in Richtung des zylindrischen Turms.",
+      "photoTip": "Umrahmt den Turm von der Seite des National Monuments, um den Raum um den Zeitball herum zu verlassen.",
+      "detail": {
+        "tagline": "Ein maritimes Zeitsignal über Edinburgh",
+        "background": "Das Denkmal wurde gebaut, um Nelson nach Trafalgar zu gedenken. Der schmale Turm erhielt später einen Zeitball, ein sichtbares Signal, das es Schiffen im Forth ermöglichte, ihre Uhren auszurichten.",
+        "details": "Suchen Sie nach der breiten Basis unter dem sich verjüngenden Schaft und finden Sie dann den Ball und seinen Mast. Die beiden Teile spiegeln unterschiedliche Zwecke wider, Gedenken und Zeitmessung.",
+        "firstStop": "Wenden Sie sich in Richtung des Turms, sobald Sie den Gipfelweg vom Waterloo Place erreicht haben.",
+        "finalStop": "Lesen Sie die Basis vom Pfad aus und fahren Sie dann weiter zum Nationaldenkmal, um einen Blick auf die volle Höhe zu erhalten.",
+        "transport": "Anfahrt von Waverley oder St Andrew Square und ermöglichen einen bergauf gehen von Waterloo Place.",
+        "advice": "Planen Sie zuerst den Außenbesuch. Überprüfen Sie den Bediener, bevor Sie das Turminnere oder eine Arbeitszeitball-Demonstration in den Mittelpunkt Ihrer Pläne stellen.",
+        "question": "Kann ich den Zeitball sehen, ohne hineinzugehen?",
+        "answer": "Ja. Suchen Sie nach der Ballversammlung an der Spitze des Turms von den Gipfelpfaden aus; Überprüfen Sie die aktuellen Besucherhinweise auf ihren Betriebsstatus."
+      },
+      "visit": {
+        "kind": "Gedenkturm und Zeitsignal",
+        "duration": "15-40 Minuten",
+        "hours": "Außenansichten folgen dem Zugang zum Calton Hill. Bestätigen Sie die Betriebstage und Wartungsschließungen des Turms mit Culture Edinburgh.",
+        "admission": "Das Äußere ist frei zu sehen. Überprüfen Sie den Betreiber auf aktuelle Viewing-Plattform Tickets.",
+        "access": "Der Turm und der Hügel sind separate Anstiege. Sie können den Time-Ball-Mast sehen, ohne zu betreten.",
+        "experience": "Bringen Sie den Time-Ball-Mechanismus in den Fokus, bevor Sie entscheiden, ob Sie klettern möchten. Seine Lage über dem Forth verbindet diesen scheinbar exzentrischen Turm mit dem maritimen Leben der Stadt."
+      }
+    },
+    "dugald-stewart-monument": {
+      "name": "Dugald-Stewart-Denkmal",
+      "area": "Calton Hill",
+      "operator": "Stadtrat von Edinburgh",
+      "history": "Dieses klassische Zirkeldenkmal ehrt den Philosophen Dugald Stewart. Seine Säulenform ist eng mit dem vertrauten Blick nach Westen in Richtung Altstadt verbunden.",
+      "access": "Freier Außenstopp. Der Zugang folgt allen geposteten Toren oder temporären Schließungen.",
+      "route": "Folgen Sie dem Gipfelanflug vom Waterloo Place und biegen Sie in Richtung der nach Westen ausgerichteten Terrasse ab.",
+      "photoTip": "Nutzen Sie die öffentliche Terrasse, um das Denkmal in den Vordergrund und die Skyline der Altstadt darüber hinaus zu stellen.",
+      "detail": {
+        "tagline": "Ein klassisches Denkmal mit Blick auf die Altstadt",
+        "background": "Das Denkmal erinnert an den schottischen Philosophen Dugald Stewart. Seine runde Säulenform stützt sich auf das alte Choragic Monument of Lysicrates in Athen, das hier auf einem Hügel über der Neustadt widerhallt.",
+        "details": "Gehen Sie weit genug entlang der Terrasse, um zu sehen, wie sich die Räume zwischen den Säulen öffnen. Das macht es einfacher, die Architektur von der Kulisse des Balmoral und des Altstadtkamms zu trennen.",
+        "firstStop": "Nehmen Sie vom Waterloo Place-Ansatz aus die nach Westen ausgerichtete Terrasse, bevor Sie zum offeneren Gipfel weiterfahren.",
+        "finalStop": "Bewegen Sie sich entlang der Terrasse, um einen engen architektonischen Blick mit dem längeren Stadtpanorama zu vergleichen.",
+        "transport": "Waverley und St Andrew Square sind die nächstgelegenen nützlichen Bahn- und Straßenbahnanflüge. Der letzte Aufstieg ist zu Fuß.",
+        "advice": "Die Terrasse ist ein beliebter Fotostopp. Lassen Sie Raum für Menschen zu passieren und halten Kamera-Ausrüstung innerhalb der Pfadkante.",
+        "question": "Gibt es ein Interieur zu besuchen?",
+        "answer": "Die Attraktion ist das Außendenkmal und die umliegende Aussicht von der öffentlichen Terrasse."
+      },
+      "visit": {
+        "kind": "Klassisches rundes Denkmal und Aussichtspunkt",
+        "duration": "10–20 Minuten",
+        "hours": "Außenansicht von der Westterrasse auf Calton Hill.",
+        "admission": "Kostenloses Outdoor Viewing.",
+        "access": "Halten Sie sich von Terrassenrändern fern und behalten Sie Platz für andere Wanderer am Aussichtspunkt.",
+        "experience": "Kommen Sie für die Beziehung zwischen der festen Basis, dem offenen Ring der Säulen und der Skyline. Eine kurze Bewegung entlang der Terrasse verändert, welche Dächer und Türme zwischen den Säulen erscheinen."
+      }
+    },
+    "city-observatory": {
+      "name": "Stadtobservatorium auf dem Calton Hill",
+      "area": "Calton Hill",
+      "operator": "Kollektiv",
+      "history": "Das Hügelobservatorium wurde für die astronomische Beobachtung gebaut. Das klassische Playfair-Gebäude und der spätere City Dome sind heute Teil einer zeitgenössischen Kunststätte.",
+      "access": "Überprüfen Sie Collective für aktuelle Öffnungszeiten und Ausstellungszugang.",
+      "route": "Passieren Sie das Dugald Stewart Monument und verwenden Sie den signierten Fußgängeranflug zum Collective auf dem Gipfel.",
+      "photoTip": "Suchen Sie von den Pfaden aus nach einem Rahmen, der die Silhouette der Kuppel mit den niedrigen Sternwartenwänden kontrastiert.",
+      "detail": {
+        "tagline": "Astronomie-Gebäude auf einem Hügel Kunstgelände",
+        "background": "Das Observatorium wurde gebaut, um den Himmel zu studieren und die Zeit präzise zu messen. Das Gehäuse gruppiert Gebäude aus verschiedenen Phasen dieser Arbeit, und Collective nutzt die Website nun für zeitgenössische Kunst und öffentliche Programme.",
+        "details": "Vergleichen Sie die tempelartige Form des Playfair-Gebäudes mit dem runden City Dome. Ihre Umrisse machen es leicht zu sehen, wie jedes Gebäude eine andere Funktion erfüllte.",
+        "firstStop": "Betreten Sie das Observatoriumsgehege von den Gipfelpfaden, wenn Collective geöffnet ist.",
+        "finalStop": "Schauen Sie sich die beiden Gebäudeprofile vom Innenhof aus an und wählen Sie eine Ausstellung oder einen Aussichtspunkt aus, bevor Sie wieder bergab fahren.",
+        "transport": "Verwenden Sie von Waverley den Waterloo Place und fahren Sie zu den beschilderten Gipfelpfaden. Überprüfen Sie die Website-Zugriffsanleitung von Collective, bevor Sie eine Route auswählen.",
+        "advice": "Überprüfen Sie die Ausstellungsdaten und Öffnungstage separat vom Zugang zu den Hügeln. Bringen Sie eine Außenschicht für den Spaziergang in das Gehäuse.",
+        "question": "Kann ich ein funktionierendes Teleskop erwarten?",
+        "answer": "Der heutige Besuch ist eine Kunststätte und ehemaliges Observatorium. Überprüfen Sie Collective auf Programmierung und Zugriff auf historische Geräte."
+      },
+      "visit": {
+        "kind": "Ehemalige Galerien für Observatorien und zeitgenössische Kunst",
+        "duration": "35-60 Minuten",
+        "hours": "Sammellisten Mittwoch-Sonntag 10:00-16:00, Montag und Dienstag geschlossen. Überprüfen Sie Programme und Urlaubsänderungen.",
+        "admission": "Der Eintritt in die Galerie ist kostenlos. Einzelne Ereignisse können getrennte Begriffe haben.",
+        "access": "Das letzte Bein klettert Calton Hill. Collective erklärt zugängliche Drop-off- und Eintrittsoptionen auf seiner Besuchsseite.",
+        "experience": "Beginnen Sie mit der Geometrie der Kuppel- und Tempelgebäude im Innenhof. Erlauben Sie einen separaten Zauber für die aktuelle Kunstausstellung, anstatt anzunehmen, dass die historischen Astronomieräume alle den gleichen öffentlichen Zugang haben."
+      }
+    },
+    "national-gallery": {
+      "name": "Schottische Nationalgalerie",
+      "area": "Princes Street Gardens",
+      "operator": "Nationalgalerien von Schottland",
+      "history": "Die neoklassizistische Galerie auf dem Mound beherbergt schottische und internationale Kunst. Die renovierten schottischen Galerien befinden sich unterhalb der Haupteingangsebene neben den Gärten.",
+      "access": "Allgemeiner Eintritt frei. Überprüfen Sie den Betreiber auf Öffnungstage und Sonderausstellungen.",
+      "route": "Anfahrt von der Princes Street am nördlichen Ende des Mound. Verwenden Sie die Zugangsinformationen der Galerie, um den Eingang auszuwählen.",
+      "photoTip": "Fotografieren Sie den Portikus aus dem offenen Raum auf dem Hügel oder verwenden Sie den Garten-Level-Ansatz für einen niedrigeren Winkel.",
+      "detail": {
+        "tagline": "Schottische und internationale Kunst neben dem Mound",
+        "background": "Die Galerie von William Henry Playfair wurde als neoklassizistisches Gebäude an einem der sichtbarsten Hänge der Stadt entworfen. Spätere Galerieräume erstrecken sich nach unten in Richtung East Princes Street Gardens, so dass das Gebäude von oben und unten anders erlebt wird.",
+        "details": "Sehen Sie sich zuerst den Portikus vom Hügel an. Dann vergleichen Sie es mit der Route von den Gärten, wo die unteren Eingänge zeigen, wie die Galerie die Änderung der Klasse überspannt.",
+        "firstStop": "Von der Princes Street aus überqueren Sie den Mound und nutzen den Galerieeingang, der auf der Karte des Betreibers angegeben ist.",
+        "finalStop": "Wählen Sie eine Sammlung als Ausgangspunkt und lassen Sie sich Zeit für die unteren schottischen Galerien, wenn sie Teil Ihres Besuchs sind.",
+        "transport": "Princes Street Straßenbahnhaltestelle und Waverley beide geben kurze Anfahrten. Der Hügel und die Gärten befinden sich auf verschiedenen Ebenen, also konsultieren Sie den Zugangsführer.",
+        "advice": "Ein konzentrierter Besuch einer Sammlung passt besser zwischen anderen Haltestellen, als zu versuchen, jeden Raum abzudecken. Überprüfen Sie auf separate Ausstellungskarten.",
+        "question": "Sind National und Porträt im selben Gebäude?",
+        "answer": "Es sind getrennte Galerien. National ist auf dem Hügel und Portrait ist auf der Queen Street."
+      },
+      "visit": {
+        "kind": "Nationale Kunstgalerie und schottische Sammlung",
+        "duration": "60–120 Minuten",
+        "hours": "Die Nationalgalerien sind in der Regel täglich von 10:00 bis 17:00 Uhr geöffnet. Überprüfen Sie die Feiertags- und Sonderausstellungszeiten separat.",
+        "admission": "Der allgemeine Eintritt ist frei. Einige temporäre Ausstellungen kosten.",
+        "access": "Der Hügel und die Garteneingänge nähern sich von verschiedenen Ebenen. Überprüfen Sie die Zugangskarte des Betreibers auf die entsprechende Tür.",
+        "experience": "Geben Sie der Nationalgalerie einen eigenen Halt auf dem Hügel. Die schottische Sammlung bietet einen starken Ausgangspunkt, während die verschiedenen Eingänge zeigen, wie das Museum in den Hang des Gartens eingebaut ist."
+      }
+    },
+    "portrait-gallery": {
+      "name": "Schottische Nationalporträtgalerie",
+      "area": "New Town",
+      "operator": "Nationalgalerien von Schottland",
+      "history": "Das gotische Gebäude aus rotem Sandstein enthält schottische Porträts. Schauen Sie in der Großen Halle an der bemalten Fries- und Sternendecke nach oben, bevor Sie die Sammlung erkunden.",
+      "access": "Allgemeiner Eintritt frei. Überprüfen Sie den Betreiber auf Öffnungstage und Sonderausstellungen.",
+      "route": "Gehen Sie vom St Andrew Square nach Norden über die North St Andrew Street und biegen Sie in die Queen Street ab.",
+      "photoTip": "Über die Queen Street hinweg, verwenden Sie den Bürgersteig, um die rote Sandsteinfassade und Eckdetails einzurahmen.",
+      "detail": {
+        "tagline": "Ein rotes Sandstein-Wahrzeichen in der Queen Street",
+        "background": "Sir Robert Rowand Anderson entwarf die Portrait Gallery als speziell für die schottische Porträtmalerei konzipierte Einrichtung. Die rote Sandsteinaußenseite und die verzierte Große Halle machen das Gebäude zu einem Teil des Erlebnisses neben den Werken im Inneren.",
+        "details": "Schauen Sie sich die spitzen Öffnungen und das skulpturale Programm draußen an und schauen Sie dann aus der Großen Halle nach oben, um zu sehen, wie die gemalten Figuren und die Decke zusammenarbeiten.",
+        "firstStop": "Nähern Sie sich entlang der Queen Street und nehmen Sie die gesamte Fassade vom gegenüberliegenden Bürgersteig.",
+        "finalStop": "Beginnen Sie in der Großen Halle und wählen Sie dann eine Galerie oder Ausstellung, die auf den Themen basiert, die Sie sehen möchten.",
+        "transport": "Die Straßenbahnhaltestelle St Andrew Square ist der einfachste Ansatz. Gehen Sie nach Norden in Richtung Queen Street, anstatt den Mound zu überqueren.",
+        "advice": "Lassen Sie sich Zeit, um in der Halle nach oben zu schauen, bevor Sie zu den Displays gehen. Die Fassade ist auch einen Stopp wert, wenn die Galerie geschlossen ist.",
+        "question": "Kann ich die Große Halle im Rahmen des allgemeinen Eintritts besuchen?",
+        "answer": "Die Große Halle ist Teil der öffentlichen Route der Galerie während der Öffnungszeiten. Überprüfen Sie den Betreiber auf vorübergehende Einschränkungen und separat eingespielte Ausstellungen."
+      },
+      "visit": {
+        "kind": "Nationale Porträtsammlung und Gothic Revival Gebäude",
+        "duration": "45-90 Minuten",
+        "hours": "Täglich 10:00-17:00 Uhr auf dem veröffentlichten Zeitplan der Galerie. Überprüfen Sie die Urlaubszeiten.",
+        "admission": "Allgemeiner Eintritt frei. Einige Ausstellungen haben eine separate Gebühr.",
+        "access": "Beginnen Sie in der Queen Street und fragen Sie an der Rezeption nach Aufzügen und Galeriezugang, bevor Sie nach oben gehen.",
+        "experience": "Schauen Sie in der Großen Halle nach oben, bevor Sie einem Thema oder einer Periode in die Porträträume folgen. Die historischen und zeitgenössischen schottischen Gesichter geben eine andere Darstellung des Landes als die Gemäldesammlung auf dem Hügel."
+      }
+    },
+    "national-museum": {
+      "name": "Schottisches Nationalmuseum",
+      "area": "Altstadt",
+      "operator": "Nationalmuseen Schottland",
+      "history": "Die Victorian Grand Gallery und der moderne Sandsteinflügel beherbergen verschiedene Teile des Museums. Die eisernen Balkone der Grand Gallery machen das Gebäude selbst einen Blick wert.",
+      "access": "Allgemeiner Eintritt frei. Überprüfen Sie den Betreiber auf Öffnungstage und Sonderausstellungen.",
+      "route": "Von der George IV Bridge biegen Sie nach Osten in die Chambers Street ab. Beginnen Sie mit der Grand Gallery und wählen Sie eine Sammlung, bevor Sie nach oben gehen.",
+      "photoTip": "Blicken Sie von einem oberen Balkon auf die Grand Gallery zurück und folgen Sie der Fotografie des Museums.",
+      "detail": {
+        "tagline": "Zwei Museumsgebäude mit sehr unterschiedlichen Charakteren",
+        "background": "Das Museum kombiniert ein viktorianisches Gebäude, das für die Öffentlichkeit geschaffen wurde, mit einem späteren Sandsteinflügel, der Schottland gewidmet ist. Die Formänderung hilft, zwei Arten von Museumsbesuchen zu unterscheiden, eine breite Sammlung von Objekten und eine Reise durch die schottische Geschichte.",
+        "details": "Die Eisenarbeiten der Grand Gallery und die wiederholten Balkonöffnungen bieten lange Sichtlinien. Beachten Sie im neueren Flügel, wie Änderungen im Bodenniveau Sie durch kleinere Räume führen.",
+        "firstStop": "Betreten Sie die Chambers Street und nutzen Sie die Grand Gallery, um sich zu orientieren.",
+        "finalStop": "Wählen Sie eine Galerie im oberen Stock oder den schottischen Geschichtsflügel. Wenn Sie die Dachterrasse in Betracht ziehen, überprüfen Sie die Verfügbarkeit mit dem Personal, bevor Sie nach oben gehen.",
+        "transport": "Von Waverley aus spazieren Sie über die Altstadt in Richtung Chambers Street, was Steigungen ermöglicht. Busse, die South Bridge bedienen, bieten einen anderen Ansatz.",
+        "advice": "Wählen Sie eine oder zwei Galerien für einen kurzen Besuch. Sparen Sie Zeit, um das richtige Level zu finden und vereinbaren Sie einen Treffpunkt, wenn Sie sich trennen.",
+        "question": "Ist das Dach bei jedem Besuch inbegriffen?",
+        "answer": "Der Zugang zu Terrassen kann je nach Betriebsbedingungen variieren. Überprüfen Sie bei der Ankunft und behandeln Sie die Grand Gallery als Haupthaltestelle, wenn der Zugang zum Dach nicht verfügbar ist."
+      },
+      "visit": {
+        "kind": "Nationalmuseum für Geschichte, Wissenschaft und Design",
+        "duration": "90–180 Minuten",
+        "hours": "Täglich 10:00-17:00 Uhr. Geschlossen 25. Dezember. Stunden sind 12:00-17:00 am 26. Dezember und 1. Januar.",
+        "admission": "Allgemeiner freier Eintritt. Einige Sonderausstellungen sind ticketiert.",
+        "access": "Die viktorianischen und modernen Abschnitte besetzen mehrere Ebenen. Verwenden Sie die Site Map und Lift-Zeichen für die Sammlungen, die Sie wollen.",
+        "experience": "Verwenden Sie die Victorian Grand Gallery, um sich zu orientieren und wählen Sie eine kleinere Gruppe von Galerien. Für einen konzentrierten Besuch kombinieren Sie das architektonische Erlebnis des zentralen Atriums mit dem schottischen Geschichtsflügel oder einer einzigen wissenschaftlichen Sammlung."
+      }
+    },
+    "st-giles-cathedral": {
+      "name": "St.-Giles-Kathedrale",
+      "area": "Altstadt",
+      "operator": "Kathedrale St. Giles",
+      "history": "Der Kronenturm des mittelalterlichen High Kirk unterscheidet die Skyline der Royal Mile. Im Inneren zeichnet sich die Thistle Chapel durch fein geschnitztes Holz und heraldische Details aus.",
+      "access": "Überprüfen Sie Besucherstunden, Servicezeiten und aktuelle Aufnahme- oder Spendenhinweise.",
+      "route": "Vom Lawnmarket folgen Sie der High Street bergab zum Parliament Square. Überprüfen Sie vor dem Betreten nach Dienstleistungen.",
+      "photoTip": "Vom Parliament Square treten Sie weit genug zurück, um den Kronenturm einzuschließen. Vermeiden Sie es, während des Gottesdienstes zu fotografieren.",
+      "detail": {
+        "tagline": "The High Kirk im Zentrum der Royal Mile",
+        "background": "St Giles ist seit langem ein Schwerpunkt des bürgerlichen und religiösen Lebens in Edinburgh. Der kronenförmige Turm ist sein klarstes äußeres Wahrzeichen, während spätere Einrichtungsgegenstände im Inneren eine Umgebung dokumentieren, die sich im Laufe der Jahrhunderte weiter verändert hat.",
+        "details": "Auf dem Parliament Square finden Sie einen klaren Winkel für den Kronenturm. Im Inneren belohnt die komplizierte Schnitzerei und Heraldik der Distelkapelle einen langsamen Blick, wenn die Kapelle zugänglich ist.",
+        "firstStop": "Gehen Sie nach Westen die High Street hinauf und betreten Sie den Parliament Square, bevor Sie sich der Tür der Kathedrale nähern.",
+        "finalStop": "Überprüfen Sie, ob ein Gottesdienst oder eine Veranstaltung im Gange ist, und besuchen Sie dann das öffentliche Interieur und die Thistle Chapel, wo verfügbar.",
+        "transport": "Waverley liegt in der Nähe, aber unterhalb der Royal Mile. South Bridge Bushaltestellen bieten einen Ansatz näher an der High Street Ebene.",
+        "advice": "Planen Sie die Anbetungszeiten getrennt vom Sightseeing. Fragen Sie nach Kapelle Zugang und Fotografie Politik am Eingang.",
+        "question": "Ist der Innenraum immer geöffnet, wenn der Platz zugänglich ist?",
+        "answer": "Der Platz ist öffentlich, während Besuchszeiten, Dienstleistungen und Veranstaltungen den Zugang zum Inneren der Kathedrale bestimmen."
+      },
+      "visit": {
+        "kind": "Aktive Kirche und historische Altstadt Interieur",
+        "duration": "30-45 Minuten",
+        "hours": "Montag-Freitag 10:00-18:00, Samstag 09:00-17:00 und Sonntag 13:00-17:00, vorbehaltlich Dienstleistungen und Veranstaltungen.",
+        "admission": "Allgemeine Besuche und gebuchte oder optionale Erlebnisse haben unterschiedliche Arrangements. Bestätigen Sie das aktuelle Angebot mit der Kathedrale.",
+        "access": "Der Betreiber identifiziert die Westtür als Rollstuhleingang. Der Zugang zur Thistle Chapel unterscheidet sich vom Hauptinneren.",
+        "experience": "Der Kronenturm ist das einfachste Skyline-Feature, das man vom Parliament Square aus erkennen kann. Im Inneren vergleichen Sie die Größe des Hauptraums mit der feinen Schnitzerei und Heraldik der viel kleineren Distelkapelle, wo der Zugang erlaubt."
+      }
+    },
+    "writers-museum": {
+      "name": "Schriftstellermuseum",
+      "area": "Altstadt",
+      "operator": "Museums & Galleries Edinburgh (Stadt des Edinburgh Council)",
+      "history": "Das Museum befindet sich im Lady Stair's House und erforscht das Leben von Robert Burns, Walter Scott und Robert Louis Stevenson. Draußen werden Zitate in die Steine von Makars 'Court gesetzt.",
+      "access": "Allgemeiner Eintritt frei. Überprüfen Sie den Betreiber auf Öffnungstage und Sonderausstellungen.",
+      "route": "Finden Sie die schmale Lady Stair's Close vom Rasenmarkt und treten Sie in Makars' Court ein, bevor Sie das Haus betreten.",
+      "photoTip": "Verwenden Sie den Innenhof, um den Treppenturm zu fotografieren, und sehen Sie sich dann einen beschrifteten Pflasterstein genauer an.",
+      "detail": {
+        "tagline": "Eine literarische Sammlung versteckt in Lady Stair's Close",
+        "background": "Lady Stair's House bewahrt den Umfang und den unregelmäßigen Plan eines Old Town-Hauses, das durch einen Abschluss erreicht wurde. Die Sammlungen des Museums verbinden Robert Burns, Sir Walter Scott und Robert Louis Stevenson mit der häuslichen und Verlagswelt, in der sie arbeiteten.",
+        "details": "Vergleichen Sie die Turm- und Steinöffnungen des Hauses mit dem schmaleren Eingangsdurchgang. In Makars 'Court, schauen Sie nach Zitaten in den Pflaster.",
+        "firstStop": "Betreten Sie Lady Stair's Close vom Rasenmarkt und machen Sie eine Pause in Makars' Court.",
+        "finalStop": "Lesen Sie mehrere Pflasterinschriften, dann betreten Sie das Museum, wenn Sie geöffnet sind, und folgen Sie der signierten Raumsequenz.",
+        "transport": "Verwenden Sie den Lawnmarket-Ansatz von George IV Bridge oder klettern Sie den Hügel von Princes Street. Die letzten Meter gehen durch einen engen Abschluss.",
+        "advice": "Historische Treppen und Ebenenwechsel prägen den Besuch. Überprüfen Sie die Zugangsbedürfnisse mit dem Museum und lassen Sie Zeit für den Innenhof selbst.",
+        "question": "Kann ich Makars’ Court sehen, wenn das Museum geschlossen ist?",
+        "answer": "Das Gericht ist eine Außenhaltestelle, die durch Lady Stair's Close erreicht wird. Die Öffnungszeiten des Museums gelten gesondert."
+      },
+      "visit": {
+        "kind": "Literarisches Museum und gepflastertes Zitatgericht",
+        "duration": "35-60 Minuten",
+        "hours": "Täglich 10:00-17:00 Uhr, letzter Eintritt 16:30 Uhr im veröffentlichten Zeitplan des Museums.",
+        "admission": "Allgemeiner Eintritt frei. Makars’ Court ist ein Outdoor-Stop.",
+        "access": "Lady Stair's Close ist schmal und das historische Haus hat Treppen und Niveauänderungen.",
+        "experience": "Lesen Sie die Steinzitate in Makars' Court und gehen Sie dann weiter ins Haus, um sie mit dem Leben der Schriftsteller zu verbinden. Das Gericht funktioniert als kurzer Standalone-Stopp, wenn das Museum geschlossen ist."
+      }
+    },
+    "museum-on-the-mound": {
+      "name": "Geldmuseum auf The Mound",
+      "area": "Altstadt",
+      "operator": "Bank von Schottland",
+      "history": "Das Museum verwendet Münzen, Banknoten und Bankobjekte, um die Geschichte des Geldes zu erkunden. Es befindet sich in einem Teil des Wahrzeichens der Bank of Scotland über den Gärten.",
+      "access": "Allgemeiner Eintritt frei. Überprüfen Sie den Betreiber auf Öffnungstage und Sonderausstellungen.",
+      "route": "Gehen Sie den Hügel von der Princes Street in Richtung Altstadt hinauf und folgen Sie den Eingangsschildern des Museums.",
+      "photoTip": "Blicken Sie vom Hügel aus auf das Gebäude zurück, um einen Blick auf die Kuppel und die fallende Straßenlinie zu werfen.",
+      "detail": {
+        "tagline": "Die Geschichte des Geldes in einem Bank-Landmark",
+        "background": "Der Hauptsitz der Bank of Scotland über den Gärten ist Teil der Skyline von Edinburgh. Das Museum nutzt das Gebäude als Kulisse für die Geschichte des Geldes, der Ersparnisse und die praktische Arbeit, finanzielle Aufzeichnungen und Wertsachen zu sichern.",
+        "details": "Vom Hügel aus finden Sie die Kuppel und die geschichtete Dachlinie des Gebäudes. Im Inneren vergleichen Sie die Größe der kleinen Münzen und Banknoten mit der Anzeige von schweren Bank- und Sicherheitsausrüstung.",
+        "firstStop": "Folgen Sie dem Hügel bergauf und suchen Sie nach den Museumsschildern, bevor Sie die Royal Mile erreichen.",
+        "finalStop": "Besichtigen Sie die Exponate in den Museumsräumen und fahren Sie dann bergauf zum Lawnmarket, um das Hauptquartier von der höheren Seite zu sehen.",
+        "transport": "Die Straßenbahnhaltestelle Princes Street bietet einen direkten Zugang zum unteren Hügel. Der letzte Spaziergang erhebt sich scharf in Richtung Museum.",
+        "advice": "Überprüfen Sie die Öffnungstage des Museums, bevor Sie es planen. Das Äußere ist leicht mit einem Spaziergang zwischen den Gärten und der Altstadt zu kombinieren.",
+        "question": "Kann ich das Museum besuchen, ohne Bankdienste in Anspruch zu nehmen?",
+        "answer": "Das Museum hat einen eigenen öffentlichen Besuchereingang und Programm. Überprüfen Sie die Website des Museums auf die aktuellen Zugangsanweisungen."
+      },
+      "visit": {
+        "kind": "Bank- und Geldmuseum",
+        "duration": "30-60 Minuten",
+        "hours": "Dienstag-Samstag 13:00-17:00, letzter Eintrag 16:45. Regelmäßig geschlossen Sonntag und Montag, mit Bank-Urlaub Ausnahmen vom Museum veröffentlicht.",
+        "admission": "Allgemeiner Eintritt frei.",
+        "access": "Der Hügel hat eine anhaltende Steigung. Finden Sie die signierte Museumstür, anstatt einen Bankeingang zu verwenden.",
+        "experience": "Nutzen Sie die Rolle des Gebäudes als Bank, um die Objekte im Inneren zu verstehen. Banknoten, Münzen und die Ausrüstung, die entworfen wurde, um Geld zu zählen oder zu schützen, machen einen kompakten Umweg zwischen den Gärten und der Royal Mile."
+      },
+      "caption": "Museum auf dem Hügel Außen- und Eingang"
+    },
+    "georgian-house": {
+      "name": "Georgianisches Stadthaus",
+      "area": "New Town",
+      "operator": "National Trust für Schottland",
+      "history": "Dieses restaurierte Stadthaus ist Teil von Robert Adams Komposition für Charlotte Square. Die Zimmer zeigen die Unterschiede zwischen formalen Unterhaltungsräumen, alltäglichen Familienzimmern und Arbeitsbereichen der Diener.",
+      "access": "Fahrkartenbesuch. Überprüfen Sie die Öffnungszeiten, Preise und Verfügbarkeit vor der Reise.",
+      "route": "Nähern Sie sich dem Charlotte Square von der George Street und finden Sie die Nummer 7 auf der Nordseite.",
+      "photoTip": "Fotografieren Sie die gesamte Terrasse vom Perimeter-Belag aus, um die gemeinsame architektonische Komposition zu sehen.",
+      "detail": {
+        "tagline": "In einem Stadthaus auf Robert Adams Charlotte Square",
+        "background": "Das georgianische Haus nimmt die Nummer 7 in Robert Adams geplantem Ensemble ein. Die restaurierten Innenräume machen die soziale Organisation eines wohlhabenden georgischen Haushalts sichtbar, von den Empfangsräumen bis zu den Räumen, in denen das Personal arbeitete.",
+        "details": "Stellen Sie sich der Nordterrasse gegenüber, um die gemeinsame architektonische Komposition zu lesen. Beachten Sie im Inneren, wie die Qualität des Tageslichts und die Größe der Räume zwischen formellen und Arbeitsräumen variieren.",
+        "firstStop": "Gehen Sie nach Westen entlang der George Street und sehen Sie die Nordseite Terrasse vom öffentlichen Bürgersteig.",
+        "finalStop": "Finden Sie die Nummer 7 und folgen Sie der Besucherroute des Hauses zwischen öffentlichen Empfangsräumen und Wohnräumen.",
+        "transport": "West End Straßenbahnhaltestelle ist nützlich für Charlotte Square. Von der Princes Street aus gehen Sie nach Norden am westlichen Ende der Gärten.",
+        "advice": "Überprüfen Sie Ticket- und Treppeninformationen vor dem Besuch. Der Asphaltblick auf Adams Terrasse bietet einen lohnenden unabhängigen Halt.",
+        "question": "Bietet der Besuch des Hauses Zugang zum zentralen Garten des Platzes?",
+        "answer": "Das Haus und der zentrale Garten haben separate Zugangsvereinbarungen. Überprüfen Sie den National Trust für Schottland, was das Hausticket abdeckt."
+      },
+      "visit": {
+        "kind": "Historisches Hausmuseum am Charlotte Square",
+        "duration": "45-75 Minuten, wenn geöffnet",
+        "hours": "National Trust for Scotland listet derzeit das Haus als für die Erhaltung geschlossen. Konsultieren Sie den Betreiber, bevor Sie einen Indoor-Besuch planen.",
+        "admission": "Das Haus ist in der Regel Ticketed, wenn geöffnet. Der öffentliche Bürgersteigblick auf die Terrasse ist kostenlos.",
+        "access": "Die Nordterrasse kann vom öffentlichen Umkreis aus betrachtet werden, ohne das Haus oder den zentralen Garten zu betreten.",
+        "experience": "Lesen Sie die lange Nordterrasse des Charlotte Square vom gegenüberliegenden Bürgersteig, bevor Sie nach Nr. 7 suchen. Wenn der Innenbesuch wieder aufgenommen wird, verwenden Sie den Kontrast zwischen Empfangsräumen und Arbeitsbereichen, um zu verstehen, wie ein Haushalt das Gebäude besetzt hat."
+      },
+      "caption": "Der Eingang des Georgian House am 7 Charlotte Square"
+    },
+    "dean-village": {
+      "name": "Dean Village",
+      "area": "West End und Water of Leith",
+      "operator": "Stadt Edinburgh Council (öffentliche Straßen); Wohngebäude haben getrennte Eigentümer",
+      "history": "Das Wasser von Leith hat hier einst Mühlen angetrieben. Well Courts roter Sandstein und steile Dachlinie unterscheiden die späteren Arbeiterwohnungen von den älteren Gebäuden entlang des Flusses.",
+      "access": "Öffentlicher Straßenzugang, kostenlos.",
+      "route": "Von der Queensferry Street steigen Sie Bell's Brae zum Fluss hinunter und nutzen öffentliche Gassen und Brücken. Ertrag für Bewohner in engen Abschnitten.",
+      "photoTip": "Verwenden Sie von einer öffentlichen Brücke aus die Flussbiegung, um in Richtung Well Court zu führen. Halten Sie Türen und Innenhöfe frei.",
+      "detail": {
+        "tagline": "Mühlen, Brücken und Arbeiterwohnungen am Wasser von Leith",
+        "background": "Das Dorf entwickelte sich um wasserbetriebene Industrien herum. Der Fluss, steile Ufer und spätere Arbeiterwohnungen am Well Court bewahren verschiedene Schichten dieser Geschichte in einem kleinen Gebiet, das immer noch Wohn ist.",
+        "details": "Schauen Sie, wie sich die Gebäude drehen, um dem Fluss zu begegnen, während er sich biegt. Der markante Turm und das Mauerwerk von Well Court stehen im Kontrast zu den früheren Steingebäuden, die näher am Wasser liegen.",
+        "firstStop": "Steigen Sie Bell's Brae ab und halten Sie an einer öffentlichen Brücke, um sich zu orientieren.",
+        "finalStop": "Folgen Sie der öffentlichen Spur in Richtung Hawthornbank Lane und nutzen Sie den beschilderten Gehweg nur, wenn er geöffnet ist.",
+        "transport": "Vom West End spazieren Sie entlang der Queensferry Street nach Bell's Brae. Der endgültige Abstieg ist steil und einige Oberflächen sind uneben.",
+        "advice": "Bleiben Sie auf öffentlichen Routen und halten Sie die Eingänge frei. Überprüfen Sie den Wasserweg von Leith, bevor Sie eine längere Verbindung am Flussufer hinzufügen.",
+        "question": "Können Besucher Well Court betreten?",
+        "answer": "Nun, Court ist ein Wohngebiet. Die Route des Guides nutzt öffentliche Straßen und Aussichtspunkte am Flussufer."
+      },
+      "visit": {
+        "kind": "Residential River Valley und ehemalige Mühlensiedlung",
+        "duration": "35-60 Minuten",
+        "hours": "Öffentliche Straßen und Wege sind Outdoor-Besuche. Überprüfen Sie gepostete Gehwegsperrungen und Umleitungen, bevor Sie nach Stockbridge weiterfahren.",
+        "admission": "Frei entlang der öffentlichen Straßen und Fußwege. Wohn-Interieurs und Innenhöfe sind außerhalb der öffentlichen Route.",
+        "access": "Bell's Brae und Flussuferpfade können steil und uneben sein. Bleiben Sie auf der öffentlichen Route rund um Privathäuser.",
+        "experience": "Halten Sie an einer öffentlichen Brücke an und folgen Sie dem Weg, wie Gehäuse, Gassen und der Fluss in das enge Tal passen. Nehmen Sie sich Zeit mit dem Blick auf den Fluss, bevor Sie einen längeren Spaziergang am Wasser hinzufügen, und halten Sie die Wohnanflüge frei."
+      }
+    },
+    "dean-bridge": {
+      "name": "Dean-Brücke",
+      "area": "West End und Water of Leith",
+      "operator": "Stadtrat von Edinburgh",
+      "history": "Thomas Telfords Steinbrücke führt die Queensferry Road hoch über dem Wasser von Leith. Die Skala seiner Bögen ist leichter von den Pfaden unten zu schätzen.",
+      "access": "Öffentlicher Straßenzugang, kostenlos.",
+      "route": "Anfahrt vom westlichen Ende der Princes Street über Queensferry Street. Für die untere Ansicht nehmen Sie die separate Route durch Dean Village.",
+      "photoTip": "Vom Flussufer aus rahmen Sie den Bogen über dem Tal. Auf Straßenebene bleiben Sie auf dem Bürgersteig.",
+      "detail": {
+        "tagline": "Thomas Telford überquert hoch über dem Fluss",
+        "background": "Telfords Brücke trug die expandierende Stadt über das Wasser des Leith-Tals. Das Straßendeck sitzt hoch über den Häusern unten, so dass sich die gleiche Spannweite sehr unterschiedlich von der Straßenebene und dem Flussufer liest.",
+        "details": "Schauen Sie sich das blasse Mauerwerk und den Rhythmus der Bögen von unten an. Verwenden Sie auf Straßenebene den Bürgersteig, um zu sehen, wie die Brücke die Linie der Queensferry Road über die Schlucht bewahrt.",
+        "firstStop": "Gehen Sie zur Brücke entlang der Queensferry Street und überqueren Sie den öffentlichen Fußweg.",
+        "finalStop": "Für die untere Ansicht kehren Sie in Richtung Bell's Brae zurück und steigen über Dean Village ab, wo der öffentliche Zugang offen ist.",
+        "transport": "West End Straßenbahnhaltestelle ist bequem. Das Oberdeck ist der direkte Spaziergang; Verwenden Sie den separaten unteren Ansatz für die Bögen.",
+        "advice": "Halten Sie den oberen Bürgersteig frei von Stativen oder Gruppen. Erlauben Sie zusätzliches Wandern für die untere Ansicht, die durch den Talhang von der Straße getrennt ist.",
+        "question": "Kann ich direkt vom Brückendeck zum Fluss kommen?",
+        "answer": "Planen Sie separate Straßen- und Flussanflüge. Die öffentliche Abfahrt durch Dean Village ist einfacher als die Suche nach Zugang von der Brücke selbst."
+      },
+      "visit": {
+        "kind": "Steinstraßenbrücke über das Wasser von Leith",
+        "duration": "15-35 Minuten",
+        "hours": "Freiluftansichten von öffentlichen Straßenbelägen oder zugänglichen unteren Pfaden, vorbehaltlich etwaiger Straßen- oder Gehwegumleitungen.",
+        "admission": "Kostenloses Outdoor Viewing. Die obere Brücke und die untere Flussansicht verwenden getrennte Ansätze.",
+        "access": "Der Gehweg ist schmal über dem Tal. Verwenden Sie Bell's Brae für den separaten Abstieg zum Flussufer.",
+        "experience": "Kreuzen Sie auf dem öffentlichen Bürgersteig, dann machen Sie den separaten Abstieg in das Tal, wenn die Bedingungen es erlauben. Die Bögen von unten zu sehen, erklärt die Größe der Brücke viel besser als die Straße allein."
+      }
+    },
+    "st-bernards-well": {
+      "name": "St.-Bernhard-Quelle",
+      "area": "West End und Water of Leith",
+      "operator": "Stadtrat von Edinburgh",
+      "history": "Die klassische Rotunde beherbergt eine Statue von Hygieia über einer historischen Mineralquelle. Die Umgebung verbindet den kleinen Pavillon mit dem Interesse Edinburghs im späten achtzehnten Jahrhundert an Kurgewässern.",
+      "access": "Kostenlose Außenansicht von der öffentlichen Route. Überprüfen Sie separat für den Innenzugang.",
+      "route": "Folgen Sie dem Water of Leith Walkway vom Dean Village in Richtung Stockbridge, vorbehaltlich gebuchter Pfadumleitungen.",
+      "photoTip": "Fotografieren Sie vom Flussufer, wo die Säulen von Bäumen umgeben zu sehen sind.",
+      "detail": {
+        "tagline": "Eine klassische Rotunde an einer alten Mineralquelle",
+        "background": "Der Brunnen gehört zu Edinburghs Zeit des Interesses an Mineralwässern und Spa-Kultur. Die säulenförmige Rotunde und die Figur von Hygieia geben einer gewöhnlichen Wasserquelle eine architektonische Umgebung, die für einen Spaziergang am Fluss geeignet ist.",
+        "details": "Schauen Sie durch die Spaltenöffnungen aus dem Pfad, um die zentrale Figur auszuwählen. Das kleine Gebäude liest sich gegen den Fluss anders als von der oberen Straße.",
+        "firstStop": "Folgen Sie dem Water of Leith Walkway flussabwärts vom Dean Village, vorbehaltlich der angegebenen Schließungen.",
+        "finalStop": "Halten Sie auf dem öffentlichen Weg neben der Rotunde an, bevor Sie in Richtung Stockbridge fahren oder Ihre Route zurückverfolgen.",
+        "transport": "Zu Fuß von Stockbridge oder Dean Village. Jede Route kann unebene Flussuferpfade und -schritte beinhalten, abhängig vom Eintrittspunkt.",
+        "advice": "Gehen Sie für die Einstellung und das Äußere. Überprüfen Sie bestimmte Tage der offenen Tür, wenn Sie das Innere oder die untere Brunnenkammer sehen möchten.",
+        "question": "Gibt es immer Zugang innerhalb des Monuments?",
+        "answer": "Der Zugang zum Innenraum ist vom öffentlichen Gehweg getrennt und kann auf organisierte Öffnungen beschränkt sein."
+      },
+      "visit": {
+        "kind": "Riverside Rotunde und historische Mineralquelle",
+        "duration": "15-25 Minuten",
+        "hours": "Außenansichten folgen dem Zugang zum Water of Leith Walkway. Innenöffnungen sind gelegentlich und separat angeordnet.",
+        "admission": "Frei vom Gehweg. Überprüfen Sie jede organisierte Innenöffnung für ihre individuellen Bedingungen.",
+        "access": "Fluss-Niveau-Pfade können Schritte umfassen. Überprüfen Sie gepostete Ablenkungen, bevor Sie dies zu einem Durchgang machen.",
+        "experience": "Nähern Sie sich dem Flussufer und lassen Sie die Rotunde zwischen den Bäumen in Sicht kommen. Vergleichen Sie den kleinen Maßstab des Denkmals mit den steilen Ufern und dem Fluss, an dem es gebaut wurde."
+      }
+    },
+    "stockbridge": {
+      "name": "Stockbridge",
+      "area": "West End und Water of Leith",
+      "operator": "Stadt Edinburgh Council (öffentliche Straßen); unabhängige Unternehmen legen ihre eigenen Stunden fest",
+      "history": "Stockbridge entwickelte sich neben einer Kreuzung über das Wasser von Leith. Die Ladenfronten des Raeburn Place und die nahe gelegenen Gassen zeigen sein kleineres Straßenbild.",
+      "access": "Öffentlicher Straßenzugang, kostenlos.",
+      "route": "Betreten Sie die Deanhaugh Street, überqueren Sie den Fluss und fahren Sie entlang des Raeburn Place. Fügen Sie einen Flussabschnitt hinzu, wenn der Gehweg geöffnet ist.",
+      "photoTip": "Vom öffentlichen Fußweg auf der Brücke, umrahmt den Fluss und seine Straßen-Level-Gebäude.",
+      "detail": {
+        "tagline": "Ein Nachbarschaftszentrum am Wasser von Leith",
+        "background": "Stockbridge wuchs um die Flussüberquerung herum und behielt ein kompaktes Zentrum von Geschäften, Gassen und Wohnungen bei, als Edinburgh expandierte. Die Seitenstraßen veranschaulichen kleinere Wohnanlagen in der Nähe der Terrassen der Neustadt.",
+        "details": "Vergleichen Sie die geschäftigen Ladenfronten am Raeburn Place mit den schmalen Uferstraßen und den heimischen Eingängen jenseits der Brücke.",
+        "firstStop": "Beginnen Sie an der öffentlichen Brücke in der Deanhaugh Street und gehen Sie nach Westen entlang des Raeburn Place.",
+        "finalStop": "Biegen Sie zurück in Richtung Fluss und wählen Sie eine kurze Strecke des Gehwegs oder eine Seitenstraße Schleife je nach Zugang.",
+        "transport": "Lokale Busse dienen Stockbridge; vom Zentrum Edinburghs steigt der Zugang von der Queen Street zum Fluss ab.",
+        "advice": "Lassen Sie Zeit auf beiden Seiten der Brücke. Märkte, Cafés und Geschäfte arbeiten jeweils nach ihren eigenen Zeitplänen.",
+        "question": "Ist der Markt jeden Tag geöffnet?",
+        "answer": "Der Markt ist getrennt vom Nachbarschaftszugang geplant. Überprüfen Sie das aktuelle Datum und den Standort des Veranstalters, wenn Sie um ihn herum planen."
+      },
+      "visit": {
+        "kind": "Nachbarschaft, historische Brücke und Flussuferwege",
+        "duration": "45-90 Minuten",
+        "hours": "Öffentliche Straßen können unabhängig von der Geschäftseröffnung besucht werden. Überprüfen Sie die Markt- und Einkaufszeiten mit ihren Betreibern.",
+        "admission": "Frei, um die Nachbarschaft zu gehen. Marktkäufe und private Aktivitäten sind getrennt.",
+        "access": "Raeburn Place und die Brücke sind ein einfacher Ausgangspunkt. Der Eintritt in den Fluss kann Hänge und unebene Oberflächen umfassen.",
+        "experience": "Beginnen Sie mit der Brücke und den Ladenfronten der Nachbarschaft, bevor Sie in eine Wohnstraße oder einen Flussuferweg abwandern. Dies macht einen guten längeren Halt nach Dean Village, wenn der Verbindungsweg offen ist."
+      }
+    },
+    "charlotte-square": {
+      "name": "Charlotte Square",
+      "area": "New Town",
+      "operator": "Stadt Edinburgh Rat (öffentlicher Perimeter); Zugang zum zentralen Garten ist getrennt",
+      "history": "Robert Adams Terrassenhöhen verwenden eine gemeinsame palastartige Komposition über einzelne georgianische Häuser. Die Einheit ist am deutlichsten auf der Nordseite.",
+      "access": "Kostenlose Außenansicht von der öffentlichen Route. Überprüfen Sie separat für den Innenzugang.",
+      "route": "Gehen Sie nach Westen entlang der George Street zum Platz, dann folgen Sie dem Perimeter-Belag zur Nummer 7.",
+      "photoTip": "Frame eine ganze Terrasse über die Straße des Platzes, mit einer sicheren Pflasterposition.",
+      "detail": {
+        "tagline": "Die georgische Zusammensetzung am westlichen Ende der George Street",
+        "background": "Charlotte Square verankert ein Ende der ersten New Town. Robert Adams geplante Erhebungen geben Gruppen von Einzelhäusern die Symmetrie und den Umfang eines einzigen großen Gebäudes, insbesondere auf der Nordseite.",
+        "details": "Stellen Sie sich zurück auf den Bürgersteig und suchen Sie nach der zentralen Betonung, sich wiederholenden Fensterbuchten und vorstehenden Enden. Ein genauer Blick auf die Türen zeigt die separaten Eigenschaften innerhalb des Ensembles.",
+        "firstStop": "Kommen Sie entlang der George Street an, um zu sehen, wie der Platz die lange Achse der Straße schließt.",
+        "finalStop": "Gehen Sie durch den öffentlichen Umkreis und halten Sie eine Pause gegenüber der Nordterrasse, bevor Sie zum georgianischen Haus fahren, wenn es geöffnet ist.",
+        "transport": "Verwenden Sie die Straßenbahnhaltestellen West End oder Princes Street und nähern Sie sich dann dem öffentlichen Bürgersteig. George Street bietet die direkteste axiale Ansicht.",
+        "advice": "Verwenden Sie den Perimeter als Route. Das zentrale Gehäuse kann separate Vorkehrungen für den Zugang und Veranstaltungen haben.",
+        "question": "Ist Charlotte Squares zentraler Garten jeden Tag öffentlich?",
+        "answer": "Der Zugang zum zentralen Garten ist separat. Die Perimeterstraßen und die Aussicht auf die Terrassen sind der zuverlässige Teil eines zufälligen Besuchs."
+      },
+      "visit": {
+        "kind": "Geplante georgische Quadrat- und Terrassenarchitektur",
+        "duration": "15-30 Minuten",
+        "hours": "Der öffentliche Umkreis ist unabhängig von der zentralen Garten- oder Hausmuseumseröffnung zugänglich.",
+        "admission": "Kostenlos, um die Terrassen von öffentlichen Straßen aus zu sehen. Der zentrale Garten und das Georgian House haben einen separaten Zugang.",
+        "access": "Verwenden Sie den Bürgersteig um den Platz herum. Vermeiden Sie das Betreten von Wohntüren oder das Überqueren der Fahrbahn für ein Foto.",
+        "experience": "Der Platz belohnt einen Blick auf die volle Terrasse vor einem genauen Blick auf einzelne Türen. Gehen Sie von der George Street, um zu sehen, warum die Position des Platzes im georgischen Straßenplan wichtig ist."
+      }
+    },
+    "st-andrew-square": {
+      "name": "St Andrew Square",
+      "area": "New Town",
+      "operator": "Essential Edinburgh (Gartenmanagement); City of Edinburgh Council (umliegende Straßen)",
+      "history": "Der Platz verankert das östliche Ende der George Street. Das Melville Monument markiert das Zentrum, während georgianische Häuser und spätere Handelsgebäude den Umkreis säumen.",
+      "access": "Freier Außenstopp. Der Zugang folgt allen geposteten Toren oder temporären Schließungen.",
+      "route": "Gehen Sie von der Princes Street nach Norden über die South St Andrew Street und überprüfen Sie dann, welche Gartentore geöffnet sind.",
+      "photoTip": "Richten Sie sich an George Street aus, um zu zeigen, wie der Platz die lange Sicht entlang der New Town-Achse schließt.",
+      "detail": {
+        "tagline": "Ein New Town Square verbindet Straßenbahnen, Geschäfte und Gärten",
+        "background": "Der Platz gleicht den Charlotte Square am anderen Ende der George Street aus. Ein zentrales Denkmal und Terrassen umschließen den Raum, mit späteren Bank- und Geschäftsgebäuden, die dem ursprünglichen georgischen Plan eine weitere Schicht hinzufügen.",
+        "details": "Schauen Sie von der George Street in Richtung der zentralen Säule und vergleichen Sie dann die formelleren Fassaden mit dem modernen kommerziellen Ansatz rund um die Straßenbahnhaltestelle.",
+        "firstStop": "Betreten Sie die South St Andrew Street oder George Street und nehmen Sie einen Kurzschluss des öffentlichen Perimeters.",
+        "finalStop": "Wenn die Gärten geöffnet sind, überqueren Sie das Innere, um das Denkmal von einem nahe gelegenen Pfad aus zu sehen, bevor Sie in Richtung Queen Street gehen.",
+        "transport": "Die Straßenbahnhaltestelle St Andrew Square befindet sich neben dem Platz. Waverley ist nur einen kurzen Spaziergang über das östliche Ende der Princes Street entfernt.",
+        "advice": "Trennen Sie den öffentlichen Rand vom Gated Garden, wenn Sie einen frühen oder späten Besuch planen.",
+        "question": "Kann ich den Garten jederzeit durchqueren?",
+        "answer": "Die Bürgersteige bieten eine öffentliche Route rund um den Platz. Folgen Sie den Gartentoren und haben Sie Zeiten für Abkürzungen in der Mitte angegeben."
+      },
+      "visit": {
+        "kind": "New Town Square und verwaltet öffentlichen Garten",
+        "duration": "15-30 Minuten",
+        "hours": "Die Bürgersteige rund um den Platz sind öffentlich. Der in Privatbesitz befindliche zentrale Garten hat Tore und kann vorübergehende Schließungen haben.",
+        "admission": "Freier öffentlicher Gartenzugang während geöffnet. Events können separate Teilnahmebedingungen haben.",
+        "access": "Der Perimeter ist die zuverlässige stufenlose Verbindung zwischen Straßenbahnhaltestellen und umliegenden Straßen.",
+        "experience": "Beginnen Sie in der George Street, um zu sehen, wie der Platz die lange New Town-Achse schließt. Wenn der zentrale Garten geöffnet ist, treten Sie ein, um das Melville Monument und die veränderten Straßenränder des Geheges genauer zu betrachten."
+      },
+      "caption": "Melville Monument auf dem St. Andrew Square"
+    },
+    "assembly-rooms": {
+      "name": "Versammlungssäle an der George Street",
+      "area": "New Town",
+      "operator": "Versammlungsräume Edinburgh",
+      "history": "Das späte achtzehnte Jahrhundert Veranstaltungsort wurde für öffentliche Versammlungen und gesellschaftliche Veranstaltungen gebaut. Seine symmetrische Vorderseite und das dekorative Interieur des Ballsaals spiegeln diese ursprüngliche Rolle wider.",
+      "access": "Exterieur Viewing ist kostenlos. Der Innenzugang folgt dem Veranstaltungs- oder Buchungsplan.",
+      "route": "Gehen Sie entlang der George Street von entweder New Town Square und überprüfen Sie die Eingangsanweisungen für Ihre Veranstaltung.",
+      "photoTip": "Fotografieren Sie vom gegenüberliegenden Bürgersteig, um den säulenförmigen Eingang und die oberen Fenster in einen Rahmen zu passen.",
+      "detail": {
+        "tagline": "Ein georgischer Unterhaltungsort in der George Street",
+        "background": "Die Versammlungsräume wurden für das gesellschaftliche Leben der Neuen Stadt gebaut, mit großen Räumen für Versammlungen und öffentliche Unterhaltung. Die formale Fassade ist im Kontext der gemusterten Terrassen und kommerziellen Fassaden von George Street sinnvoll.",
+        "details": "Schauen Sie sich den vorstehenden Eingang und die wiederholten oberen Fenster an. Wenn die Veranstaltung Ihnen Zugang zum Innenraum bietet, beachten Sie den Kontrast zwischen der alltäglichen Straßenskala und den Proportionen der größeren Räume.",
+        "firstStop": "Nähern Sie sich entlang der George Street von Osten oder Westen und sehen Sie die Fassade vom gegenüberliegenden Bürgersteig.",
+        "finalStop": "Bewegen Sie sich für ein geplantes Ereignis zum vorgesehenen Eingang und verwenden Sie die Zugangsanweisungen des Ereignisses.",
+        "transport": "Die Straßenbahnhaltestellen Princes Street und St. Andrew Square befinden sich beide innerhalb eines Spaziergangs im Stadtzentrum. Bestätigen Sie den besten Event-Eingang, bevor Sie sich aufmachen.",
+        "advice": "Planen Sie den Außenstopp unabhängig von einer Performance. Der Zugang zum Innenraum und die Eintrittszeiten hängen vom Programm ab.",
+        "question": "Kann ich ohne Performance-Ticket nach innen schauen?",
+        "answer": "Überprüfen Sie den Betreiber auf Touren, Veranstaltungen und öffentlichen Zugang. Das Gebäude ist von der George Street aus leicht zu sehen."
+      },
+      "visit": {
+        "kind": "Veranstaltungen und Veranstaltungsort in Georgien",
+        "duration": "15-25 Minuten für das Äußere",
+        "hours": "Öffentliche Fahrbahnansichten sind unabhängig vom Programm. Verwenden Sie innen die veröffentlichten Ankunfts- und Türzeiten der Veranstaltung.",
+        "admission": "Freie Außenansicht. Indoor-Events und Touren haben ihre eigenen Eintrittspreise.",
+        "access": "Nutzen Sie den in Ihrer Buchung aufgeführten Eingang für stufenlosen Zugang oder Sitzgelegenheiten.",
+        "experience": "Die öffentliche Fassade bietet genügend visuellen Kontext für einen kurzen Architekturstopp. Wenn Sie Veranstaltungszugang haben, nehmen Sie sich Zeit, um die formalen Proportionen der Straßenhöhe mit der Größe der Haupträume zu vergleichen."
+      }
+    },
+    "grassmarket": {
+      "name": "Grassmarket",
+      "area": "Altstadt",
+      "operator": "Stadtrat von Edinburgh",
+      "history": "Der lange Marktplatz unter dem Schloss beherbergte Handel und öffentliche Hinrichtungen. Heute helfen die Veränderungen in der Straßenebene und die überlebenden Fassaden, das Layout der Altstadt zu verstehen.",
+      "access": "Öffentlicher Straßenzugang, kostenlos.",
+      "route": "Steigen Sie die Victoria Street zum östlichen Ende ab und gehen Sie dann entlang des Platzes unterhalb des Castle Rock nach Westen.",
+      "photoTip": "Blicken Sie vom westlichen Ende entlang des Platzes mit dem Burgfelsen auf eine Seite zurück.",
+      "detail": {
+        "tagline": "Ein alter Markt unterhalb der Burgmauern",
+        "background": "Der Grassmarket diente lange Zeit der Altstadt als Raum für Handel und öffentliche Versammlungen und wurde auch für Hinrichtungen genutzt. Seine breite Etage gegenüber Castle Rock zeigt, wie sich Handel und Zirkulation an eine steil unebene Stadt angepasst haben.",
+        "details": "Folgen Sie der Linie älterer Fassaden und schauen Sie zum Felsen am westlichen Ende auf. Die Ebenen der Straßen, die in den Markt führen, erklären seinen Platz unterhalb der Royal Mile.",
+        "firstStop": "Steigen Sie die Victoria Street in das östliche Ende ab und machen Sie eine Pause, um den sich erweiternden Marktraum zu sehen.",
+        "finalStop": "Folgen Sie dem Platz nach Westen in Richtung Castle Rock, dann wählen Sie eine ausgeschilderte bergauf Ausfahrt oder verfolgen Sie Ihre Route.",
+        "transport": "Lokale Busse dienen der Altstadt in der Nähe des Grassmarket und George IV Bridge. Waverley Ansätze beinhalten Steigungen in beiden Richtungen.",
+        "advice": "Der Platz ist ein aktiver Wohn- und Gastfreundschaftsbereich. Wählen Sie einen Straßenbelag Aussichtspunkt und lassen Sie Platz für Servicefahrzeuge und Fußgänger.",
+        "question": "Kann ich Grassmarket und Victoria Street zusammen besuchen?",
+        "answer": "Ja. Die Victoria Street steigt direkt an das östliche Ende des Marktes mit unebenen Oberflächen und einem spürbaren Gefälle ab."
+      },
+      "visit": {
+        "kind": "Historischer Marktplatz unter Castle Rock",
+        "duration": "25-45 Minuten",
+        "hours": "Der Platz ist öffentlich. Unternehmen und veranstaltungen verwenden getrennte stunden, und vorübergehende straßenbeschränkungen können gelten.",
+        "admission": "Freier öffentlicher Platz. Bezahlen Sie separat für Gastfreundschaft oder gebuchte Veranstaltungen.",
+        "access": "Der Platz ist niedriger als die Royal Mile. Sowohl die Victoria Street als auch die Routen zum Schloss beinhalten Pisten.",
+        "experience": "Gehen Sie über die Länge des Platzes, bevor Sie eine Seitenstraße hinaufgehen. Der breite Marktboden, schmale Ausgänge und steigende Hänge erklären, wie dieser Raum unter dem Schloss funktionierte."
+      }
+    },
+    "victoria-street": {
+      "name": "Victoria Street",
+      "area": "Altstadt",
+      "operator": "Stadtrat von Edinburgh",
+      "history": "Die geschwungene Straße aus dem 19. Jahrhundert verbindet den oberen Kamm mit dem Grassmarket. Seine zwei Ebenen erklären, warum einige Gebäudeeingänge und Terrassen hoch über den Ladenfronten sichtbar sind.",
+      "access": "Öffentlicher Straßenzugang, kostenlos.",
+      "route": "Beginnen Sie an der George IV Bridge und gehen Sie bergab zum West Bow und Grassmarket Kreuzung.",
+      "photoTip": "Verwenden Sie den öffentlichen Bürgersteig an der unteren Biegung, um die Kurve und gestapelte Fassaden einzurahmen.",
+      "detail": {
+        "tagline": "Eine gebogene Straße, die zwei Ebenen der Altstadt verbindet",
+        "background": "Die Straße aus dem neunzehnten Jahrhundert wurde als eine verbesserte Verbindung zwischen dem Kamm an der George IV Bridge und dem Grassmarket unten geschaffen. Die Kurve und die obere Terrasse erklären, warum Eingänge und Ladenfronten auf verschiedenen Ebenen angeordnet sind.",
+        "details": "Von der unteren Biegung aus betrachten Sie die gestapelten Ladenfronten und die obere Terrasse als eine Komposition. Dann sehen Sie, wie sich die Ansicht ändert, wenn die Kurve das weite Ende verbirgt.",
+        "firstStop": "Beginnen Sie an der George IV Bridge und steigen Sie die Victoria Street in Richtung West Bow ab.",
+        "finalStop": "Halten Sie auf dem unteren Bürgersteig an und fahren Sie weiter in den Grassmarket oder kehren Sie über die obere Terrasse zur Brücke zurück, wenn der Zugang frei ist.",
+        "transport": "George IV Bridge Bushaltestellen sind nützlich für das obere Ende. Von Grassmarket aus zu erreichen bedeutet einen anhaltenden bergauf gehen.",
+        "advice": "Die Straße kann belebt sein und Fahrzeuge benutzen sie immer noch. Machen Sie Fotos von einem Bürgersteig und geben Sie Shop-Eingängen Raum.",
+        "question": "Ist Victoria Terrace die gleiche Gehebene wie Victoria Street?",
+        "answer": "Die Terrasse ist eine Route auf der oberen Ebene. Überprüfen Sie den von Ihnen gewählten Ansatz, wenn Treppen oder Steigungen ein Problem darstellen."
+      },
+      "visit": {
+        "kind": "Gekrümmte historische Straße und obere Terrasse",
+        "duration": "20-35 Minuten",
+        "hours": "Öffentliche Bürgersteige bleiben die Hauptbesuchsroute. Einzelne Geschäfte und Cafés halten ihre eigenen Stunden.",
+        "admission": "Frei zu gehen und von öffentlichen Orten zu fotografieren.",
+        "access": "Die Straße und Victoria Terrace sind in verschiedenen Höhen. Achten Sie auf die Steigung und halten Sie sich an den Bürgersteig.",
+        "experience": "Gehen Sie die untere Kurve in eine Richtung und betrachten Sie einen separaten Blick von der oberen Terrasse. Die Geschäfte, Fenster und kontrastierenden Ebenen sind als Sequenz leichter zu verstehen als von einem überfüllten Ort."
+      }
+    },
+    "greyfriars-kirk": {
+      "name": "Greyfriars-Kirche",
+      "area": "Altstadt",
+      "operator": "Greyfriars Kirk (Kirche); City of Edinburgh Council (Kirchenhof)",
+      "history": "Der Kirch wurde 1620 eröffnet und ist mit dem Nationalen Pakt verbunden. Der geschlossene Kirchhof enthält geschnitzte Denkmäler und Ausblicke in die umliegenden Altstadtgebäude.",
+      "access": "Überprüfen sie kirk besucherzeiten und dienstleistungen. Folgen Sie dem geposteten Zugang auf dem Kirchhof.",
+      "route": "Überqueren Sie die Chambers Street vom Nationalmuseum und betreten Sie den Greyfriars Place. Benutze die Wege zwischen den Gräbern.",
+      "photoTip": "Vom Hauptweg aus rahmen Sie die Kirchenmauer mit einem Vordergrunddenkmal ein, während Sie die Gräber fernhalten.",
+      "detail": {
+        "tagline": "Ein Post-Reformations-Kirch, umgeben von geschnitzten Denkmälern",
+        "background": "Greyfriars wurde im frühen siebzehnten Jahrhundert eröffnet und ist eng mit dem National Covenant verbunden. Die Kirche und der Begräbnisplatz zeichnen verschiedene Teile der religiösen und bürgerlichen Geschichte der Stadt auf.",
+        "details": "Vergleichen Sie die Kirkenfenster mit der geschnitzten Heraldik, Schriftzug und Steinreliefs auf den Denkmälern. Der Kirchhof zeigt diese Details aus nächster Nähe, ohne die Kirche zu betreten.",
+        "firstStop": "Betreten Sie den Greyfriars Place und folgen Sie dem öffentlichen Hauptweg neben dem Kirch.",
+        "finalStop": "Machen Sie eine kleine Schleife vorbei an den sichtbaren Denkmälern und kehren Sie zum vorderen Eingang zurück, bevor Sie die Bobby-Statue als separaten Halt hinzufügen.",
+        "transport": "Busse auf der George IV Bridge oder der nahe gelegenen South Bridge bieten Zugang zur Chambers Street. Das Tor befindet sich in der Nähe des Nationalmuseums.",
+        "advice": "Halten Sie sich an markierte Pfade und respektieren Sie Dienste und Beerdigungen. Überprüfen Sie die separaten Öffnungsanordnungen für den Kirkeninnenraum.",
+        "question": "Sind Kirche und Kirchhof gleichzeitig geöffnet?",
+        "answer": "Die Kirche und der Kirchhof werden separat verwaltet und können unterschiedliche Stunden haben. Überprüfen Sie jeden, bevor Sie einen Innenbesuch machen."
+      },
+      "visit": {
+        "kind": "Post-Reformations-Kirchen und historisches Begräbnis",
+        "duration": "30-50 Minuten",
+        "hours": "Der Kirchhof und der Kirch haben einen separaten Zugang. Der Betreiber beschreibt April-Oktober als die normale Besuchersaison für die Kirche. Überprüfen Sie Dienste und Veranstaltungsdaten.",
+        "admission": "Der Außenkirkyard kann während des öffentlichen Zugangs kostenlos besucht werden. Überprüfen Sie die Bedingungen für besondere Dienstleistungen, Touren und Konzerte.",
+        "access": "Folgen Sie den Pfaden rund um die Gräber. Erlauben Sie unebenen Boden und respektieren Sie Beerdigungen oder Anbetung.",
+        "experience": "Folgen Sie den öffentlichen Pfaden, um die Gedenkschnitzerei zu betrachten, und nehmen Sie dann den Kirch von außen auf dem Kirchhof. Verwenden Sie die Bobby-Statue als separaten kurzen Halt an der Straßenkreuzung."
+      }
+    },
+    "greyfriars-bobby": {
+      "name": "Statue von Greyfriars Bobby",
+      "area": "Altstadt",
+      "operator": "Stadtrat von Edinburgh",
+      "history": "Der kleine Bronzehund auf einem Trinkbrunnen erinnert an die Geschichte eines Terriers, der in der Nähe des Grabes seines Meisters wachte. Die Statue steht außerhalb des Kirchhofs.",
+      "access": "Öffentlicher Straßenzugang, kostenlos.",
+      "route": "Gehen Sie nach Süden entlang der George IV Bridge in Richtung der Candlemaker Row Kreuzung, dann weiter nach Greyfriars Kirk, wenn die Zeit es erlaubt.",
+      "photoTip": "Bleiben Sie auf dem Bürgersteig und verwenden Sie einen engen Rahmen. Lassen Sie die Bronze unberührt.",
+      "detail": {
+        "tagline": "Ein kleines Bronze-Denkmal an einer geschäftigen Altstadt-Kreuzung",
+        "background": "Das Denkmal erinnert an die Geschichte des Terriers, der mit Greyfriars Kirkyard verbunden ist. Es wurde als Trinkbrunnen installiert, was einer vertrauten Bürgerstruktur ein ungewöhnliches lokales Thema gab.",
+        "details": "Suchen Sie nach der Beziehung zwischen der kleinen Bronzefigur und dem viel größeren Brunnenboden. Die Statue kann leicht zu übersehen sein, wenn Sie nach einem freistehenden Denkmal auf dem Kirchhof suchen.",
+        "firstStop": "Nähern Sie sich entlang der George IV Bridge zur Candlemaker Row Kreuzung und halten Sie auf dem öffentlichen Bürgersteig.",
+        "finalStop": "Schauen Sie sich den Brunnenboden und die Figur an, bevor Sie zum Kirchhofeingang in der Nähe weiterfahren.",
+        "transport": "George IV Bridge und Chambers Street sind nützliche Busanflüge. Die Statue befindet sich auf Straßenniveau in der Nähe des Greyfriars Place.",
+        "advice": "Verwenden Sie eine kurze Linse aus einem klaren Bürgersteig und lassen Sie die Statue unberührt. Warteschlangen und Verkehr können die nächstgelegene Ansicht einschränken.",
+        "question": "Ist die Statue auf dem Friedhof?",
+        "answer": "Die Statue steht an der Kreuzung außerhalb des Kirchhofs. Der Kirch und die Denkmäler im Inneren machen einen separaten Besuch."
+      },
+      "visit": {
+        "kind": "Straßendenkmal und ehemaliger Trinkbrunnen",
+        "duration": "5-15 Minuten",
+        "hours": "Die Statue steht auf einem öffentlichen Bürgersteig außerhalb des Kirchhofs und hat keine separaten Gated Hours.",
+        "admission": "Freie Street Viewing. Der Kirchplatz und der Kirchplatz sind separate Besucherstopps.",
+        "access": "Verkehr und Warteschlangen beschränken die Standpunkte. Sehen Sie die Bronze vom Bürgersteig und halten Sie die Kreuzung frei.",
+        "experience": "Machen Sie einen kurzen Gehwegstopp, um die Beziehung zwischen dem Bronzeterrier und der ursprünglichen Trinkbrunnenbasis zu betrachten. Wenn es die Zeit erlaubt, fahren Sie weiter zum nahe gelegenen Kirchhof, anstatt die Statue als Eingang zu behandeln."
+      }
+    },
+    "royal-mile": {
+      "name": "Königliche Meile",
+      "area": "Altstadt",
+      "operator": "Stadtrat von Edinburgh",
+      "history": "Der Altstadtkamm verbindet das Schloss mit Holyrood. Straßennamen ändern sich auf dem Weg, und enge Schließen führen in Gerichte, die unter oder hinter der Hauptfront sitzen.",
+      "access": "Öffentlicher Straßenzugang, kostenlos.",
+      "route": "Beginnen Sie bei Castlehill und gehen Sie bergab durch Lawnmarket, High Street und Canongate nach Holyrood.",
+      "photoTip": "Fotografieren Sie von einem öffentlichen Eingang, um den engen Durchgang mit der Hauptstraße zu kontrastieren.",
+      "detail": {
+        "tagline": "Der Wanderweg vom Edinburgh Castle nach Holyrood",
+        "background": "Die Route verbindet eine Reihe von Straßen durch die historische Burgh und Canongate. In seinen Schliessungen und Innenhöfen ist die Beziehung zwischen dem Kamm und dem steilen Land, das auf beiden Seiten wegfällt, noch lesbar.",
+        "details": "Schauen Sie über die Ladenfronten im Erdgeschoss hinaus auf die oberen Steinhütten und die Eingänge zu engen Schließen. Änderungen im Straßennamen helfen Ihnen, den Übergang von Lawnmarket und High Street nach Canongate zu verfolgen.",
+        "firstStop": "Beginnen Sie bei Castlehill, dann folgen Sie dem Lawnmarket bis St Giles und dem Netherbow.",
+        "finalStop": "Fahren Sie entlang Canongate zum Abbey Strand und fügen Sie unterwegs einen zugänglichen Innenhof oder ein Museum hinzu.",
+        "transport": "Waverley bedient die mitte der route mit einem aufstieg zur high street. Busse auf der South Bridge und in der Nähe von Holyrood helfen Ihnen, Teilweise beitreten.",
+        "advice": "Ein Abfahrtsweg von Castlehill ist leichter zu gehen, als beide Richtungen zu befahren. Lassen Sie Zeit für Pflastersteine, Event-Umleitungen und Museumsstopps.",
+        "question": "Wo soll ich anfangen, wenn ich nur einen kurzen Besuch habe?",
+        "answer": "Beginnen Sie an der Lawnmarket oder High Street für St Giles ', schließt und der Altstadtkamm. Wählen Sie Canongate, wenn Holyrood und seine Museen Ihre Priorität sind."
+      },
+      "visit": {
+        "kind": "Historische Kammroute durch die Altstadt",
+        "duration": "1-2 Stunden ohne Interieur",
+        "hours": "Stadtstraßen und die meisten öffentlichen Zugänge können unabhängig von der Museums- oder Kircheneröffnung besichtigt werden. Überprüfen Sie Event-Umleitungen.",
+        "admission": "Freier Straßenspaziergang. Jede Attraktion entlang der Route hat ihren eigenen Eintritt.",
+        "access": "Castlehill ist das höhere Ende. Pflastersteine, Hügel und Treppen in der Nähe machen Routenwahl wichtig.",
+        "experience": "Wählen Sie eine Gruppe von Haltestellen auf dem Kamm, anstatt jedes Interieur in einem einzigen Spaziergang zu versuchen. Castlehill und Lawnmarket bieten die höchste Aussicht auf die Altstadt, während die untere Canongate eine bessere Paarung für Edinburghs sozialhistorische Museen darstellt."
+      }
+    },
+    "camera-obscura": {
+      "name": "Camera Obscura und Welt der Illusionen",
+      "area": "Altstadt",
+      "operator": "Camera Obscura & Welt der Illusionen",
+      "history": "Die historische Dachkamera projiziert eine optische Live-Ansicht der Stadt. Die Etagen darunter enthalten interaktive Exponate, die Spiegel, Perspektive und visuelle Wahrnehmung erkunden.",
+      "access": "Fahrkartenbesuch. Überprüfen Sie die Öffnungszeiten, Preise und Verfügbarkeit vor der Reise.",
+      "route": "Gehen Sie bergauf in Richtung der Burgplanade und finden Sie den Eingang auf Castlehill vor den Burgtoren.",
+      "photoTip": "Verwenden Sie auf der Dachterrasse den Blick entlang des Kamms, um die Dachlinie der Altstadt zu zeigen.",
+      "detail": {
+        "tagline": "Eine optische Kamera auf dem Dach und Räume visueller Experimente",
+        "background": "Der Outlook Tower wurde damit verbunden, die Stadt durch eine Camera Obscura zu zeigen, ein optisches Gerät, das ein Bild vom Dach projiziert. Seine gegenwärtige Besucherroute verbindet das ältere Gerät mit modernen Installationen über Licht und Wahrnehmung.",
+        "details": "Vergleichen Sie vom Dach aus die reale Ansicht des Kamms mit der Idee eines bewegten projizierten Bildes. Verwenden Sie im Inneren den Spiegel und die perspektivischen Anzeigen, um zu sehen, wie sich die Position ändert, was im Rahmen erscheint.",
+        "firstStop": "Betreten Sie Castlehill vor der Burgplanade und folgen Sie der signierten Bodensequenz.",
+        "finalStop": "Lassen Sie genügend Zeit für die Dach- und Kamerapräsentation sowie die Exponate zwischen den Etagen.",
+        "transport": "Von Princes Street oder Waverley gehen Sie bergauf durch den Lawnmarket nach Castlehill. Die Eingänge der Attraktion und des Schlosses sind getrennt.",
+        "advice": "Überprüfen Sie die Ticketverfügbarkeit und die aktuellen Zugangshinweise für die Treppe des Turms. Dachbedingungen und Tageslicht können das Erlebnis beeinflussen.",
+        "question": "Funktioniert die Kamera bei schlechtem Wetter genauso?",
+        "answer": "Eine Camera Obscura hängt vom verfügbaren Tageslicht und der Sichtbarkeit ab. Erkundigen Sie sich beim Betreiber nach den aktuellen Präsentationsmodalitäten."
+      },
+      "visit": {
+        "kind": "Optischer Turm und interaktives Museum",
+        "duration": "90–120 Minuten",
+        "hours": "1. November-18 Dezember, Montag-Donnerstag 09:30-19:30, Freitag 09:30-21:00, Samstag 09:00-21:30, Sonntag 09:30-20:00. Überprüfen Sie die saisonale Tabelle für andere Daten. Die optische Darstellung ist abhängig vom Tageslicht.",
+        "admission": "2026 Erwachsene £ 24,95 und Kind im Alter von 5-15 £ 17,95. Die veröffentlichten Preise für 2027 betragen 25,95 £ bzw. 18,95 £. Advance Booking wird empfohlen.",
+        "access": "Die Route umfasst mehrere Stockwerke und Treppen. Konsultieren Sie die Zugangsinformationen des Betreibers vor der Buchung.",
+        "experience": "Lassen Sie sich Zeit für die optische Demonstration und einen Spaziergang durch die Hallen-Illusionsgalerien. Testen Sie, wie sich der Blickwinkel jedes Display ändert, bevor Sie mit einem Blick über die Dächer enden, wenn die Bedingungen es zulassen."
+      }
+    },
+    "john-knox-house": {
+      "name": "John-Knox-Haus",
+      "area": "Canongate und Holyrood",
+      "operator": "Scottish Storytelling Centre / Schottisches Storytelling Forum",
+      "history": "Das spätmittelalterliche Haus Projekte über die Royal Mile. Seine geschnitzten Details und Holzelemente zeigen, wie überfüllt die Hauptstraße einst war, und die Exponate diskutieren die Reformation.",
+      "access": "Überprüfen Sie die aktuellen Eintrittspreise und Öffnungszeiten mit dem Scottish Storytelling Centre.",
+      "route": "Folgen Sie der High Street bergab in Richtung Netherbow und nutzen Sie den Eingang zum Storytelling Centre.",
+      "photoTip": "Blicken Sie zurück bergauf vom öffentlichen Bürgersteig, um die hervorstehenden oberen Stockwerke und die gestufte Fassade zu sehen.",
+      "detail": {
+        "tagline": "Ein spätmittelalterliches Haus am Netherbow",
+        "background": "Das Haus bewahrt eine spätmittelalterliche Fassade in der Nähe des ehemaligen Osttors von Edinburghs Burgh. Der Name spiegelt eine langjährige Verbindung mit John Knox wider; Die Website interpretiert auch die Häuser und Menschen, die an den Ereignissen der Reformation beteiligt sind.",
+        "details": "Suchen Sie nach den angeschlagenen oberen Ebenen und der Art und Weise, wie die angeschlossenen Gebäude in den Raum über dem Bürgersteig ragen. Im Inneren zeigen die wechselnden Levels, wie viel in einen engen Plot passt.",
+        "firstStop": "Gehen Sie bergab von St. Giles zum Netherbow und betrachten Sie die Fassade von der gegenüberliegenden Seite der Royal Mile.",
+        "finalStop": "Betreten Sie das Scottish Storytelling Centre und lassen Sie sich Zeit für die kompakten Zimmer und Treppen des Hauses.",
+        "transport": "South Bridge Bushaltestellen sind nützlich auf der Royal Mile. Von Waverley aus können Sie einen bergauf gehen, bevor Sie entlang der High Street nach Osten abbiegen.",
+        "advice": "Überprüfen Sie die Eröffnungs- und Zugangsnotizen des Storytelling Centers. Das Äußere kann als Teil einer Royal Mile-Haltestelle gesehen werden, wenn das Haus geschlossen ist.",
+        "question": "Wird das Haus direkt durch die historische Fassade betreten?",
+        "answer": "Folgen Sie den Besucherschildern des Storytelling Centers. Seine Eingangsregelungen decken den Zugang zum Haus ab."
+      },
+      "visit": {
+        "kind": "Spätmittelalterliches Stadthausmuseum",
+        "duration": "35-55 Minuten",
+        "hours": "Überprüfen Sie den Tagesablauf des Storytelling Centers und den endgültigen Museumseintritt, der vor der Schließung des Zentrums liegen kann.",
+        "admission": "Veröffentlichter Standardeintrag £7 Erwachsene, £5,50 Konzession, £1,50 für Kinder über sieben. Siehe die altersregeln des betreibers.",
+        "access": "Historische Treppen und kleine Räume prägen den Besuch. Besuchen Sie das Scottish Storytelling Centre.",
+        "experience": "Sehen Sie sich die vorstehenden Obergeschosse der Royal Mile an, bevor Sie das Storytelling Centre betreten. Im Inneren machen die kompakten Räume und unebenen Ebenen die Geschichte des Netherbows im Maßstab eines Hauses greifbar."
+      }
+    },
+    "museum-of-edinburgh": {
+      "name": "Stadtmuseum Edinburgh",
+      "area": "Canongate und Holyrood",
+      "operator": "Museums & Galleries Edinburgh (Stadt des Edinburgh Council)",
+      "history": "Das Museum befindet sich im Huntly House und zeigt Objekte, die mit dem bürgerlichen und alltäglichen Leben der Stadt verbunden sind. Seine geschlossenen Zimmer und wechselnden Ebenen behalten das Gefühl eines historischen Hauses.",
+      "access": "Allgemeiner Eintritt frei. Überprüfen Sie den Betreiber auf Öffnungstage und Sonderausstellungen.",
+      "route": "Weiter nach Osten Canongate vom Netherbow und suchen Sie nach der Museumsfront gegenüber dem Tolbooth Bereich.",
+      "photoTip": "Über Canongate rahmen Sie die gemalte Fassade und die Linie der angrenzenden historischen Gebäude ein.",
+      "detail": {
+        "tagline": "Stadtgeschichte in den Häusern der Canongate",
+        "background": "Huntly House und verbundene Gebäude verleihen diesem Stadtmuseum einen häuslichen Maßstab. Die Ausstellungen verwenden Objekte, Haushaltsmaterialien und Bürgersammlungen, um die Geschichte von Edinburgh über mehrere Jahrhunderte hinweg zu erzählen.",
+        "details": "Sehen Sie sich die Giebel und die angrenzenden Fassaden von ganz Canongate an. Achten Sie im Inneren auf Veränderungen in Ebene und Maßstab, wenn sich Räume zwischen den verbundenen Gebäuden bewegen.",
+        "firstStop": "Gehen Sie Canongate entlang und identifizieren Sie das Museum von seiner gemalten historischen Fassade.",
+        "finalStop": "Folgen Sie den signierten Galerien und überqueren Sie dann einen sicheren Punkt, um in Richtung Canongate Tolbooth zu fahren, wenn es die Zeit erlaubt.",
+        "transport": "Nähern Sie sich von der South Bridge entlang der Royal Mile oder gehen Sie vom Holyrood-Ende bergauf. Überprüfen Sie Lothian Busse für aktuelle Stadt-Center-Haltestellen.",
+        "advice": "Bestätigen Sie die Eröffnungstage, bevor Sie sie mit anderen Canongate-Museen verbinden. Historische Zimmerlayouts und Treppen können die Route beeinflussen.",
+        "question": "Ist das das gleiche wie das People's Story Museum?",
+        "answer": "Die beiden Museen haben unterschiedliche Eingänge und Sammlungen auf Canongate. Das Museum of Edinburgh befindet sich im Huntly House."
+      },
+      "visit": {
+        "kind": "Stadtmuseum in Huntly House",
+        "duration": "45-75 Minuten",
+        "hours": "Mittwoch-Sonntag 10:00-17:00, letzter Eintrag 16:30 auf dem aktuellen Zeitplan.",
+        "admission": "Allgemeiner Eintritt frei. Überprüfen Sie die Sonderprogramme separat.",
+        "access": "Die umgebauten Häuser haben unregelmäßige Bodenniveaus. Sehen Sie sich die aktuellen Zugangshinweise des Museums an.",
+        "experience": "Das Museum ist eine nützliche Möglichkeit, einem längeren Canongate-Spaziergang einen Kontext zu geben. Die umgebauten Häuser und ihre miteinander verbundenen Räume sind Teil der Erfahrung neben den Sammlungen von Alltags- und Bürgerobjekten."
+      }
+    },
+    "museum-of-childhood": {
+      "name": "Kindheitsmuseum",
+      "area": "Canongate und Holyrood",
+      "operator": "Museums & Galleries Edinburgh (Stadt des Edinburgh Council)",
+      "history": "Die Kollektionen verfolgen die Kindheit durch Spielzeug, Spiele und Objekte aus Haus und Schule. Sie sind über mehrere Etagen in Altstadtgebäuden angeordnet.",
+      "access": "Allgemeiner Eintritt frei. Überprüfen Sie den Betreiber auf Öffnungstage und Sonderausstellungen.",
+      "route": "Gehen Sie bergab von St Giles zum Eingang High Street, in der Nähe von John Knox House. Konsultieren Sie das Museum für den Zugang zum Boden.",
+      "photoTip": "Verwenden Sie für ein Straßenfoto den gegenüberliegenden Bürgersteig, um die Museumsfront innerhalb des Royal Mile-Straßenbildes einzuschließen.",
+      "detail": {
+        "tagline": "Spielzeug, Schultage und Alltag auf der Royal Mile",
+        "background": "Edinburghs Museum of Childhood machte das Leben von Kindern zum Thema eines Stadtmuseums. Die Kollektionen reichen von handgefertigtem Spielzeug und Spielen bis hin zu Objekten, die in der Bildung und im Familienalltag verwendet werden.",
+        "details": "Vergleichen Sie Spielzeug aus einfachen Materialien mit später hergestellten Stücken. Der schmale Eingang und mehrere Galerieebenen sind charakteristisch für die Altstadt.",
+        "firstStop": "Gehen Sie von der South Bridge nach Osten auf der High Street und suchen Sie nach der Nummer 42 in der Nähe des Netherbow.",
+        "finalStop": "Verwenden Sie den Fußbodenführer des Museums, um Sammlungen auszuwählen, und fahren Sie dann auf der Royal Mile fort, wenn Sie auftauchen.",
+        "transport": "Verwenden Sie South Bridge Bushaltestellen für einen kurzen Anflug. Waverley ist in der Nähe, aber unterhalb der Royal Mile.",
+        "advice": "Fragen Sie nach Aufzug und Bodenzugang, wenn Treppen ein Problem sind. Wählen Sie weniger Galerien, wenn Sie mit kleinen Kindern nach einem engen Zeitplan besuchen.",
+        "question": "Ist das Museum nur für Familien mit Kindern?",
+        "answer": "Die Sammlung ist für allgemeine Besucher geöffnet. Erwachsene können verfolgen, wie sich schulbildung, spiel und häusliches leben über generationen hinweg verändert haben."
+      },
+      "visit": {
+        "kind": "Museum für Spielzeug und Kindheit",
+        "duration": "45-75 Minuten, wenn geöffnet",
+        "hours": "Vorübergehend geschlossen für eine Galerie und Licht-Upgrade. Der Betreiber erwartet eine Wiedereröffnung im Januar 2027 und wird die aktuellen Stunden bekannt geben.",
+        "admission": "Allgemeiner Eintritt ist in der Regel frei. Überprüfen Sie die Wiedereröffnungsanzeige des Museums, bevor Sie einen Besuch planen.",
+        "access": "Indoor-Galerien sind während der Schließung nicht verfügbar. Das Writers' Museum und die Canongate Museen haben getrennte Öffnungszeiten.",
+        "experience": "Verwenden Sie die Royal Mile-Front als kurzen Außenstopp während der Renovierung. Wenn das Museum wiedereröffnet wird, vergleichen Sie Spielzeug, Klassenzimmerobjekte und Haushaltsgegenstände, um zu sehen, wie die Sammlung über das Spiel hinausgeht."
+      }
+    },
+    "scottish-parliament": {
+      "name": "Schottisches Parlament",
+      "area": "Canongate und Holyrood",
+      "operator": "Schottisches Parlamentarisches Körperschaftsorgan",
+      "history": "Der parlamentarische Komplex von Enric Miralles vereint Stein, Holz und Beton in einer Reihe unterschiedlicher Bände. Suchen Sie nach den gemusterten Fenstern und der Beziehung des Gebäudes zu den bewaldeten Hängen des Holyrood Parks.",
+      "access": "Freier Besuchereintritt, wenn geöffnet. Überprüfen Sie die Verfügbarkeit der Tour, die Sicherheit und das parlamentarische Geschäft.",
+      "route": "Beenden Sie die Abfahrt der Royal Mile und folgen Sie den Schildern von Horse Wynd zum öffentlichen Eingang.",
+      "photoTip": "Nutzen Sie den öffentlichen Raum in der Nähe von Horse Wynd, um die abwechslungsreichen Dachlinien und die Außenwand einzurahmen.",
+      "detail": {
+        "tagline": "Moderne Architektur am Fuße der Royal Mile",
+        "background": "Das Design von Enric Miralles entwickelte sich als eine Reihe von unterschiedlich geformten Gebäuden neben der Landschaft von Holyrood. Das Parlament wurde 2004 eröffnet und verwendet Stein, Holz und Beton in einer Weise, die Arbeitsbereiche, Zirkulation und öffentliche Zeremonienräume unterscheidet.",
+        "details": "Gehen Sie entlang Horse Wynd und bemerken Sie die gemusterte Fassade, projizierende Fenster und Formen des Daches. Die Landschaft rund um den Komplex verbindet ihn visuell mit dem Holyrood Park.",
+        "firstStop": "Fahren Sie weiter nach Canongate zum Horse Wynd und folgen Sie dann den Schildern zum öffentlichen Eingang.",
+        "finalStop": "Lassen Sie sich Zeit für die Sicherheit und wählen Sie dann die aktuelle öffentliche Ausstellung, den Besuch oder die vom Parlament angebotene Tour aus.",
+        "transport": "Lothian Busse dienen dem Holyrood Bereich. Verwenden sie ihren reiseplaner für ihr date. Die Royal Mile Annäherung von der Altstadt ist bergab.",
+        "advice": "Überprüfen Sie die Sicherheit der Besucher und die parlamentarischen Geschäfte vor der Ankunft. Galeriesitze, Touren und öffentlicher Zugang können nach unterschiedlichen Zeitplänen durchgeführt werden.",
+        "question": "Kann ich mir parlamentarische Geschäfte ohne Tour ansehen?",
+        "answer": "Überprüfen Sie die aktuellen Regelungen des Parlaments für den Zugang zu den Besuchertribünen. Sitztage und Kapazität bestimmen die Verfügbarkeit."
+      },
+      "visit": {
+        "kind": "Arbeitsgesetzgebung und öffentliche Ausstellung",
+        "duration": "45-90 Minuten",
+        "hours": "Montag, Freitag und Samstag typischerweise 10:00-17:00. Am Sitzen dienstags-Donnerstags die öffentlichen Gebäude Listen 09:00-18:30. Überprüfen Sie die Pausendaten und den letzten Eintrag.",
+        "admission": "Kostenlose selbstgeführte Besuche. Geführte Touren und öffentliche Galerieplätze können Reservierungen erfordern.",
+        "access": "Geben Sie von Horse Wynd ein, lassen Sie sich Zeit für die Sicherheitskontrolle im Flughafenstil und sehen Sie sich die Taschen- und Zugangsregeln des Parlaments an.",
+        "experience": "Nehmen Sie die gemusterten Fassaden von Horse Wynd, bevor Sie durch den Besuchereingang gehen. Im Inneren wählen Sie eine öffentliche Ausstellung, einen Vortrag oder eine Tour, die auf dem basiert, was an diesem Tag läuft, anstatt auf den Kammerzugang zu zählen."
+      }
+    },
+    "holyrood-palace": {
+      "name": "Palast von Holyroodhouse",
+      "area": "Canongate und Holyrood",
+      "operator": "Royal Collection Trust (Besucheroperationen)",
+      "history": "Der Palast wuchs neben Holyrood Abbey und wurde zu einer königlichen Residenz. Überlebende historische Wohnungen und die zerstörte Abtei erklären zwei verschiedene Perioden des Geländes.",
+      "access": "Fahrkartenbesuch. Überprüfen Sie die Öffnungszeiten, Preise und Verfügbarkeit vor der Reise.",
+      "route": "Gehen Sie zum Grund von Canongate, überqueren Sie Horse Wynd an der vorgesehenen Kreuzung und folgen Sie den Besucherschildern des Palastes.",
+      "photoTip": "Von Abbey Strand, Rahmen den formalen Ansatz. Befolgen Sie im Inneren die raumspezifischen Fotoregeln.",
+      "detail": {
+        "tagline": "Königliche Wohnungen und Abteiruinen am Ende von Canongate",
+        "background": "Die königliche Residenz entstand neben der Holyrood Abbey. Der Palast und die zerstörte Abtei sitzen dicht beieinander, erzählen aber verschiedene Geschichten über den Ort, von klösterlichen Ursprüngen bis hin zu königlicher Besetzung und späterer staatlicher Nutzung.",
+        "details": "Betrachten Sie vom Abbey Strand aus den formellen Eingang und den Kontrast zwischen dem alten Turm des Palastes und den symmetrischeren späteren Fassaden. Wo die Abtei zugänglich ist, suchen Sie nach dem überlebenden gerippten Mauerwerk und Traktat.",
+        "firstStop": "Gehen Sie Canongate hinunter zum Abbey Strand und finden Sie den Eintritt in den Palast.",
+        "finalStop": "Folgen Sie der Palastbesucherroute durch die Apartments und fügen Sie die Abtei oder den Garten hinzu, wo sie enthalten und geöffnet sind.",
+        "transport": "Lokale Busse dienen dem Holyrood Bereich. Von Waverley aus können Sie die Royal Mile-Abfahrt oder eine Route über die untere Altstadt nutzen.",
+        "advice": "Überprüfen Sie die saisonale Öffnung und die Schließung der königlichen Nutzung. Ermöglichen Sie einen längeren Besuch, wenn Sie die State Rooms mit dem Außengelände kombinieren.",
+        "question": "Ist der Palast an jedem Tag des Jahres geöffnet?",
+        "answer": "Die Öffnungstage variieren und die königliche Nutzung kann den Zugang beeinträchtigen. Überprüfen Sie den aktuellen Kalender des Royal Collection Trust vor der Reise."
+      },
+      "visit": {
+        "kind": "Königliche Residenz und historische Abtei Bezirk",
+        "duration": "90–120 Minuten",
+        "hours": "Der 2026 November-Dezember Zeitplan ist Donnerstag-Montag 09:30-16:30, letzter Eintritt 15:15. Daten, Stunden und Schließungen für die königliche Nutzung variieren saisonal.",
+        "admission": "2026 Eintritt für Erwachsene £ 22 im Voraus oder £ 26 am Tag. Kind im Alter von 5 bis 17 £ 11 im Voraus oder £ 13 am Tag.",
+        "access": "Nutzen Sie den Besuchereingang des Palastes am Abbey Strand. Überprüfen Sie die saisonale Verfügbarkeit der Abtei und der Außenbereiche.",
+        "experience": "Beginnen Sie am Abbey Strand und verwenden Sie das Äußere, um den älteren Turm von der späteren Palastzusammensetzung zu unterscheiden. Bauen Sie im Inneren Ihren Besuch in den Staatsräumen auf und fügen Sie die Abtei oder den Garten hinzu, wenn der Besucherzugang dies zulässt."
+      }
+    },
+    "st-marys-cathedral": {
+      "name": "Episkopale St.-Mary’s-Kathedrale",
+      "area": "West End und Water of Leith",
+      "operator": "St Mary's Episcopal Cathedral",
+      "history": "George Gilbert Scott entwarf die Gothic Revival Kathedrale. Seine Kreuzung Turm und gepaart westlichen Türme machen es zu einem Wahrzeichen auf der Westseite der Neuen Stadt.",
+      "access": "Überprüfen Sie die Besucherzeiten und Dienstleistungen mit der Kathedrale.",
+      "route": "Vom westlichen Ende der Princes Street folgen Sie dem Shandwick Place und biegen in den Palmerston Place ab.",
+      "photoTip": "Verwenden Sie vom gegenüberliegenden Bürgersteig die Länge des Gebäudes, um die drei Türme zu trennen.",
+      "detail": {
+        "tagline": "Die Episcopal Cathedral mit drei West End Türmen",
+        "background": "George Gilbert Scott entwarf die Kathedrale aus dem 19. Jahrhundert in der gotischen Revival-Tradition. Sein zentraler Kreuzungsturm und gepaarte westliche Türme unterscheiden ihn von den umliegenden Wohnstraßen und Terrassen.",
+        "details": "Vergleichen Sie auf Palmerston Place die Höhe und Positionen der drei Türme. Achten Sie auf Bodenhöhe darauf, wie die Stützpfeiler und spitzen Öffnungen die lange Kirchenschiffwand teilen.",
+        "firstStop": "Nähern Sie sich dem Palmerston Place und machen Sie eine Pause über die Straße für das Außenprofil.",
+        "finalStop": "Folgen Sie dem signierten Eingang zu einer Zeit, die rund um Dienstleistungen funktioniert, oder fahren Sie um den öffentlichen Perimeter herum, um die Westfront zu sehen.",
+        "transport": "Die Straßenbahnhaltestelle West End ist in der Nähe. Haymarket Station bietet einen anderen Ansatz durch die West End Straßen.",
+        "advice": "Schauen Sie nach Service- und Konzertplänen, wenn Sie das Innere sehen möchten. Der öffentliche Bürgersteig bietet auch außerhalb der Besucherzeiten Aussicht.",
+        "question": "Ist dies die katholische St Mary's Cathedral in der Broughton Street?",
+        "answer": "Dieser Guide ist für die Episcopal Cathedral am Palmerston Place. Verwenden Sie die West End-Adresse beim Navigieren."
+      },
+      "visit": {
+        "kind": "Episcopal Gothic Revival Kathedrale",
+        "duration": "25-45 Minuten",
+        "hours": "Montag-Freitag 08:00-18:00, Samstag und Sonntag 08:00-17:00. Überprüfen Sie Vorankündigungen für Anbetung und Veranstaltungen.",
+        "admission": "Freier Eintritt. Die Kathedrale begrüßt Spenden.",
+        "access": "Verwenden Sie den Standort Palmerston Place im West End. Der Dom bietet separate stufenlose Informations- und Servicezeiten.",
+        "experience": "Beginnen Sie über Palmerston Place für einen Blick auf die drei Türme. Schauen Sie sich in der Nähe des Gebäudes die wiederholten Fenster und Stützpfeiler an und lassen Sie Zeit für das Innere, wenn es zum Gottesdienstplan passt."
+      }
+    },
+    "national-war-museum": {
+      "name": "Nationales Kriegsmuseum",
+      "area": "Altstadt",
+      "operator": "Nationalmuseen Schottland",
+      "history": "Das Museum befindet sich in ehemaligen Militärgebäuden innerhalb der Burg. Gegenstände wie Briefe, Uniformen und persönliche Besitztümer zeigen, wie sich der Militärdienst auf das Leben des Einzelnen ausgewirkt hat.",
+      "access": "Der Zugang zum Museum erfordert den Eintritt zum Edinburgh Castle. Überprüfen Sie Schloss und Museum Stunden.",
+      "route": "Betreten Sie zuerst das Edinburgh Castle und folgen Sie dann den Schildern innerhalb der Festung zum Museumshof.",
+      "photoTip": "Fotografieren Sie die Steingebäude des Innenhofs aus der Öffentlichkeit, bevor Sie die Galerien betreten.",
+      "detail": {
+        "tagline": "Persönliche Geschichten in den Militärgebäuden des Schlosses",
+        "background": "Das Museum befindet sich im Militärkomplex des Edinburgh Castle. Seine Sammlungen präsentieren Service durch persönliches Zeugnis, Aufzeichnungen und Objekte wie Uniformen, Kampagnenmaterial und Habseligkeiten nach Hause gebracht.",
+        "details": "Stellen Sie die Galerieobjekte in einen Kontext, indem Sie den Steinhof und die ehemalige Militärunterkunft um den Museumseingang betrachten. Im Inneren vergleichen Sie die ursprüngliche Nutzung eines Objekts mit dem Konto der damit verbundenen Person.",
+        "firstStop": "Betreten Sie Edinburgh Castle und folgen Sie den Schildern zum National War Museum, anstatt direkt zum Crown Square zu fahren.",
+        "finalStop": "Lassen Sie sich Zeit für den Spaziergang zurück bergauf oder bergab innerhalb der Festung, bevor Sie zu einem anderen Schlossgebäude weiterziehen.",
+        "transport": "Castlehill ist der letzte Ansatz aus dem Lawnmarket. Das Museum befindet sich auf dem Ticketgelände, das von den eigenen Wegen des Schlosses erreicht wird.",
+        "advice": "Geben Sie dem Museum genügend Zeit innerhalb Ihres Schlossplatzes. Überprüfen Sie die Museumsstunden separat, wenn Sie spät am Tag ankommen.",
+        "question": "Kann ich das Museum von Castlehill aus ohne Schlossticket erreichen?",
+        "answer": "Der öffentliche Eingang befindet sich im Edinburgh Castle. Überprüfen Sie die Eintrittsbedingungen des Schlosses und die aktuellen Stunden des Museums."
+      },
+      "visit": {
+        "kind": "Militärische Sammlungen im Edinburgh Castle",
+        "duration": "45-75 Minuten zusätzlich zum Schlossbesuch",
+        "hours": "In der Regel täglich 09:45-17:45 April-September und 09:45-16:45 Oktober-März, geschlossen 25-26 Dezember. Der Zugang zum Schloss kann den Eintritt beeinflussen.",
+        "admission": "Der Eintritt ist im Edinburgh Castle Ticket inbegriffen. Es gibt keine separate Standard-Museumsgebühr.",
+        "access": "Finden Sie das Museum auf dem Hospital Square des Schlosses. Verwenden Sie die Zugangskarte des Schlosses für den Anflug über unebenem Boden.",
+        "experience": "Machen Sie den Hospital Square zu einem absichtlichen Halt auf Ihrer Schlossroute. Ein kurzer Blick auf die umliegenden Militärgebäude gibt den persönlichen Geschichten und Objekten in den Galerien einen Kontext."
+      },
+      "caption": "Hospital Square neben dem Eingang des National War Museum, mit der umgesiedelten Earl Haig Statue"
+    },
+    "peoples-story": {
+      "name": "Museum zur Alltagsgeschichte Edinburghs",
+      "area": "Canongate und Holyrood",
+      "operator": "Museums & Galleries Edinburgh (Stadt des Edinburgh Council)",
+      "history": "Das Museum verwendet mündliche Geschichten und neu erstellte Umgebungen, um die Geschichte des Arbeitslebens in Edinburgh zu erzählen. Es nimmt die Canongate Tolbooth ein, deren Uhr über die Straße ragt.",
+      "access": "Allgemeiner Eintritt frei. Überprüfen Sie den Betreiber auf Öffnungstage und Sonderausstellungen.",
+      "route": "Gehen Sie nach Osten Canongate hinunter zum Tolbooth und bestätigen Sie die aktuellen Eröffnungstage vor dem Aufbruch.",
+      "photoTip": "Schauen Sie von Canongate aus bergauf, um die projizierende Uhr und den Turm des Gebäudes zu zeigen.",
+      "detail": {
+        "tagline": "Working Edinburgh erzählt durch die Canongate Tolbooth",
+        "background": "Das Museum befindet sich in der Canongate Tolbooth, die 1591 für lokale Bürgerveranstaltungen fertiggestellt wurde. Die Ausstellungen stützen sich auf die Erfahrungen der arbeitenden Einwohner von Edinburgh und zeigen, wie das Gebäude selbst verschiedene Nutzungen durchlaufen hat.",
+        "details": "Wählen Sie die projizierende Straßenuhr und den Turm von der gegenüberliegenden Seite von Canongate aus. Verbinden Sie innen die alltäglichen Haushalts- und Arbeitseinstellungen mit den Geschichten, mit denen sie interpretiert werden.",
+        "firstStop": "Gehen Sie Canongate zur Tolbooth-Front hinunter und nutzen Sie den signierten Museumseingang.",
+        "finalStop": "Nach dem Museum bleiben Sie auf dem gleichen Block für die Außenseite von Canongate Kirk oder überqueren Sie sicher zum Huntly House.",
+        "transport": "Erreichen Sie die Tolbooth zu Fuß von der Royal Mile oder kommen Sie von Holyrood. Überprüfen Sie den Busplaner auf aktuelle Haltestellen in der Nähe von Canongate.",
+        "advice": "Überprüfen Sie die Öffnungstage des Museums und den Zugang zur Etage, bevor Sie es zu einer kurzen Reiseroute hinzufügen. Das Äußere ist unabhängig voneinander leicht zu sehen.",
+        "question": "Was unterscheidet dieses Museum vom Museum of Edinburgh?",
+        "answer": "Die People's Story konzentriert sich auf das Arbeits- und Privatleben, das durch persönliche und gemeinschaftliche Berichte erzählt wird. Es ist in der Tolbooth über Canongate untergebracht."
+      },
+      "visit": {
+        "kind": "Sozialhistorisches Museum in Canongate Tolbooth",
+        "duration": "45-75 Minuten",
+        "hours": "Winterstunden Mittwoch-Sonntag 10:00-17:00, letzter Einlass 16:30. Überprüfen Sie saisonale Veränderungen.",
+        "admission": "Allgemeiner Eintritt frei.",
+        "access": "Das Museum befindet sich auf mehreren Ebenen in der historischen Tolbooth. Überprüfen Sie Galerie und Treppenzugang vor dem Besuch.",
+        "experience": "Vergleichen Sie die projizierende Uhr und den Turm des Tolbooth mit den Innen- und Arbeitsplatzszenen. Es ist einfach, diesen Halt mit Huntly House auf der anderen Straßenseite zu kombinieren, wenn beide geöffnet sind."
+      }
+    },
+    "canongate-kirk": {
+      "name": "Canongate-Kirche",
+      "area": "Canongate und Holyrood",
+      "operator": "Canongate Kirk (Kirche); City of Edinburgh Council (Kirchenhof)",
+      "history": "Der Kirch aus dem späten siebzehnten Jahrhundert hebt sich von Canongate ab. Sein holländischer Giebel und sein offener Vorplatz machen ihn optisch anders als die hohen Mietshäuser in der Nähe.",
+      "access": "Überprüfen Sie die Öffnungszeiten und Dienstleistungen der Kirche. Folgen Sie dem gebuchten Zugang zum Kirchhof.",
+      "route": "Passieren Sie den Canongate Tolbooth und treten Sie von der Hauptstraße in den Vorplatz des Kirchens.",
+      "photoTip": "Verwenden Sie den vorderen Pfad, um den Giebel mit dem Eingang auszurichten und die Tür frei zu halten.",
+      "detail": {
+        "tagline": "Eine Kirche hinter der Canongate-Front",
+        "background": "Erbaut im späten siebzehnten Jahrhundert, bleibt der Kirch eine aktive Kirche. Sein gestufter und gebogener Giebel hat einen anderen Charakter als die steilen Häuser in der Nähe, und der Vorplatz schafft eine absichtliche Pause in der Straßenfront.",
+        "details": "Vom Tor aus sehen Sie, wie der Vorplatz zum Zentrum des Giebels führt. Verwenden Sie auf dem Kirchhof die öffentlichen Wege, um die Zwischenräume zwischen der Kirchenmauer und den benachbarten Gebäuden zu bemerken.",
+        "firstStop": "Lassen Sie Canongate durch den Vorplatz und halten Sie auf der Vorderachse inne, bevor Sie sich zu den Seitenwegen wenden.",
+        "finalStop": "Wenn geöffnet, besuchen Sie den Kirch, wenn die Anbetung es erlaubt. Ansonsten fahren Sie entlang der öffentlichen Straße in Richtung Holyrood.",
+        "transport": "Die Kirche befindet sich in der Nähe von Canongate Tolbooth, zu Fuß von der South Bridge oder bergauf von Horse Wynd erreichbar.",
+        "advice": "Überprüfen Sie die Öffnungs- und Servicezeiten der Kirche unabhängig vom Kirchhof. Halten Sie die Tür und die Gedenkwege frei.",
+        "question": "Kann ich den Kirch und den Tolbooth in einer Haltestelle kombinieren?",
+        "answer": "Ja. Sie sind dicht beieinander auf Canongate, mit separaten Öffnungs- und Zulassungsvereinbarungen."
+      },
+      "visit": {
+        "kind": "Aktive Pfarrkirche und Kirchhof",
+        "duration": "20-40 Minuten",
+        "hours": "Der Kirch listet normalerweise den öffentlichen Zugang an Sommerwochentagen von 11:00 bis 16:00 Uhr auf. Dienstleistungen und die Verfügbarkeit von Freiwilligen außerhalb der Saison beeinflussen die Öffnung.",
+        "admission": "Allgemeine kirk-besuche sind willkommen, wenn sie geöffnet sind. Überprüfen Sie alle Konzerte oder besondere Veranstaltungen separat.",
+        "access": "Verwenden Sie den öffentlichen Vorplatz und signierte Kirchhofpfade. Der Zugang zum Kirchengebäude ist separat.",
+        "experience": "Betreten Sie den Vorplatz weit genug, um zu sehen, wie die niederländische Front von Canongate zurückgesetzt wird. Wenn sie geöffnet sind, belohnen die Kirche und der Kirchhof einen ruhigeren Blick als die Hauptstraße."
+      }
+    },
+    "st-cecilias-hall": {
+      "name": "St.-Cecilia’s-Saal",
+      "area": "Altstadt",
+      "operator": "Universität von Edinburgh",
+      "history": "Der Konzertsaal aus dem achtzehnten Jahrhundert verfügt über einen ovalen Raum für musikalische Aufführungen. Die Instrumentensammlung zeigt, wie sich der Klang und das Design von Tastaturen und anderen Instrumenten im Laufe der Zeit verändert haben.",
+      "access": "Allgemeiner Eintritt frei. Überprüfen Sie den Betreiber auf Öffnungstage und Sonderausstellungen.",
+      "route": "Drehen Sie die Niddry Street von der Royal Mile herunter. Straßen neigen hier, also überprüfen Sie die Annäherungsinformationen des Museums, wenn nötig.",
+      "photoTip": "Von der öffentlichen Straße, umrahmt den Eingang und angrenzende Mauerwerk. Im Inneren folgen Sie der displayspezifischen Fotografie-Anleitung.",
+      "detail": {
+        "tagline": "Ein Konzertsaal aus dem 18. Jahrhundert über einem Musikinstrumentenmuseum",
+        "background": "Der Saal der St. Cecilia wurde speziell für musikalische Darbietungen gebaut, und sein ovaler Konzertsaal überlebt über der modernen Museumsroute. Die Instrumentensammlungen binden Veränderungen in Klang und Mechanik an die Räume, in denen Musik gehört wurde.",
+        "details": "Schauen Sie sich den ovalen Umfang des Konzertsaals an, wenn er geöffnet ist, und vergleichen Sie dann die Tastaturen und ihre Mechanismen in den Galerien unten.",
+        "firstStop": "Drehen Sie die Niddry Street von der Royal Mile herunter und nutzen Sie den signierten Museumseingang.",
+        "finalStop": "Besuchen Sie zuerst die Instrumentengalerien, wenn der Konzertraum für eine Probe oder eine Aufführung geschlossen ist.",
+        "transport": "Verwenden Sie South Bridge Bushaltestellen und erreichen Sie die Royal Mile. Niddry Street ist geneigt; Überprüfen Sie den Museums-Zugangsführer, wenn dies Ihren Besuch beeinflusst.",
+        "advice": "Überprüfen Sie den Konzertplan und die regulären Museumsstunden unabhängig voneinander. Eine Eintrittskarte und ein allgemeiner Besuch haben unterschiedliche Arrangements.",
+        "question": "Ist der Konzertsaal immer Teil eines Museumsbesuchs?",
+        "answer": "Der Zugang kann je nach Proben, Aufführungen und Veranstaltungen variieren. Fragen Sie das Museum, welche Räume an diesem Tag zur Verfügung stehen."
+      },
+      "visit": {
+        "kind": "Musikinstrumentenmuseum und Konzertsaal",
+        "duration": "45-75 Minuten",
+        "hours": "Dienstag-Samstag 10:00-17:00, letzter Eintrag 16:30. Sonntag und Montag geschlossen.",
+        "admission": "Freier Museumseintritt. Konzerte können ein separates Ticket erfordern.",
+        "access": "Der Konzertsaal und die Instrumentengalerien können unterschiedlich verfügbar sein. Überprüfen Sie den Zugang über die abfallende Niddry Street.",
+        "experience": "Wenn der Konzertsaal geöffnet ist, sehen Sie seinen ovalen Plan und vergleichen Sie ihn dann mit den Instrumenten unten. Wenn Sie nur das Museum besuchen können, wählen Sie die Tastaturen oder eine andere Sammlung, anstatt durch beide Etagen zu eilen."
+      }
+    },
+    "surgeons-hall": {
+      "name": "Museen zur Geschichte der Chirurgie",
+      "area": "Altstadt",
+      "operator": "Royal College of Surgeons von Edinburgh",
+      "history": "Die Museen verfolgen die Geschichte der Chirurgie durch Instrumente, anatomisches Material und Museumssammlungen. Das klassische Gebäude von William Henry Playfair ist ein Wahrzeichen in der Nicolson Street.",
+      "access": "Fahrkartenbesuch. Überprüfen Sie die Öffnungszeiten, Preise und Verfügbarkeit vor der Reise.",
+      "route": "Gehen Sie nach Osten entlang der Chambers Street und biegen Sie nach Süden auf die Nicolson Street ab, um den signierten Museumseingang zu erreichen.",
+      "photoTip": "Fotografieren Sie das Äußere vom öffentlichen Bürgersteig aus und befolgen Sie die Indoor-Fotografieregeln des Museums.",
+      "detail": {
+        "tagline": "Medizinische Geschichte hinter einer klassischen Nicolson Street Fassade",
+        "background": "Die Sammlungen des Royal College of Surgeons wuchsen aus professioneller Lehre und Forschung. William Henry Playfair gab der Institution eine formelle klassische Straßenpräsenz neben Einrichtungen für Bildung und das Studium der Anatomie.",
+        "details": "Schauen Sie über die Nicolson Street auf den Portikus und seine monumentalen Proportionen. Im Museum überprüfen Sie, wie Gruppeninstrumente, Training und klinische Praxis zu verschiedenen Zeiten dargestellt werden.",
+        "firstStop": "Von der Chambers Street aus biegen Sie in der Nicolson Street nach Süden ab und nutzen den markierten Museumseingang.",
+        "finalStop": "Wählen Sie ein Galeriethema aus, bevor Sie sich durch die Displays bewegen; beenden Sie den Außenportikus vom gegenüberliegenden Bürgersteig.",
+        "transport": "Nicolson Street und South Bridge werden von Stadtbussen bedient. Folgen Sie von Waverley einer Route bis zur South Bridge und fahren Sie weiter nach Süden.",
+        "advice": "Einige Galerien enthalten menschliches anatomisches Material. Lesen Sie im Voraus die Besucheranleitung des Museums und befolgen Sie die Fotoregeln.",
+        "question": "Ist dies das gleiche Museum wie das National Museum of Scotland?",
+        "answer": "Sie sind unabhängige Institutionen. Die Hallenmuseen der Chirurgen befinden sich in der Nicolson Street, während der Eingang des Nationalmuseums in der Chambers Street liegt."
+      },
+      "visit": {
+        "kind": "Museum für Chirurgie und anatomische Sammlungen",
+        "duration": "90–120 Minuten",
+        "hours": "Täglich 10:00-17:00, letzter Eintrag 16:30. Überprüfen Sie die Weihnachts- und Neujahrsschließungsdaten.",
+        "admission": "2026 Erwachsene £ 10, aufgeführte Konzessionen £ 6,50, Alter 5-15 £ 5,50. Standard-Eintritt wird an der Rezeption gekauft.",
+        "access": "Das Museum enthält menschliche Überreste. Der Betreiber empfiehlt Besuch ab dem zehnten Lebensjahr und verlangt, dass unter 16-Jährige mit einem Erwachsenen teilnehmen.",
+        "experience": "Nehmen Sie den Portikus von Nicolson Street und lassen Sie einen erheblichen Zeitblock für die Displays. Die Objekte funktionieren am besten, wenn sie gegen die Geschichte der medizinischen Ausbildung und Praxis gelesen werden, die in ihren Galerien beschrieben wird."
+      }
+    }
+  },
+  "topics": {
+    "opening-hours": {
+      "slug": "opening-hours",
+      "navLabel": "Öffnungszeiten",
+      "title": "Öffnungszeiten der Princes Street Gardens",
+      "description": "Öffnungszeiten der Princes Street Gardens: Die Tore sind täglich um 07:00 Uhr geöffnet, wobei sich die Schließzeiten je nach Saison ändern. Volle Stadt Edinburgh Rat Fahrplan, Tor Schließungszeiten und Winter Schließungen.",
+      "intro": "Princes Street Gardens sind kostenlose öffentliche Gärten im Herzen von Edinburgh, die jeden Morgen geöffnet sind und vom Rat zu einer festgelegten Zeit geschlossen werden, die sich mit der Saison verschiebt. Diese Seite verwendet den offiziellen Fahrplan, der vom Rat der Stadt Edinburgh (Edinburgh Outdoors) veröffentlicht wurde und am 8. Oktober 2026 überprüft wurde.",
+      "updated": "Zuletzt überprüft am 8. Oktober 2026",
+      "sections": [
+        {
+          "heading": "Wann öffnen sich die Gärten?",
+          "paragraphs": [
+            "Die Tore öffnen sich täglich um 07:00 Uhr, das ganze Jahr über. Es gibt kein Ticket und keine Buchung - Sie gehen einfach von jedem öffentlichen Eingang entlang der Princes Street oder The Mound herein."
+          ]
+        },
+        {
+          "heading": "Saisonale Schlusszeiten",
+          "paragraphs": [
+            "Die Schließzeit wird vom Rat der Stadt Edinburgh festgelegt und ändert sich im Laufe des Jahres. Die folgende Tabelle zeigt den veröffentlichten Zeitplan für 2026."
+          ],
+          "table": {
+            "columns": [
+              "Zeitraum",
+              "Schließzeit",
+              "Beginn der Torschließung"
+            ],
+            "rows": [
+              [
+                "1. Januar – 29. März",
+                "18:00",
+                "West 17:00 · Ost 17:15"
+              ],
+              [
+                "30 März — 26 Apr",
+                "19:00",
+                "West 18:00 · Ost 18:15"
+              ],
+              [
+                "27 Apr. – 31. Mai",
+                "20:00",
+                "West 19:00 · Ost 19:15"
+              ],
+              [
+                "1 Jun – 30 Aug",
+                "22:00",
+                "West 21:00 · Ost 21:15"
+              ],
+              [
+                "31 Aug – 27 Sep",
+                "20:00",
+                "West 19:00 · Ost 19:15"
+              ],
+              [
+                "28 Sep – 25 Oct",
+                "19:00",
+                "West 18:00 · Ost 18:15"
+              ],
+              [
+                "26 Okt. – 31 Dec",
+                "18:00",
+                "West 17:00 · Ost 17:15"
+              ]
+            ]
+          },
+          "note": "Quelle: City of Edinburgh Council (Edinburgh Outdoors), überprüft am 8. Oktober 2026. Die Zeiten können sich für Veranstaltungen, Wartung oder schlechtes Wetter ändern - überprüfen Sie die offizielle Seite, bevor Sie reisen."
+        },
+        {
+          "heading": "Schließung der Tore",
+          "paragraphs": [
+            "Die Gärten schließen sich allmählich. Die Westtore schließen sich etwa eine Stunde vor der veröffentlichten Schließzeit und die Osttore etwa 45 Minuten vorher, so dass die Gärten sicher geräumt werden können. Wenn Sie spät am Tag zu Besuch sind, gehen Sie zu einem Ausgang, bevor sich die Tore schließen."
+          ]
+        },
+        {
+          "heading": "Öffentliche Toiletten",
+          "paragraphs": [
+            "Toiletten sind an mehreren Stellen verfügbar, obwohl die Öffnungszeiten unterschiedlich sind:"
+          ],
+          "bullets": [
+            "East Princes Street Gardens (The Mound) - 24-Stunden-Zugang, nur deaktiviert (RADAR-Schlüssel erforderlich).",
+            "West Princes Street Gardens (The Mound) - 10:00-22:00, nur Herren, kein behinderter Zugang.",
+            "West Princes Street Gardens (Ross Band Stand) - nur 10:00-20:00 im Sommer, Zugang für Behinderte.",
+            "West Princes Street Gardens (West End) - 10:00-22:00, Zugang für Behinderte."
+          ]
+        },
+        {
+          "heading": "Schließungen und geplante Änderungen",
+          "paragraphs": [
+            "Die Gärten bleiben während der meisten Veranstaltungen geöffnet, aber temporäre Fechten oder frühere Schließungen können für den Weihnachtsmarkt, Konzerte und Wartung passieren. Der Eingang von der Kings Stables Road ist derzeit für Fußgänger und Fahrzeuge gesperrt; Verwenden Sie den Kirchhof von St. Cuthbert als Alternative."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wie spät schließen die Princes Street Gardens heute?",
+          "answer": "Die Schließzeit ändert sich im Laufe des Jahres: 18:00 (1. Januar – 29. März), 19:00 (30. März – 26. April), 20:00 (27. April – 31. Mai), 22:00 (1. Juni – 30. August), 20:00 (31. August – 27. September), 19:00 (28. September – 25. Oktober) und 18:00 (26. Oktober – 31. Dezember). Die Westtore beginnen sich etwa eine Stunde früher zu schließen und die Osttore etwa 45 Minuten früher."
+        },
+        {
+          "question": "Sind Princes Street Gardens im Winter geöffnet?",
+          "answer": "Ja. Die Gärten sind jeden Tag im Winter geöffnet, öffnen um 07:00 Uhr und schließen um 18:00 Uhr zwischen Ende Oktober und Ende März. Ab Ende November übernimmt der Winter-Weihnachtsmarkt in Edinburgh einen Teil der East Gardens."
+        },
+        {
+          "question": "Können Sie Princes Street Gardens bei Nacht besuchen?",
+          "answer": "Nein, die Gärten sind nachts nicht geöffnet. Sie schließen zur veröffentlichten Saisonzeit und die Tore sind verschlossen, also planen Sie Ihren Besuch für Tageslichtstunden."
+        },
+        {
+          "question": "Wer kümmert sich um Princes Street Gardens?",
+          "answer": "Die Gärten befinden sich im Besitz und unterhält der Parks and Greenspace Service der Stadt Edinburgh, der auch die jährliche Blumenuhrpflanzung entwirft."
+        },
+        {
+          "question": "Sind es Princes oder Princess Street Gardens?",
+          "answer": "Der offizielle Name ist Princes Street Gardens, nach Princes Street. \"Princess Street Gardens\" ist eine häufige Rechtschreibfehler und bezieht sich auf den gleichen Park."
+        }
+      ]
+    },
+    "east-vs-west": {
+      "slug": "east-vs-west",
+      "navLabel": "Ost- und Westteil",
+      "title": "Ost- und Westteil der Princes Street Gardens",
+      "description": "Was ist der Unterschied zwischen den Princes Street Gardens? Vergleichen Sie den Rossbrunnen, die Blumenuhr, das Scott Monument, die Eingänge und die beste Seite, die Sie besuchen können.",
+      "intro": "Die Princes Street Gardens sind durch The Mound, einen künstlichen Hügel, der Straßen zwischen Edinburghs New Town und Old Town führt, in zwei Hälften geteilt. Die beiden Seiten fühlen sich ganz anders an, also hier ist, wie man sie auseinander hält und worauf man zielen soll.",
+      "updated": "Zuletzt überprüft am 8. Oktober 2026",
+      "sections": [
+        {
+          "heading": "Auf einen Blick",
+          "table": {
+            "columns": [
+              "Restaurants in der Nähe von West Princes Street Gardens",
+              "Aktivitäten in der Nähe von East Princes Street Gardens"
+            ],
+            "rows": [
+              [
+                "Größere Hälfte",
+                "Kleinere Hälfte"
+              ],
+              [
+                "Rossbrunnen",
+                "Scott Monument"
+              ],
+              [
+                "Ross Bandstand",
+                "Neben der Station Waverley"
+              ],
+              [
+                "Floral Clock (in der Nähe von Allan Ramsay Monument)",
+                "Winter Weihnachtsmarkt"
+              ],
+              [
+                "Weitläufiger Blick auf das Schloss vom Rasen",
+                "Denkmäler und Blumenbeete"
+              ]
+            ]
+          }
+        },
+        {
+          "heading": "Restaurants in der Nähe von West Princes Street Gardens",
+          "paragraphs": [
+            "Die größere westliche Hälfte befindet sich unterhalb des oberen Endes der Princes Street und des Mound. Es ist die Heimat des gusseisernen Rossbrunnens, des Ross Bandstands (der Hauptveranstaltungsbühne) und der Blumenuhr, die in der Nähe des Allan Ramsay Monuments in der Nähe des Mound steht. Seine offenen Rasenflächen bieten einige der am meisten fotografierten Ansichten von Edinburgh Castle."
+          ]
+        },
+        {
+          "heading": "Aktivitäten in der Nähe von East Princes Street Gardens",
+          "paragraphs": [
+            "Die kleinere östliche Hälfte verläuft entlang der Waverley-Station. Sein Herzstück ist das Scott Monument, der aufwendige viktorianische gotische Turm zu Ehren von Sir Walter Scott. Im Winter beherbergt diese Seite den Edinburgher Weihnachtsmarkt und das große Rad."
+          ]
+        },
+        {
+          "heading": "Wie man zwischen ihnen geht",
+          "paragraphs": [
+            "Die beiden Hälften treffen sich im Mound. Sie können in wenigen Minuten von einem zum anderen gehen: Vom Scott Monument fahren Sie nach Westen entlang der Princes Street Gardens vorbei an der Scottish National Gallery und auf den Mound, dann hinunter in die West Gardens, um die Floral Clock und den Ross Fountain zu erreichen."
+          ]
+        },
+        {
+          "heading": "Welche Seite sollte ich besuchen?",
+          "paragraphs": [
+            "Wenn Sie Burgfotos, Brunnen und die Blumenuhr wünschen, verbringen Sie Zeit in den West Gardens. Wenn Sie mit dem Zug in Waverley ankommen oder zu Weihnachten besuchen, beginnen Sie in den East Gardens. Die meisten Besucher schlendern einfach durch beide."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wo ist die Blumenuhr?",
+          "answer": "Die Blumenuhr befindet sich in den West Princes Street Gardens, in der Nähe des Allan Ramsay Monument und des Mound - nicht in den East Gardens. Es wurde erstmals 1903 gepflanzt und wird jeden Sommer neu gepflanzt."
+        },
+        {
+          "question": "Ist der Rossbrunnen im Osten oder West Gardens?",
+          "answer": "Der Ross Fountain befindet sich in den West Princes Street Gardens, in der Nähe des Zentrums des Parks unterhalb der Princes Street."
+        },
+        {
+          "question": "Wo befindet sich das Scott Monument?",
+          "answer": "Das Scott Monument befindet sich in den East Princes Street Gardens, direkt neben der Waverley Station und der Princes Street."
+        },
+        {
+          "question": "Kannst du von einer Seite zur anderen gehen?",
+          "answer": "Ja. Die beiden Hälften verbinden sich am The Mound, und der Spaziergang zwischen dem Scott Monument und dem Rossbrunnen dauert nur wenige Minuten."
+        }
+      ]
+    },
+    "events": {
+      "slug": "events",
+      "navLabel": "Veranstaltungen",
+      "title": "Veranstaltungen in den Princes Street Gardens",
+      "description": "Welche Ereignisse passieren in Princes Street Gardens? Ein saisonaler Guide zum Edinburgher Weihnachtsmarkt, Hogmanay, Sommerkonzerten im Ross Bandstand und der Floral Clock Display.",
+      "intro": "Princes Street Gardens sind nicht nur ein ruhiger Park - sie sind einer der wichtigsten Veranstaltungsräume Edinburghs. Unten ist ein saisonaler Überblick darüber, was typischerweise dort passiert. Diese Seite listet wiederkehrende Veranstaltungen auf, keinen Live-Kalender; Überprüfen Sie immer die offiziellen Organisatoren auf aktuelle Termine und Tickets.",
+      "updated": "Zuletzt überprüft am 8. Oktober 2026",
+      "sections": [
+        {
+          "heading": "Was passiert in den Gärten",
+          "paragraphs": [
+            "Der Ross Bandstand in den West Gardens ist der Hauptaufführungsraum, während sich die East Gardens im Winter mit Marktständen füllen. Der Park ist auch ein Aussichtspunkt für Feuerwerk über dem Schloss."
+          ]
+        },
+        {
+          "heading": "Winter: Edinburgh Weihnachten & Hogmanay",
+          "paragraphs": [
+            "Von Ende November bis Anfang Januar beherbergen die East Gardens den Edinburgher Weihnachtsmarkt, das große Rad und festliche Attraktionen. Hogmanay (Neujahrsfeiern) und Burgfeuerwerk nutzen oft die Gärten und die umliegenden Straßen als Aussichtspunkte."
+          ]
+        },
+        {
+          "heading": "Sommer: Konzerte im Ross Bandstand",
+          "paragraphs": [
+            "Im Sommer bietet der Ross Bandstand Live-Musik, Community-Events und saisonale Shows. Genaue Programme ändern sich jedes Jahr, also überprüfen Sie den Rat der Stadt Edinburgh und die Organisatoren der Veranstaltung, was während Ihres Besuchs los ist."
+          ]
+        },
+        {
+          "heading": "Die Blumenuhr (Sommeranzeige)",
+          "paragraphs": [
+            "Die Blumenuhr wird jedes Frühjahr gepflanzt und im Sommer mit einem neuen Design enthüllt, das jedes Jahr an ein anderes Thema erinnert. Es ist ein kostenloses, immer offenes Display und kein Ticket-Event."
+          ]
+        },
+        {
+          "heading": "Überprüfen Sie, bevor Sie gehen",
+          "paragraphs": [
+            "Veranstaltungen können die Öffnungszeiten ändern, die Eingänge schließen oder temporäre Zäune hinzufügen. Da einige Veranstaltungen für den Eintritt berechnet werden, während die Gärten selbst frei bleiben, bestätigen Sie, ob Sie vor der Reise ein Ticket benötigen."
+          ],
+          "note": "Dieser Leitfaden wird regelmäßig überprüft und ersetzt keine offiziellen Veranstaltungslisten. Überprüfen Sie Termine und Tickets mit den Organisatoren der Veranstaltung."
+        }
+      ],
+      "faq": [
+        {
+          "question": "Welche Veranstaltungen gibt es heute in den Princes Street Gardens?",
+          "answer": "Die Gärten beherbergen den Weihnachtsmarkt und das große Rad im Winter, Sommerkonzerte im Ross Bandstand und Burgfeuerwerk für Hogmanay. Es gibt keine Live-Auflistung auf dieser Website - überprüfen Sie den Rat der Stadt Edinburgh und die Organisatoren der Veranstaltung für das heutige Programm."
+        },
+        {
+          "question": "Sind Veranstaltungen in den Gärten kostenlos?",
+          "answer": "Ein Spaziergang in den Gärten und das Sehen der Blumenuhr ist kostenlos. Einige Veranstaltungen, wie Konzerte und die Weihnachtsmarktattraktionen, verkaufen separate Tickets."
+        },
+        {
+          "question": "Wann findet der Edinburgh Christmas Market statt?",
+          "answer": "Der Markt läuft normalerweise von Ende November bis Anfang Januar in den East Princes Street Gardens. Genaue Termine ändern sich jedes Jahr, also bestätigen Sie dies vor Ihrem Besuch beim offiziellen Organisator."
+        },
+        {
+          "question": "Können Sie Edinburgh Castle Feuerwerk aus den Gärten sehen?",
+          "answer": "Ja. Der Rasen der West Gardens und die Gegend in der Nähe des Hügels sind beliebte (und kostenlose) Aussichtspunkte für Burgfeuerwerke während Hogmanay und Festivals."
+        }
+      ]
+    },
+    "tickets": {
+      "slug": "tickets",
+      "navLabel": "Eintritt und Tickets",
+      "title": "Eintritt und Tickets für die Princes Street Gardens",
+      "description": "Sind Princes Street Gardens kostenlos? Ja — der Eintritt ist frei und es ist kein Ticket oder eine Buchung erforderlich. Diese Seite erklärt, was Geld in der Nähe kostet und was separat zu buchen ist.",
+      "intro": "Eines der besten Dinge über Princes Street Gardens ist, dass sie völlig kostenlos zu besuchen sind. Sie können hineingehen, auf dem Rasen sitzen und das Schloss betrachten, ohne einen Cent auszugeben. Hier ist, was Sie tun und nicht bezahlen müssen.",
+      "updated": "Zuletzt überprüft am 8. Oktober 2026",
+      "sections": [
+        {
+          "heading": "Der Eintritt ist frei",
+          "paragraphs": [
+            "Es gibt keine Eintrittsgebühr, kein Ticket und keine Notwendigkeit zu buchen. Die Gärten sind öffentliche Parkanlagen im Besitz der Stadt Edinburgh Rat und offen für alle während der Öffnungszeiten."
+          ]
+        },
+        {
+          "heading": "Was kostet Geld in der Nähe",
+          "paragraphs": [
+            "Die Gärten selbst sind kostenlos, aber ein paar Attraktionen um sie herum berechnen separat:"
+          ],
+          "bullets": [
+            "Das Besteigen des Scott Monuments hat eine separate Eintrittsgebühr (bezahlt am Monument).",
+            "Edinburgh Castle befindet sich über den Gärten und ist eine kostenpflichtige, separat fahrbare Attraktion.",
+            "Einige Veranstaltungen im Ross Bandstand und die Weihnachtsmarktattraktionen verkaufen ihre eigenen Tickets."
+          ]
+        },
+        {
+          "heading": "Muss ich buchen?",
+          "paragraphs": [
+            "Nein. Für einen normalen Besuch tauchen Sie einfach während der Öffnungszeiten auf. Nur bestimmte kostenpflichtige Veranstaltungen erfordern Vorauskarten, und diese werden vom Veranstalter gekauft, nicht von den Gärten."
+          ]
+        },
+        {
+          "heading": "Zugänglichkeit",
+          "paragraphs": [
+            "Wege durch die Gärten sind meist gepflastert und stufenfrei von den Eingängen Princes Street und Mound. Die East Gardens sind auf gleicher Höhe mit Waverley Station. Begehbare öffentliche Toiletten sind in den East Gardens (The Mound, 24-Stunden, RADAR-Schlüssel) und an Punkten in den West Gardens verfügbar."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Benötigen Sie Tickets für Princes Street Gardens?",
+          "answer": "Nein. Der Eintritt in die Gärten ist frei und es gibt kein Ticket oder Buchung. Nur bestimmte Veranstaltungen auf der Website verkaufen separate Tickets."
+        },
+        {
+          "question": "Wie viel kostet es, Princes Street Gardens zu besuchen?",
+          "answer": "Nichts - der allgemeine eintritt ist kostenlos. Sie zahlen nur, wenn Sie eine aufgeladene Attraktion in der Nähe wählen, wie zum Beispiel das Scott Monument besteigen oder das Edinburgh Castle besuchen."
+        },
+        {
+          "question": "Kann ich Princes Street Gardens im Voraus buchen?",
+          "answer": "Ein normaler Besuch kann und muss nicht gebucht werden. Buchen Sie separat nur für kostenpflichtige Veranstaltungen oder für Edinburgh Castle."
+        },
+        {
+          "question": "Ist die Blumenuhr frei zu sehen?",
+          "answer": "Ja. Die Blumenuhr ist ein kostenloses Open-Air-Display in den West Gardens, das Sie jederzeit während der Öffnungszeiten sehen können."
+        }
+      ]
+    },
+    "map-and-directions": {
+      "slug": "map-and-directions",
+      "navLabel": "Karte und Anreise",
+      "title": "Karte und Anreise zu den Princes Street Gardens",
+      "description": "Wo sind Princes Street Gardens und wie kommt man dorthin? Eingänge, Richtungen vom Bahnhof Waverley, Straßenbahn- und Bushaltestellen, Parkplätze und Zugänglichkeit.",
+      "intro": "Die Princes Street Gardens befinden sich im Tal zwischen Edinburghs New Town (Princes Street) und Old Town (dem Burgfelsen). Sie sind von fast überall im Stadtzentrum begehbar. Hier ist, wie man die Eingänge findet und dorthin gelangt.",
+      "updated": "Zuletzt überprüft am 8. Oktober 2026",
+      "sections": [
+        {
+          "heading": "Wo sind die Gärten?",
+          "paragraphs": [
+            "Die Gärten verlaufen ungefähr Ost-West entlang der Südseite der Princes Street, unterhalb des Edinburgh Castle und oberhalb der Waverley-Station. Der Hügel teilt die Ost- und Westgärten und führt Straßen zwischen den beiden Hälften der Stadt."
+          ]
+        },
+        {
+          "heading": "Haupteingänge",
+          "bullets": [
+            "Von der Princes Street (Neustadtseite) - mehrere rampenförmige und gestufte Eingänge entlang der Länge der Gärten.",
+            "Der Hügel - zentraler Zugang zwischen dem Ost- und Westgarten, stufenlos.",
+            "Waverley Station / East Princes Street - ebener Zugang zu den East Gardens.",
+            "Der Kirchhof von St. Cuthbert - ein alternativer Gehweg in die West Gardens."
+          ]
+        },
+        {
+          "heading": "Von der Waverley Station",
+          "paragraphs": [
+            "Waverley liegt direkt neben den East Gardens. Verlassen Sie den Bahnhof in die Princes Street oder nutzen Sie die Rampen am Scott Monument; Sie sind innerhalb weniger Minuten zu Fuß in den Gärten."
+          ]
+        },
+        {
+          "heading": "Mit der Straßenbahn, Bus und Auto",
+          "paragraphs": [
+            "Edinburgh Straßenbahnen und die meisten Stadtbusse fahren entlang der Princes Street, mit Haltestellen einen kurzen Spaziergang von den Garteneingängen. Es gibt keine Parkplätze in den Gärten; öffentliche Parkplätze (wie die in der Nähe des West End und St. James) sind nur einen Spaziergang entfernt, und das Stadtzentrum ist am einfachsten zu Fuß oder mit öffentlichen Verkehrsmitteln zu erreichen."
+          ]
+        },
+        {
+          "heading": "Zugänglichkeit & vorübergehende Schließungen",
+          "paragraphs": [
+            "Step-free Routen sind von Princes Street und The Mound zur Verfügung. Beachten Sie, dass der Eingang der Kings Stables Road derzeit für Fußgänger und Fahrzeuge gesperrt ist - verwenden Sie den Kirchhof von St. Cuthbert als alternativen Weg in die West Gardens."
+          ]
+        }
+      ],
+      "faq": [
+        {
+          "question": "Wie komme ich zu Princes Street Gardens?",
+          "answer": "Die Gärten befinden sich im Stadtzentrum von Edinburgh, entlang der Princes Street. Gehen Sie von der Princes Street oder dem Mound, von der Waverley Station in die East Gardens oder mit der Straßenbahn und den Bushaltestellen in der Princes Street."
+        },
+        {
+          "question": "Wo ist der beste Eingang für den Blick auf das Schloss?",
+          "answer": "Der Rasen der West Gardens, der von der Princes Street oder dem Mound aus erreicht wird, bietet den klassischen offenen Blick auf das Edinburgh Castle."
+        },
+        {
+          "question": "Gibt es Parkplätze in den Princes Street Gardens?",
+          "answer": "In den Gärten gibt es keinen Parkplatz. Nutzen Sie öffentliche Parkplätze im Stadtzentrum und gehen Sie hinein oder fahren Sie mit der Straßenbahn, dem Bus oder dem Zug nach Waverley."
+        },
+        {
+          "question": "Was ist die Postleitzahl für Princes Street Gardens?",
+          "answer": "Die Gärten befinden sich in Princes St, Edinburgh, EH2 2HG - nützlich für Karten und Taxi-Drop-offs."
+        }
+      ]
+    }
+  },
+  "lodging": {
+    "Princes Street Gardens": "Wählen Sie die Princes Street oder Princes Street Gardens für einen schnellen Zugang zu den Gärten, Galerien und Straßenbahnen. Waverley ist bequem mit Gepäck, aber überprüfen Sie, auf welcher Seite der Station sich Ihre Unterkunft befindet, bevor Sie eine Wanderroute wählen.",
+    "New Town": "George Street und Queen Street bieten eine New Town Basis für Galerien, Plätze und Einkaufsmöglichkeiten. Der St Andrew Square ist nützlich für Straßenbahnverbindungen, während das westliche Ende der George Street den Charlotte Square zu einem einfacheren ersten Halt macht.",
+    "Calton Hill": "St Andrew Square und Picardy Place bringen Sie in einen bergaufen Spaziergang von Calton Hill und in der Nähe von Straßenbahnhaltestellen. Das östliche Ende der Princes Street funktioniert auch gut, wenn Sie mit der Bahn in Waverley ankommen.",
+    "Old Town": "Die High Street und der Lawnmarket sind sinnvoll, um zwischen den Attraktionen der Altstadt zu spazieren. Wenn Sie zwischen der Market Street und der Royal Mile mit Gepäck wählen, vergleichen Sie die Höhe des Ansatzes sowie die Entfernung.",
+    "West End & Water of Leith": "Das West End oder Haymarket bietet Bahn- und Straßenbahnverbindungen mit einem Spaziergang hinunter zum Wasser von Leith. Stockbridge bietet Ihnen eine Nachbarschaft Basis am Fluss, mit einem längeren bergauf zu Fuß zurück in Richtung der Haupt New Town Straßen.",
+    "Canongate & Holyrood": "Lower Canongate funktioniert gut für Museen, Palast und Parlament. Wählen Sie stattdessen die zentrale Royal Mile, wenn das Schloss und die obere Altstadt Priorität haben, und lassen Sie Zeit für den Hang zwischen den beiden Enden."
+  },
+  "ui": {
+    "Edinburgh Visitor Guide": "Reiseführer für Edinburgh",
+    "About": "Über die Sehenswürdigkeit",
+    "Basic information": "Grundinformationen",
+    "Opening hours": "Öffnungszeiten",
+    "Tickets": "Eintrittskarten",
+    "Transport": "Anreise",
+    "What to look for": "Sehenswertes",
+    "Walking route": "Spazierroute",
+    "Photography": "Fototipps",
+    "FAQ": "Häufige Fragen",
+    "Breadcrumb": "Brotkrümelnavigation",
+    "Princes Street Gardens": "Princes Street Gardens",
+    "Nearby attractions": "Sehenswürdigkeiten in der Nähe",
+    "View on Google Maps": "Auf Google Maps ansehen",
+    "Ratings and reviews": "Bewertungen und Rezensionen",
+    "Explore": "Entdecken",
+    "Visiting tips": "Besuchstipps",
+    "Highlights": "Besondere Merkmale",
+    "Managed by": "Verwaltung",
+    "Visitor information": "Besuchsinformationen",
+    "On this page": "Auf dieser Seite",
+    "Attraction": "Sehenswürdigkeit",
+    "Type": "Art",
+    "Area": "Stadtviertel",
+    "Address": "Adresse",
+    "Suggested visit": "Empfohlene Besuchsdauer",
+    "Visitor access": "Zugang",
+    "Check visitor hours and closures": "Öffnungszeiten und Schließungen prüfen",
+    "Admission and tickets": "Eintritt und Tickets",
+    "Check admission and booking": "Preise und Buchung prüfen",
+    "Getting there": "Anreise",
+    "Plan a public transport journey": "Fahrt mit öffentlichen Verkehrsmitteln planen",
+    "History, architecture and culture": "Geschichte, Architektur und Kultur",
+    "Suggested walking route": "Empfohlene Spazierroute",
+    "Before you go": "Vor dem Besuch",
+    "Photograph from": "Foto des Ortes",
+    "Photograph by": "Foto von",
+    "Resized": "Größe angepasst",
+    "Frequently asked questions": "Häufig gestellte Fragen",
+    "How do I get there by public transport?": "Wie komme ich mit öffentlichen Verkehrsmitteln dorthin?",
+    "Where to stay": "Übernachten in der Nähe",
+    "Visitor reviews": "Besucherbewertungen",
+    "See the current rating and visitor reviews on Google Maps": "Aktuelle Bewertung und Rezensionen auf Google Maps ansehen",
+    "Address and map": "Adresse und Karte",
+    "View location on Google Maps": "Standort auf Google Maps ansehen",
+    "Public transport directions": "Anfahrt mit öffentlichen Verkehrsmitteln",
+    "More nearby guides": "Weitere Ausflugsziele in der Nähe",
+    "Browse all nearby attractions": "Alle Sehenswürdigkeiten in der Nähe ansehen",
+    "Edinburgh": "Edinburgh",
+    "Scotland": "Schottland",
+    "More in": "Mehr in",
+    "Switch language": "Sprache wechseln",
+    "Switch color theme": "Farbschema wechseln",
+    "Home": "Startseite",
+    "Visitor guides": "Besuchsführer",
+    "Plan your visit": "Besuch planen",
+    "Edinburgh City Council": "Stadtrat von Edinburgh",
+    "Historic Environment Scotland": "Schottische Denkmalbehörde",
+    "Edinburgh World Heritage": "Welterbestiftung Edinburgh",
+    "Official Edinburgh Tourism Board": "Offizielle Tourismusinformation Edinburgh",
+    "Scottish National Gallery": "Schottische Nationalgalerie",
+    "Princes Street Gardens at a glance": "Princes Street Gardens im Überblick",
+    "Location": "Lage",
+    "Admission and access": "Eintritt und Zugang",
+    "Free public gardens. The east and west gardens have separate gates and seasonal closing times.": "Freie öffentliche Gärten. Die Ost- und Westgärten haben getrennte Tore und saisonale Schließzeiten.",
+    "From Edinburgh Waverley, walk via Waverley Bridge to the east gardens. Princes Street tram stop is close to the Mound and west gardens.": "Von Edinburgh Waverley gehen Sie über die Waverley Bridge zu den östlichen Gärten. Die Straßenbahnhaltestelle Princes Street befindet sich in der Nähe des Mound und der Westgärten.",
+    "View the gardens on Google Maps": "Gärten auf Google Maps ansehen",
+    "City of Edinburgh Council": "Stadtrat von Edinburgh",
+    "Princes Street and The Mound, Edinburgh EH2": "Princes Street / The Mound, Edinburgh EH2",
+    "More visitor guides": "Weitere Besuchsführer",
+    "Open on Google Maps": "Öffnen bei Google Maps",
+    "Getting here": "Anreise"
+  }
+}

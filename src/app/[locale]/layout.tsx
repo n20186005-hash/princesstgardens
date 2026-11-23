@@ -1,4 +1,4 @@
-import { NextIntlClientProvider } from 'next-intl';
+import { hasLocale, NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
@@ -15,6 +15,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+  if (!hasLocale(routing.locales, locale)) notFound();
   const messages = (await import(`@/messages/${locale}.json`)).default;
 
   const localeUrls = Object.fromEntries(
@@ -69,32 +70,14 @@ export default async function LocaleLayout({
 }) {
   const { locale } = await params;
 
-  if (!routing.locales.includes(locale as any)) {
-    notFound();
-  }
+  if (!hasLocale(routing.locales, locale)) notFound();
 
   setRequestLocale(locale);
   const messages = await getMessages();
 
   return (
     <html
-      lang={
-        locale === 'zh'
-          ? 'zh-CN'
-          : locale === 'en'
-            ? 'en'
-            : locale === 'pl'
-              ? 'pl'
-              : locale === 'de'
-                ? 'de'
-                : locale === 'it'
-                  ? 'it'
-                  : locale === 'es'
-                    ? 'es'
-                    : locale === 'fr'
-                      ? 'fr'
-                      : 'en'
-      }
+      lang={locale === 'zh' ? 'zh-CN' : locale}
       suppressHydrationWarning
     >
       <head>

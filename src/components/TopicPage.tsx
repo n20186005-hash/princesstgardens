@@ -3,15 +3,19 @@ import Footer from '@/components/Footer';
 import Reviews from '@/components/Reviews';
 import JsonLd from '@/components/JsonLd';
 import { SITE_URL } from '@/lib/seo';
-import { topics, type Topic } from '@/content/topics';
+import type { Topic } from '@/content/topics';
+import type { Locale } from '@/i18n/routing';
+import { guideTopics, guideText } from '@/content/guide-localization';
 
 export default function TopicPage({
   topic,
   locale,
 }: {
   topic: Topic;
-  locale: string;
+  locale: Locale;
 }) {
+  const t = guideText(locale);
+  const topics = guideTopics(locale);
   const homeUrl = `${SITE_URL}/${locale}`;
   const selfUrl = `${homeUrl}/${topic.slug}`;
   const otherTopics = Object.values(topics).filter((t) => t.slug !== topic.slug);
@@ -33,7 +37,7 @@ export default function TopicPage({
       {
         '@type': 'ListItem',
         position: 1,
-        name: 'Home',
+        name: t('Home'),
         item: homeUrl,
       },
       {
@@ -49,13 +53,16 @@ export default function TopicPage({
     <>
       <JsonLd data={breadcrumbJsonLd} />
       <JsonLd data={faqJsonLd} />
-      <Header solid englishGuide />
-      <main className="section-padding !pt-24">
-        <div className="max-w-3xl mx-auto">
+      <Header />
+      <main>
+        <div className="relative isolate flex min-h-[26rem] items-end overflow-hidden px-5 pb-10 pt-24 text-white sm:min-h-[32rem]">
+          <img src="/gallery/princes-street-gardens (1).jpg" alt="" className="absolute inset-0 -z-20 h-full w-full object-cover" fetchPriority="high" />
+          <div className="absolute inset-0 -z-10" style={{ background: 'var(--hero-overlay)' }} />
+          <div className="mx-auto w-full max-w-4xl">
           {/* Breadcrumb */}
-          <nav aria-label="Breadcrumb" className="mb-6 text-sm" style={{ color: 'var(--text-muted)' }}>
-            <a href={homeUrl} style={{ color: 'var(--accent)' }}>
-              Home
+          <nav aria-label={t('Breadcrumb')} className="mb-6 text-sm text-white/90">
+            <a href={homeUrl} className="underline">
+              {t('Home')}
             </a>
             <span className="mx-2">/</span>
             <span>{topic.title}</span>
@@ -63,13 +70,15 @@ export default function TopicPage({
 
           <h1
             className="font-display text-3xl sm:text-4xl lg:text-5xl font-semibold mb-4"
-            style={{ color: 'var(--text-primary)' }}
           >
             {topic.title}
           </h1>
-          <p className="text-xs mb-8" style={{ color: 'var(--text-muted)' }}>
+          <p className="text-sm text-white/90">
             {topic.updated}
           </p>
+          </div>
+        </div>
+        <div className="section-padding max-w-4xl mx-auto">
 
           <p
             className="text-lg leading-relaxed mb-10"
@@ -79,20 +88,20 @@ export default function TopicPage({
           </p>
 
           <section className="mb-10 rounded-xl border p-5 sm:p-7" style={{ background: 'var(--bg-secondary)', borderColor: 'var(--border-color)' }}>
-            <h2 className="mb-4 font-display text-2xl font-semibold">Princes Street Gardens at a glance</h2>
+            <h2 className="mb-4 font-display text-2xl font-semibold">{t('Princes Street Gardens at a glance')}</h2>
             <dl className="space-y-3">
-              <div><dt className="font-semibold">Managed by</dt><dd>City of Edinburgh Council</dd></div>
-              <div><dt className="font-semibold">Location</dt><dd>Princes Street and The Mound, Edinburgh EH2</dd></div>
-              <div><dt className="font-semibold">Admission and access</dt><dd>Free public gardens. The east and west gardens have separate gates and seasonal closing times.</dd></div>
-              <div><dt className="font-semibold">Getting here</dt><dd>From Edinburgh Waverley, walk via Waverley Bridge to the east gardens. Princes Street tram stop is close to the Mound and west gardens.</dd></div>
+              <div><dt className="font-semibold">{t('Managed by')}</dt><dd>{t('City of Edinburgh Council')}</dd></div>
+              <div><dt className="font-semibold">{t('Location')}</dt><dd>{t('Princes Street and The Mound, Edinburgh EH2')}</dd></div>
+              <div><dt className="font-semibold">{t('Admission and access')}</dt><dd>{t('Free public gardens. The east and west gardens have separate gates and seasonal closing times.')}</dd></div>
+              <div><dt className="font-semibold">{t('Getting here')}</dt><dd>{t('From Edinburgh Waverley, walk via Waverley Bridge to the east gardens. Princes Street tram stop is close to the Mound and west gardens.')}</dd></div>
             </dl>
             <p className="mt-4">
-              <a href="https://maps.app.goo.gl/d4fuHbdFk3VPCpse7" className="underline" style={{ color: 'var(--accent)' }}>View the gardens on Google Maps</a>
+              <a href="https://maps.app.goo.gl/d4fuHbdFk3VPCpse7" className="underline" style={{ color: 'var(--accent)' }}>{t('View the gardens on Google Maps')}</a>
             </p>
           </section>
 
           {topic.sections.map((section, i) => (
-            <section key={i} className="mb-12">
+            <section key={i} className="mb-8 rounded-2xl border p-5 sm:p-8" style={{ background: 'var(--bg-secondary)', borderColor: 'var(--border-color)' }}>
               <h2
                 className="font-display text-2xl font-semibold mb-4"
                 style={{ color: 'var(--text-primary)' }}
@@ -178,7 +187,7 @@ export default function TopicPage({
               className="font-display text-2xl font-semibold mb-6"
               style={{ color: 'var(--text-primary)' }}
             >
-              Frequently asked questions
+              {t('Frequently asked questions')}
             </h2>
             <div className="space-y-3">
               {topic.faq.map((item, i) => (
@@ -210,7 +219,7 @@ export default function TopicPage({
               className="font-display text-xl font-semibold mb-4"
               style={{ color: 'var(--text-primary)' }}
             >
-              More visitor guides
+              {t('More visitor guides')}
             </h2>
             <div className="flex flex-wrap gap-3">
               {otherTopics.map((t) => (
@@ -226,8 +235,8 @@ export default function TopicPage({
                   {t.navLabel}
                 </a>
               ))}
-              <a href="/en/nearby" className="px-4 py-2 rounded-full text-sm font-medium" style={{ color: 'var(--accent)', border: '1px solid var(--accent)' }}>
-                Nearby attractions
+              <a href={`/${locale}/nearby`} className="px-4 py-2 rounded-full text-sm font-medium" style={{ color: 'var(--accent)', border: '1px solid var(--accent)' }}>
+                {t('Nearby attractions')}
               </a>
             </div>
           </section>

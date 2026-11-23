@@ -5,7 +5,7 @@ import LanguageToggle from './LanguageToggle';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
 
-export default function Header({ solid = false, englishGuide = false }: { solid?: boolean; englishGuide?: boolean }) {
+export default function Header({ solid = false }: { solid?: boolean }) {
   const t = useTranslations('header');
   const [scrolled, setScrolled] = useState(false);
 
@@ -30,7 +30,7 @@ export default function Header({ solid = false, englishGuide = false }: { solid?
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between gap-2">
         <a href={logoHref} className="font-display text-base font-semibold leading-tight tracking-tight sm:text-lg" style={{ color: opaque ? 'var(--text-primary)' : '#fff' }}>
-          Princes Street Gardens
+          {t('siteName')}
         </a>
 
         <nav className="hidden md:flex items-center gap-6">
@@ -51,7 +51,7 @@ export default function Header({ solid = false, englishGuide = false }: { solid?
             {t('nearby')}
           </a>
           <ThemeToggle />
-          <LanguageToggle directoryFallback={englishGuide} />
+          <LanguageToggle />
         </div>
       </div>
     </header>
