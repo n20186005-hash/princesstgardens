@@ -8,8 +8,6 @@ import TopicPage from '@/components/TopicPage';
 const SLUG = 'tickets';
 const topic = topics[SLUG];
 
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return [{ locale: 'en' }];
 }

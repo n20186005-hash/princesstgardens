@@ -8,8 +8,6 @@ import TopicPage from '@/components/TopicPage';
 const SLUG = 'map-and-directions';
 const topic = topics[SLUG];
 
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return [{ locale: 'en' }];
 }

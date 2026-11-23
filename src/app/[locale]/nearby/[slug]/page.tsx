@@ -9,8 +9,6 @@ import { SITE_URL } from '@/lib/seo';
 
 type Props = { params: Promise<{ locale: string; slug: string }> };
 
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return nearby.map(({ slug }) => ({ locale: 'en', slug }));
 }
