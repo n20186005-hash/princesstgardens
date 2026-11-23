@@ -1,10 +1,22 @@
 import photos from './nearby-photos.json';
 import details from './nearby-details.json';
+import practical from './nearby-practical.json';
 import additionalPhotos from './nearby-extra-photos.json';
 
 type Photo = { source: string; author: string; license: string; licenseUrl: string };
 type ExtraPhoto = Photo & { path: string; caption: string };
 type Detail = (typeof details)['scott-monument'];
+type VisitInfo = {
+  kind: string;
+  duration: string;
+  hours: string;
+  admission: string;
+  access: string;
+  experience: string;
+  hoursUrl?: string;
+  ticketsUrl?: string;
+};
+
 type Place = {
   slug: string;
   name: string;
@@ -19,6 +31,7 @@ type Place = {
   photo: Photo;
   extraPhoto?: ExtraPhoto;
   detail: Detail;
+  visit: VisitInfo;
 };
 
 const council = 'City of Edinburgh Council';
@@ -86,6 +99,7 @@ const entries: [string, string, string, string, string, string, string, string, 
 
 const photoBySlug: Partial<Record<string, Photo>> = photos;
 const extraBySlug: Partial<Record<string, ExtraPhoto>> = additionalPhotos;
+const visitBySlug: Partial<Record<string, VisitInfo>> = practical;
 const detailBySlug: Partial<Record<string, Detail>> = details;
 
 export const nearby: Place[] = entries.map(([slug, name, address, area, operator, access, source, history, route, photoTip]) => {
@@ -93,7 +107,9 @@ export const nearby: Place[] = entries.map(([slug, name, address, area, operator
   if (!photo) throw new Error(`Missing matched photograph for ${slug}`);
   const detail = detailBySlug[slug];
   if (!detail) throw new Error(`Missing guide content for ${slug}`);
-  return { slug, name, address, area, operator, access, source, history, route, photoTip, photo, extraPhoto: extraBySlug[slug], detail };
+  const visit = visitBySlug[slug];
+  if (!visit) throw new Error(`Missing practical information for ${slug}`);
+  return { slug, name, address, area, operator, access, source, history, route, photoTip, photo, extraPhoto: extraBySlug[slug], detail, visit };
 });
 
 const mapNames: Partial<Record<string, string>> = {

@@ -1,0 +1,332 @@
+{
+  "scott-monument": {
+    "kind": "Gothic literary monument",
+    "duration": "20–45 minutes",
+    "hours": "The statue can be seen from the gardens during gate hours. Confirm the current guided tower slots before visiting.",
+    "admission": "Free to see from the park. The guided climb is £9 adult, £7 child or concession, or £26 family on the council’s published price list. Card payment only.",
+    "access": "The narrow tower stair can be skipped by seeing the marble statue and tracery at ground level.",
+    "hoursUrl": "https://cultureedinburgh.com/things-to-see-and-do/one-day-tour-arts-culture",
+    "experience": "Start at the marble group of Scott and Maida, where you can move from the subject of the monument to the Gothic framework and the characters carved higher up. Pair the literature connection with the Writers’ Museum if you have time to climb into the Old Town."
+  },
+  "ross-fountain": {
+    "kind": "Cast-iron fountain in a public garden",
+    "duration": "15–30 minutes",
+    "hours": "West Princes Street Gardens open daily at 07:00. Closing varies from 18:00 in winter to 22:00 in summer. West gates start closing about an hour earlier. Check the council’s seasonal timetable for your date.",
+    "admission": "Free at the public garden paths. No fountain ticket or reservation.",
+    "access": "The fountain is at the foot of the slope. Allow time to get back to an open west gate.",
+    "experience": "Spend the first few minutes close enough to see the cast figures and moulded ironwork. Step back across the lower garden path for a second view of the fountain’s relationship to Castle Rock, then continue along the lawns rather than climbing out immediately."
+  },
+  "edinburgh-castle": {
+    "kind": "Historic fortress and royal complex",
+    "duration": "2–3 hours",
+    "hours": "Normally 09:30–18:00 April–September, last entry 17:00. Most October–March dates are 09:30–17:00, last entry 16:00. Christmas Eve and New Year’s Day have different hours, and 25–26 December are closed.",
+    "admission": "Adult £23.50 online or £26 walk-up. Child aged 7–15 £11.50 online or £13 walk-up. Standard tickets have limited capacity.",
+    "access": "The routes inside the fortress climb over stone surfaces. Consult the castle’s access guide if steep slopes or cobbles affect your visit.",
+    "hoursUrl": "https://www.edinburghcastle.scot/plan-your-visit/opening-times/",
+    "ticketsUrl": "https://www.edinburghcastle.scot/plan-your-visit/tickets/",
+    "experience": "Build your first visit around three different experiences: the strategic approach through the defences, the royal buildings near Crown Square and the older chapel. If the War Museum is important to you, put it on your route before the return to the entrance."
+  },
+  "calton-hill": {
+    "kind": "Public hill and skyline viewpoint",
+    "duration": "45–75 minutes",
+    "hours": "Outdoor public paths. Separate opening hours apply to the observatory grounds and the towers.",
+    "admission": "Free for the public hill paths. Indoor monuments or programmed activities have separate entry arrangements.",
+    "access": "The signed routes vary in incline and stair use. Stay on paths, especially near the steep western edge.",
+    "experience": "Treat the summit as a short loop with distinct views. The west terrace looks back along Princes Street, the monuments show the Edinburgh Enlightenment’s classical ambitions, and the eastern paths open onto Holyrood and the hills."
+  },
+  "national-monument": {
+    "kind": "Unfinished classical war memorial",
+    "duration": "15–25 minutes",
+    "hours": "The exterior is viewed from the public summit paths when accessible.",
+    "admission": "Free outdoor viewing. There is no separate ticketed circuit.",
+    "access": "The raised stone platform has high steps. The strongest views of the colonnade are available at ground level.",
+    "hoursUrl": "https://portal.historicenvironment.scot/apex/f?p=1505:300::::VIEWTYPE,VIEWREF:designation,LB27820",
+    "experience": "The strongest impression comes from walking alongside the unfinished colonnade. It gives you both the scale of the memorial’s intended design and an unobstructed view directly through the surviving columns."
+  },
+  "nelson-monument": {
+    "kind": "Commemorative tower and time signal",
+    "duration": "15–40 minutes",
+    "hours": "Exterior views follow access to Calton Hill. Confirm the tower’s operating days and maintenance closures with Culture Edinburgh.",
+    "admission": "The exterior is free to view. Check the operator for current viewing-platform tickets.",
+    "access": "The tower and hill are separate climbs. You can see the time-ball mast without entering.",
+    "hoursUrl": "https://cultureedinburgh.com/our-venues/nelson-monument",
+    "experience": "Bring the time-ball mechanism into focus before deciding whether to climb. Its position above the Forth connects this apparently eccentric tower to the city’s maritime life."
+  },
+  "dugald-stewart-monument": {
+    "kind": "Circular classical memorial and viewpoint",
+    "duration": "10–20 minutes",
+    "hours": "Outdoor viewing from the west terrace on Calton Hill.",
+    "admission": "Free outdoor viewing.",
+    "access": "Keep clear of terrace edges and retain space for other walkers at the viewpoint.",
+    "experience": "Come for the relationship between the solid base, the open ring of columns and the skyline. A short move along the terrace changes which rooftops and towers appear between the columns."
+  },
+  "city-observatory": {
+    "kind": "Former observatory and contemporary art galleries",
+    "duration": "35–60 minutes",
+    "hours": "Collective lists Wednesday–Sunday 10:00–16:00, closed Monday and Tuesday. Check programmes and holiday changes.",
+    "admission": "General gallery admission is free. Individual events may have separate terms.",
+    "access": "The last leg climbs Calton Hill. Collective explains accessible drop-off and entry options on its visit page.",
+    "experience": "Start with the geometry of the dome and temple-front buildings in the courtyard. Allow a separate spell for the current art exhibition rather than assuming the historic astronomy spaces all have the same public access."
+  },
+  "national-gallery": {
+    "kind": "National art gallery and Scottish collection",
+    "duration": "60–120 minutes",
+    "hours": "The National galleries are generally open daily 10:00–17:00. Check holiday and special exhibition hours separately.",
+    "admission": "General admission is free. Some temporary exhibitions charge.",
+    "access": "The Mound and garden entrances approach from different levels. Check the operator’s access map for the appropriate door.",
+    "hoursUrl": "https://www.nationalgalleries.org/visit",
+    "experience": "Give the National Gallery its own stop on the Mound. The Scottish collection provides a strong starting point, while the different entrances show how the museum is built into the gardens’ slope."
+  },
+  "portrait-gallery": {
+    "kind": "National portrait collection and Gothic Revival building",
+    "duration": "45–90 minutes",
+    "hours": "Daily 10:00–17:00 on the gallery’s published schedule. Check holiday hours.",
+    "admission": "Free general admission. Some exhibitions have a separate charge.",
+    "access": "Start on Queen Street and ask at reception about lifts and gallery access before going upstairs.",
+    "experience": "Look up in the Great Hall before following a subject or period into the portrait rooms. The historic and contemporary Scottish faces give a different account of the country from the painting collection on the Mound."
+  },
+  "national-museum": {
+    "kind": "National museum of history, science and design",
+    "duration": "90–180 minutes",
+    "hours": "Daily 10:00–17:00. Closed 25 December. Hours are 12:00–17:00 on 26 December and 1 January.",
+    "admission": "Free general entrance. Some special exhibitions are ticketed.",
+    "access": "The Victorian and modern sections occupy several levels. Use the site map and lift signs for the collections you want.",
+    "experience": "Use the Victorian Grand Gallery to orient yourself and choose a smaller group of galleries. For a focused visit, pair the architectural experience of the central atrium with the Scottish history wing or a single science collection."
+  },
+  "st-giles-cathedral": {
+    "kind": "Active church and historic Old Town interior",
+    "duration": "30–45 minutes",
+    "hours": "Monday–Friday 10:00–18:00, Saturday 09:00–17:00 and Sunday 13:00–17:00, subject to services and events.",
+    "admission": "General visiting and booked or optional experiences have different arrangements. Confirm the current offering with the cathedral.",
+    "access": "The operator identifies the west door as the wheelchair entrance. Access to the Thistle Chapel differs from the main interior.",
+    "hoursUrl": "https://www.stgilescathedral.org.uk/visitor-information",
+    "experience": "The crown steeple is the easiest skyline feature to recognise from Parliament Square. Inside, compare the scale of the main space with the fine carving and heraldry of the much smaller Thistle Chapel where access permits."
+  },
+  "writers-museum": {
+    "kind": "Literary museum and paved quotation court",
+    "duration": "35–60 minutes",
+    "hours": "Daily 10:00–17:00, last admission 16:30 on the museum’s published schedule.",
+    "admission": "Free general admission. Makars’ Court is an outdoor stop.",
+    "access": "Lady Stair’s Close is narrow and the historic house has stairs and changes of level.",
+    "hoursUrl": "https://cultureedinburgh.com/our-venues/writers-museum",
+    "experience": "Read the stone quotations in Makars’ Court and then continue into the house to connect them to the writers’ lives. The court works as a short standalone stop when the museum is closed."
+  },
+  "museum-on-the-mound": {
+    "kind": "Banking and money museum",
+    "duration": "30–60 minutes",
+    "hours": "Tuesday–Saturday 13:00–17:00, last entry 16:45. Regularly closed Sunday and Monday, with bank-holiday exceptions published by the museum.",
+    "admission": "Free general admission.",
+    "access": "The Mound has a sustained gradient. Find the signed museum door rather than using a bank entrance.",
+    "experience": "Use the building’s role as a bank to make sense of the objects inside. Banknotes, coins and the equipment designed to count or safeguard money make a compact detour between the gardens and the Royal Mile."
+  },
+  "georgian-house": {
+    "kind": "Historic house museum in Charlotte Square",
+    "duration": "45–75 minutes when open",
+    "hours": "National Trust for Scotland currently lists the house as closed for conservation. Consult the operator before planning an indoor visit.",
+    "admission": "The house is normally ticketed when open. The public pavement view of the terrace is free.",
+    "access": "The north terrace can be viewed from the public perimeter without entering the house or central garden.",
+    "experience": "Read the long north terrace of Charlotte Square from the opposite pavement before looking for No. 7. When interior visiting resumes, use the contrast between reception rooms and work areas to understand how one household occupied the building."
+  },
+  "dean-village": {
+    "kind": "Residential river valley and former mill settlement",
+    "duration": "35–60 minutes",
+    "hours": "Public streets and paths are outdoor visits. Check posted walkway closures and diversions before continuing to Stockbridge.",
+    "admission": "Free along the public streets and footpaths. Residential interiors and courtyards are outside the public route.",
+    "access": "Bell’s Brae and riverside paths can be steep and uneven. Stay on the public route around private homes.",
+    "experience": "Pause at a public bridge and follow the way housing, lanes and the river fit into the narrow valley. Take time with the river view before adding a longer waterside walk, and keep the residential approaches clear."
+  },
+  "dean-bridge": {
+    "kind": "Stone road bridge over the Water of Leith",
+    "duration": "15–35 minutes",
+    "hours": "Open-air views from public pavement or accessible lower paths, subject to any road or walkway diversions.",
+    "admission": "Free outdoor viewing. The upper bridge and lower river views use separate approaches.",
+    "access": "The pavement is narrow above the valley. Use Bell’s Brae for the separate descent to the riverside.",
+    "experience": "Cross on the public pavement, then make the separate descent into the valley if conditions allow. Seeing the arches from below explains the bridge’s scale far better than the road approach alone."
+  },
+  "st-bernards-well": {
+    "kind": "Riverside rotunda and historic mineral spring",
+    "duration": "15–25 minutes",
+    "hours": "Exterior views follow access to the Water of Leith Walkway. Interior openings are occasional and arranged separately.",
+    "admission": "Free from the walkway. Check any organised interior opening for its individual terms.",
+    "access": "River-level paths may involve steps. Check posted diversions before making this a through walk.",
+    "experience": "Approach on the riverside path and let the rotunda come into view from between the trees. Compare the monument’s small scale with the steep banks and the river it was built beside."
+  },
+  "stockbridge": {
+    "kind": "Neighbourhood, historic bridge and riverside paths",
+    "duration": "45–90 minutes",
+    "hours": "Public streets can be visited independently of business opening. Check market and shop hours with their operators.",
+    "admission": "Free to walk the neighbourhood. Market purchases and private activities are separate.",
+    "access": "Raeburn Place and the bridge are an easy starting point. Riverside entry may involve slopes and uneven surfaces.",
+    "experience": "Start with the neighbourhood’s bridge and shopfronts before detouring into a residential street or riverside path. This makes a good longer stop after Dean Village if the connecting walkway is open."
+  },
+  "charlotte-square": {
+    "kind": "Planned Georgian square and terrace architecture",
+    "duration": "15–30 minutes",
+    "hours": "The public perimeter is accessible independently of the central garden or house museum opening.",
+    "admission": "Free to view the terraces from public streets. The central garden and Georgian House have separate access.",
+    "access": "Use the pavement around the square. Avoid entering residential doorways or crossing the roadway for a photograph.",
+    "experience": "The square rewards a view of the full terrace before a close look at individual doorways. Walk from George Street to see why the square’s position matters in the Georgian street plan."
+  },
+  "st-andrew-square": {
+    "kind": "New Town square and managed public garden",
+    "duration": "15–30 minutes",
+    "hours": "The pavements around the square are public. The privately owned central garden has gates and can have temporary closures.",
+    "admission": "Free public garden access while open. Events can have separate entry terms.",
+    "access": "The perimeter is the dependable step-free connection between tram stops and surrounding streets.",
+    "hoursUrl": "https://www.essentialedinburgh.co.uk/case-study/st-andrew-square-garden/",
+    "experience": "Start on George Street to see how the square closes the long New Town axis. When the central garden is open, step inside for a closer look at the Melville Monument and the enclosure’s changed street edges."
+  },
+  "assembly-rooms": {
+    "kind": "Georgian events and performance venue",
+    "duration": "15–25 minutes for the exterior",
+    "hours": "Public pavement views are independent of the programme. Inside, use the event’s published arrival and door times.",
+    "admission": "Free exterior viewing. Indoor events and tours have their own admission prices.",
+    "access": "Use the entrance listed on your booking for step-free access or seating arrangements.",
+    "experience": "The public frontage gives enough visual context for a short architecture stop. If you have event access, make time to compare the formal proportions of the street elevation with the scale of the main rooms."
+  },
+  "grassmarket": {
+    "kind": "Historic market square below Castle Rock",
+    "duration": "25–45 minutes",
+    "hours": "The square is public. Businesses and events use separate hours, and temporary street restrictions can apply.",
+    "admission": "Free public square. Pay separately for hospitality or booked events.",
+    "access": "The square is lower than the Royal Mile. Both Victoria Street and the routes towards the castle involve slopes.",
+    "experience": "Walk across the length of the square before heading up a side street. The wide market floor, narrow exits and rising slopes explain how this space functioned below the castle."
+  },
+  "victoria-street": {
+    "kind": "Curved historic street and upper terrace",
+    "duration": "20–35 minutes",
+    "hours": "Public pavements remain the main visiting route. Individual shops and cafés keep their own hours.",
+    "admission": "Free to walk and photograph from public places.",
+    "access": "The street and Victoria Terrace are at different heights. Take care on the incline and keep to the pavement.",
+    "experience": "Walk the lower curve in one direction and consider a separate look from the upper terrace. The shops, windows and contrasting levels are easier to understand as a sequence than from one crowded spot."
+  },
+  "greyfriars-kirk": {
+    "kind": "Post-Reformation kirk and historic burial ground",
+    "duration": "30–50 minutes",
+    "hours": "The kirkyard and the kirk have separate access. The operator describes April–October as the normal visitor season for the church. Check services and event dates.",
+    "admission": "The outdoor kirkyard can be visited free during public access. Check terms for special services, tours and concerts.",
+    "access": "Follow the paths around the graves. Allow for uneven ground and respect funerals or worship.",
+    "experience": "Follow the public paths to look at the memorial carving, then take in the kirk exterior from within the kirkyard. Use the Bobby statue as a separate short stop at the street junction."
+  },
+  "greyfriars-bobby": {
+    "kind": "Street memorial and former drinking fountain",
+    "duration": "5–15 minutes",
+    "hours": "The statue stands on a public pavement outside the kirkyard and has no separate gated hours.",
+    "admission": "Free street viewing. The kirkyard and kirk are separate visitor stops.",
+    "access": "Traffic and queues constrain viewpoints. See the bronze from the pavement and keep the junction clear.",
+    "experience": "Make a brief pavement stop to look at the relationship between the bronze terrier and the original drinking-fountain base. If time allows, continue to the nearby kirkyard rather than treating the statue as its entrance."
+  },
+  "royal-mile": {
+    "kind": "Historic ridge route through the Old Town",
+    "duration": "1–2 hours without interiors",
+    "hours": "City streets and most public approaches can be walked independently of museum or church opening. Check event diversions.",
+    "admission": "Free street walk. Each attraction along the route has its own admission.",
+    "access": "Castlehill is the higher end. Cobblestones, hills and stairs in closes make route choice important.",
+    "experience": "Pick one group of stops on the ridge rather than trying every interior in a single walk. Castlehill and Lawnmarket offer the highest Old Town views, while the lower Canongate is a better pairing for Edinburgh’s social-history museums."
+  },
+  "camera-obscura": {
+    "kind": "Optical tower and interactive museum",
+    "duration": "90–120 minutes",
+    "hours": "1 November–18 December, Monday–Thursday 09:30–19:30, Friday 09:30–21:00, Saturday 09:00–21:30, Sunday 09:30–20:00. Check the seasonal table for other dates. The optical presentation depends on daylight.",
+    "admission": "2026 adult £24.95 and child aged 5–15 £17.95. The published 2027 rates are £25.95 and £18.95 respectively. Advance booking is recommended.",
+    "access": "The route covers multiple floors and stairs. Consult the operator’s access information before booking.",
+    "hoursUrl": "https://www.camera-obscura.co.uk/opening-hours/",
+    "ticketsUrl": "https://www.camera-obscura.co.uk/view-tickets/",
+    "experience": "Allow time for both the optical demonstration and a walk through the indoor illusion galleries. Test how the viewpoint changes each display before ending with a look over the rooftops, conditions permitting."
+  },
+  "john-knox-house": {
+    "kind": "Late-medieval townhouse museum",
+    "duration": "35–55 minutes",
+    "hours": "Check the Storytelling Centre’s daily schedule and final museum admission, which can be earlier than centre closing.",
+    "admission": "Published standard entry £7 adult, £5.50 concession, £1.50 for children over seven. See the operator’s age rules.",
+    "access": "Historic stairs and small rooms shape the visit. Enter via the Scottish Storytelling Centre.",
+    "experience": "See the projecting upper storeys from the Royal Mile before entering at the Storytelling Centre. Inside, the compact rooms and uneven levels make the history of the Netherbow tangible at the scale of one house."
+  },
+  "museum-of-edinburgh": {
+    "kind": "Civic museum in Huntly House",
+    "duration": "45–75 minutes",
+    "hours": "Wednesday–Sunday 10:00–17:00, last entry 16:30 on the current schedule.",
+    "admission": "Free general admission. Check special programmes separately.",
+    "access": "The converted houses have irregular floor levels. Check the museum’s current access notes.",
+    "hoursUrl": "https://cultureedinburgh.com/our-venues/museum-of-edinburgh",
+    "experience": "The museum is a useful way to give a longer Canongate walk some context. The converted houses and their connected rooms are part of the experience alongside the collections of everyday and civic objects."
+  },
+  "museum-of-childhood": {
+    "kind": "Museum of toys and childhood",
+    "duration": "45–75 minutes when open",
+    "hours": "Temporarily closed for a gallery and lighting upgrade. The operator expects reopening in January 2027 and will announce current hours.",
+    "admission": "General admission is normally free. Check the museum’s reopening notice before planning a visit.",
+    "access": "Indoor galleries are unavailable during the closure. The Writers’ Museum and the Canongate museums have separate opening schedules.",
+    "hoursUrl": "https://cultureedinburgh.com/our-venues/museum-of-childhood",
+    "experience": "Use the Royal Mile frontage as a short exterior stop during the refurbishment. When the museum reopens, compare toys, classroom objects and household items to see how the collection goes beyond play."
+  },
+  "scottish-parliament": {
+    "kind": "Working legislature and public exhibition",
+    "duration": "45–90 minutes",
+    "hours": "Monday, Friday and Saturday typically 10:00–17:00. On sitting Tuesdays–Thursdays the public building lists 09:00–18:30. Check recess dates and last entry.",
+    "admission": "Free self-guided visits. Guided tours and public gallery seats can require reservations.",
+    "access": "Enter from Horse Wynd, allow time for the airport-style security check, and see Parliament’s bag and access rules.",
+    "hoursUrl": "https://www.parliament.scot/visit/tours/self-guided-visits",
+    "experience": "Take in the patterned façades from Horse Wynd before going through the visitor entrance. Inside, choose a public exhibition, talk or tour based on what is running that day rather than counting on chamber access."
+  },
+  "holyrood-palace": {
+    "kind": "Royal residence and historic abbey precinct",
+    "duration": "90–120 minutes",
+    "hours": "The 2026 November–December schedule is Thursday–Monday 09:30–16:30, last admission 15:15. Dates, hours and royal-use closures vary seasonally.",
+    "admission": "2026 adult admission £22 in advance or £26 on the day. Child aged 5–17 £11 in advance or £13 on the day.",
+    "access": "Use the palace visitor entrance at Abbey Strand. Check seasonal availability of the abbey and outdoor areas.",
+    "experience": "Start at Abbey Strand and use the exterior to distinguish the older tower from the later palace composition. Inside, build your visit around the state rooms and add the abbey or garden when visitor access allows."
+  },
+  "st-marys-cathedral": {
+    "kind": "Episcopal Gothic Revival cathedral",
+    "duration": "25–45 minutes",
+    "hours": "Monday–Friday 08:00–18:00, Saturday and Sunday 08:00–17:00. Check advance notices for worship and events.",
+    "admission": "Free entry. The cathedral welcomes donations.",
+    "access": "Use the Palmerston Place location in the West End. The cathedral provides separate step-free information and service times.",
+    "hoursUrl": "https://www.cathedral.net/cathedral-building/visiting",
+    "experience": "Start across Palmerston Place for a view of the three spires. Near the building, look at the repeated windows and buttresses, and leave time for the interior if it fits with the worship schedule."
+  },
+  "national-war-museum": {
+    "kind": "Military collections inside Edinburgh Castle",
+    "duration": "45–75 minutes in addition to the castle visit",
+    "hours": "Generally daily 09:45–17:45 April–September and 09:45–16:45 October–March, closed 25–26 December. Castle access can affect entry.",
+    "admission": "Admission is included with Edinburgh Castle tickets. There is no separate standard museum charge.",
+    "access": "Find the museum within the castle’s Hospital Square. Use the castle’s access map for the approach over uneven ground.",
+    "experience": "Make Hospital Square an intentional stop on your castle itinerary. A short look at the surrounding military buildings gives context to the personal stories and objects in the galleries."
+  },
+  "peoples-story": {
+    "kind": "Social-history museum in Canongate Tolbooth",
+    "duration": "45–75 minutes",
+    "hours": "Winter hours Wednesday–Sunday 10:00–17:00, last admission 16:30. Check seasonal changes.",
+    "admission": "Free general admission.",
+    "access": "The museum occupies several levels in the historic Tolbooth. Check gallery and stair access before visiting.",
+    "hoursUrl": "https://cultureedinburgh.com/our-venues/the-peoples-story-museum",
+    "experience": "Compare the Tolbooth’s projecting clock and turret with the domestic and workplace scenes inside. It is easy to combine this stop with Huntly House across the street when both are open."
+  },
+  "canongate-kirk": {
+    "kind": "Active parish church and kirkyard",
+    "duration": "20–40 minutes",
+    "hours": "The kirk usually lists summer weekday public access from 11:00–16:00. Services and off-season volunteer availability affect opening.",
+    "admission": "General kirk visits are welcomed when open. Check any concerts or special events separately.",
+    "access": "Use the public forecourt and signed kirkyard paths. Access to the church building is separate.",
+    "hoursUrl": "https://www.canongatekirk.org.uk/visiting/",
+    "experience": "Enter the forecourt far enough to see how the Dutch-style front is set back from Canongate. When open, the church and kirkyard reward a quieter look than the main street."
+  },
+  "st-cecilias-hall": {
+    "kind": "Musical instrument museum and concert room",
+    "duration": "45–75 minutes",
+    "hours": "Tuesday–Saturday 10:00–17:00, last entry 16:30. Closed Sunday and Monday.",
+    "admission": "Free museum entry. Concerts can require a separate ticket.",
+    "access": "The concert room and instrument galleries can have different availability. Check access via sloping Niddry Street.",
+    "experience": "If the concert room is open, see its oval plan and then compare it with the instruments below. If you can only visit the museum, choose the keyboards or another collection rather than rushing through both floors."
+  },
+  "surgeons-hall": {
+    "kind": "Museum of surgery and anatomical collections",
+    "duration": "90–120 minutes",
+    "hours": "Daily 10:00–17:00, last entry 16:30. Check the Christmas and New Year closure dates.",
+    "admission": "2026 adult £10, listed concessions £6.50, age 5–15 £5.50. Standard admission is purchased at reception.",
+    "access": "The museum contains human remains. The operator recommends visiting from age ten and requires under-16s to attend with an adult.",
+    "hoursUrl": "https://museum.rcsed.ac.uk/visit/tickets",
+    "experience": "Take in the portico from Nicolson Street and allow a substantial block of time for the displays. The objects work best when read against the history of medical training and practice described in their galleries."
+  }
+}
